@@ -10,6 +10,7 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+	'recommonmark',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -31,3 +32,13 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Specify the source_suffix for Markdown files.
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
+
+# Specify the master doc (the main entry point for your documentation).
+master_doc = 'index'
