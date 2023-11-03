@@ -1,3 +1,4 @@
+recommonmark==0.7.1
 Sphinx==7.2.6
 sphinx-automodapi==0.16.0
 sphinx-markdown-parser==0.2.4
