@@ -10,7 +10,7 @@ Contents
 --------
 
 .. toctree::
-   
-   unit_1
+
+   unit1
    usage
    api
