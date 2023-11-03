@@ -1,6 +1,6 @@
 # Unit 1 - Animals
 
-## Key Vocabulary
+<!-- ## Key Vocabulary
 
 ---
 
@@ -8,9 +8,9 @@
 
 1. **chemical** (n) man-made or natural substance made by changing atoms
 2. **destroy** (v) to damage something very badly; to cause it to not exist
-3. **due to** (prep) because of; as result of
+3. **due to** (prep) because of; as a result of
 4. **endangered** (adj) (of plants and animals) that may disappear soon
-5. **natural** (adj) as found in nature; not made or cause by people
+5. **natural** (adj) as found in nature; not made or caused by people
 6. **pollute** (v) to make an area or substance dirty and unhealthful
 7. **protected** (v) to keep something or someone safe from danger or injury
 8. **species** (n) types of plants or animals that have similar features
@@ -66,4 +66,4 @@
 
 ### Quizlet link for Unit 1 Vocabulary
 
-[https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt)
+[https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt) -->
