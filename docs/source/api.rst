@@ -1,4 +1,4 @@
-API
+Unit 1
 ===
 
 .. autosummary::
