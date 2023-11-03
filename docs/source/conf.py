@@ -30,22 +30,6 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_theme_options = {
-    'navigation_depth': 4,  # Customize the depth of the navigation menu.
-    'display_version': True,
-    'logo_only': False,
-}
-
-# Add more links to the navigation menu.
-html_sidebars = {
-    '**': [
-        'index.html',  # Related Pages
-        'api.html',  # Table of Contents
-        'usage.html',  # Source Link
-        'search.html',  # Search Box
-        'unit1.html',  # Your custom sidebar file (optional)
-    ],
-}
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
@@ -57,4 +41,4 @@ source_suffix = {
 }
 
 # Specify the master doc (the main entry point for your documentation).
-master_doc = 'index'
+# master_doc = 'index'
