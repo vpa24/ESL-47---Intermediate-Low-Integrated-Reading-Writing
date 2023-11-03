@@ -83,7 +83,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
 - **bad** -> **worse**
 - **far** -> **father/further**
 
-## More examples:
+### Example:
 
 1. Loving taste is always *sweeter than* sugar.
 2. That roller coaster was *scarier than* a haunted house.
