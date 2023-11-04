@@ -163,7 +163,7 @@ A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins>
 
 #### Example
 
-_Bold text is the correct topic sentences for the paragraph_
+**Bold text is the correct topic sentences for the paragraph**
 
 1. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. The cheetah is one of the fastest animals. It can run as fast as cars can drive on the motorway. In contrast to what most people think, big cats are all scared of water. Tigers and jaguars are strong swimmers.
    <ul>
@@ -190,45 +190,66 @@ _Bold text is the correct topic sentences for the paragraph_
 
 ## Word Order
 
-<div class="info">
-<span>
-<p style='margin-top:1em; text-align:center'>
-<b>WORD ORDER</b></p>
-<p style='margin-left:1em;'>
-In English sentences, the subject usually comes before the verb and the object.
-</p>
-</span>
-</div>
+In English sentences, the subject usually comes before the verb and the object. These example sentences show order common features of English word order.
 
-These example sentences show order common features of English word order.
-
-| subject   | verb | object                  |
-| :-------- | :--- | :---------------------- |
-| Squirrels | eat  | seeds, nuts, and fruit. |
-
-| subject        | verb | adjective | prepositional phrase |
-| :------------- | :--- | :-------- | :------------------- |
-| Gray squirrels | are  | common    | in Britain.          |
-
-| linker   | subject | verb            | prepositional phrase |
-| :------- | :------ | :-------------- | :------------------- |
-| However, | they    | were introduced | from North America.  |
+<table>
+   <thead>
+      <tr>subject</tr>
+      <tr>verb</tr>
+      <tr>object</tr>
+   </thead>
+   <tbody>
+      <tr>Squirrels</tr>
+      <tr>eat</tr>
+      <tr>seeds, nuts, and fruit.</tr>
+   </tbody>
+</table>
+<table>
+   <thead>
+      <tr>subject</tr>
+      <tr>verb</tr>
+      <tr>adjective</tr>
+      <tr>prepositional phrase</tr>
+   </thead>
+   <tbody>
+      <tr>Gray squirrels</tr>
+      <tr>are</tr>
+      <tr>common</tr>
+      <tr>in Britain.</tr>
+   </tbody>
+</table>
+<table>
+   <thead>
+      <tr>linker</tr>
+      <tr>subject</tr>
+      <tr>verb</tr>
+      <tr>prepositional phrase</tr>
+   </thead>
+   <tbody>
+      <tr>However,</tr>
+      <tr>they</tr>
+      <tr>were introducted</tr>
+      <tr>from North America.</tr>
+   </tbody>
+</table>
 
 #### Example
 
-1. the Mongolian / wild horse / never domesticated / Humans
-   **Humans never domesticated the Mongolian wild horse.**
-2. The native population / the harsh climate / due to / declined
-   **The native population declined due to the harsh climate.**
-3. In zoos / protected / by putting them / The scientists / the horses
-   \*\*The scientists protected the horses by putting them in zoos.
-4. Due to / the horses / extinction / this / survived
-   **Due to this, the horses survived extinction.**
-5. lives / The tiger shark /in tropical oceans / .
-   **The tiger shark lives in tropical oceans.**
-6. isn't / the whale shark / However, / dangerous / .
-   **However, the whale shark isn't dangerous.**
-7. The tiger shake / on its skin / markings / has / .
-   **The tiger shake has markings on its skins.**
-8. a large mouth / and / has / The whale shark / plankton / eats / .
-   \*\*The whale shark has a large mouth and eats plankton.
+<ol>
+   <li>the Mongolian / wild horse / never domesticated / Humans</li>
+   <strong>Humans never domesticated the Mongolian wild horse.</strong>
+   <li>The native population / the harsh climate / due to / declined</li>
+   <strong>The native population declined due to the harsh climate.</strong>
+   <li>In zoos / protected / by putting them / The scientists / the horses</li>
+   <strong>The scientists protected the horses by putting them in zoos.</strong>
+   <li>Due to / the horses / extinction / this / survived</li>
+   <strong>Due to this, the horses survived extinction.</strong>
+   <li>lives / The tiger shark /in tropical oceans / .</li>
+   <strong>The tiger shark lives in tropical oceans.</strong>
+   <li>isn't / the whale shark / However, / dangerous / .</li>
+   <strong>However, the whale shark isn't dangerous.</strong>
+   <li>The tiger shake / on its skin / markings / has / .</li>
+   <strong>The tiger shake has markings on its skins.</strong>
+   <li>a large mouth / and / has / The whale shark / plankton / eats / .</li>
+   <strong>The whale shark has a large mouth and eats plankton.</strong>
+</ol>
