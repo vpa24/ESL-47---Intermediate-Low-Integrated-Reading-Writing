@@ -148,9 +148,9 @@ For example, birds and bats are profiled by both their similarities and differen
 <h2 align="center">British and American English</h2>
 <div style="line-height: 2;">There are some similarities and some differences between <b>American English and British English</b>. English is a global language spoken and understood by millions of people around the world, and two of the most common variations of English are British English, spoken in the U.K., and American English, spoken in the U.S.  <ins>The first similarity is that <b>both American and British English share the same grammar</b></ins>. Both varieties of English have the same subject-verb agreement rules and sentence structure. <ins>Another similarity <b>is the vocabulary</b></ins>. People can use many of the same basic words and phares in the U.S. or the U.K. and people will understand them. <span style="text-decoration:underline">For example,</span> if you ask someone "Where is the bus stop?" in either the U.K or the U.S., that person will be able to help you. <ins>However, there are also many differences between <b>these two varieties of English.</b></ins> <ins>The first difference is <b>the pronunciation.</b></ins> There are many words and sounds that are pronounced differently in British English and American English. <span style="text-decortaion:underline">For instance,</span> in British English, people don't usually pronounce the "r" sound, but it is pronounced strongly in American English (such as the word "water"). <ins>The second difference is <b>the spelling.</b></ins> American English often drops the "u" in words that are spelled "colour" or "harbour" in British English. (The American spellings of these words are "color" and "harbor"). <ins><span style="text-decoration:underline">In conclusion,</span> there are both similarities and differences <b>in the varieties of the English that are used in the U.S. and the U.K.</b></ins></div>
 
-## Topic sentences
-
 ---
+
+## Topic sentences
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <span>
@@ -160,3 +160,28 @@ A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins>
 </p>
 </span>
 </div>
+
+#### Example
+
+_Bold text is the correct topic sentences for the paragraph_
+
+1. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. The cheetah is one of the fastest animals. It can run as fast as cars can drive on the motorway. In contrast to what most people think, big cats are all scared of water. Tigers and jaguars are strong swimmers.
+   <ol type="a">
+      <li> Jaguars are losing their habitat. </li>
+      <li> Humans are major threat to tigers. </li>
+      <li> **Big cats are among the world's most amazing creatures.** </li>
+   </ol>
+
+2. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. People hunt them for their skin and bones. They use their body parts to make medicine. Due to these practices, three subspecies of these big cats have become extinct in the past 80 years. Other subspecies are endangered.
+   <ol type="a">
+      <li>Jaguars are losing their habit.</li>
+      <li>**Humans are a major threat to tiger**</li>
+      <li>Big cats among the world's most amazing creatures.</li>
+   </ol>
+
+3. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. These cats live in the rainforest. As the rainforest is destroyed, they lose their hunting ground. These cats have survived for over two million years, but this may change.
+   <ol type="a">
+      <li>**Jaguars are login their habitat.**</li>
+      <li> Humans are a major threat to tigers.</li>
+      <li> Big cats among the world's most amazing creatures.</li>
+   </ol>
