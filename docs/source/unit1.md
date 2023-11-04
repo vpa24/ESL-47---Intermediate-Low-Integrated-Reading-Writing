@@ -83,16 +83,16 @@ When comparing things, the comparative form of the adjective is used. Use the co
    </thead>
    <tbody>
       <tr>
-         <td>Add *-er* to **one-syllable** adjectives. If the adjective ends in *-e*, just add *-r*.</td>
-         <td>The red squirrel is **smaller than** the gray squirrel.</td>
+         <td>Add <em>-er</em> to <strong>one-syllable</strong> adjectives. If the adjective ends in <em>-e</em>, just add <em>-r</em>.</td>
+         <td>The red squirrel is <strong>smaller than</strong> the gray squirrel.</td>
       </tr>
       <tr>
-         <td>Use *more/less* + *adjective* + *than* for adjectives with **two or more syllables**.</td>
-         <td>The gray squirrel is **more intelligent than** the red squrirel.</td>
+         <td>Use <em>more/less</em> + <em>adjective</em> + <em>than</em> for adjectives with <strong>two or more syllables</strong>.</td>
+         <td>The gray squirrel is <strong>more intelligent than</strong> the red squrirel.</td>
       </tr>
       <tr>
-         <td>If an adjective with **two syllables ends in -y**, <mark style="background: #FF5582A6;">remove</mark> the *-y* and <mark style="background: #BBFABBA6;">add</mark> *-ier*</td>
-         <td>The gray squirrel is **heavier than** the red squirrel.</td>
+         <td>If an adjective with <strong>two syllables ends in -y</strong>, <mark style="background: #FF5582A6;">remove</mark> the *-y* and <mark style="background: #BBFABBA6;">add</mark> *-ier*</td>
+         <td>The gray squirrel is <strong>heavier than</strong> the red squirrel.</td>
       </tr>
    </tbody>
 </table>
@@ -166,22 +166,22 @@ A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins>
 _Bold text is the correct topic sentences for the paragraph_
 
 1. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. The cheetah is one of the fastest animals. It can run as fast as cars can drive on the motorway. In contrast to what most people think, big cats are all scared of water. Tigers and jaguars are strong swimmers.
-   <ol type="a">
+   <ul>
       <li>Jaguars are losing their habitat. </li>
       <li>Humans are major threat to tigers. </li>
       <li class="bold">Big cats are among the world's most amazing creatures.</li>
-   </ol>
+   </ul>
 
 2. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. People hunt them for their skin and bones. They use their body parts to make medicine. Due to these practices, three subspecies of these big cats have become extinct in the past 80 years. Other subspecies are endangered.
-   <ol type="a">
+   <ul>
       <li>Jaguars are losing their habit.</li>
       <li class="bold">Humans are a major threat to tiger.</li>
       <li>Big cats among the world's most amazing creatures.</li>
-   </ol>
+   </ul>
 
 3. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. These cats live in the rainforest. As the rainforest is destroyed, they lose their hunting ground. These cats have survived for over two million years, but this may change.
-   <ol type="a">
+   <ul>
       <li class="bold">Jaguars are login their habitat.</li>
       <li>Humans are a major threat to tigers.</li>
       <li>Big cats among the world's most amazing creatures.</li>
-   </ol>
+   </ul>
