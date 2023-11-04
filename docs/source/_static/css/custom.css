@@ -24,10 +24,7 @@ th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-
+.bold,
 strong {
   color: #b25567;
   font-weight: bold;

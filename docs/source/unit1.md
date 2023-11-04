@@ -167,21 +167,21 @@ _Bold text is the correct topic sentences for the paragraph_
 
 1. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. The cheetah is one of the fastest animals. It can run as fast as cars can drive on the motorway. In contrast to what most people think, big cats are all scared of water. Tigers and jaguars are strong swimmers.
    <ol type="a">
-      <li> Jaguars are losing their habitat. </li>
-      <li> Humans are major threat to tigers. </li>
-      <li> **Big cats are among the world's most amazing creatures.** </li>
+      <li>Jaguars are losing their habitat. </li>
+      <li>Humans are major threat to tigers. </li>
+      <li class="bold">Big cats are among the world's most amazing creatures.</li>
    </ol>
 
 2. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. People hunt them for their skin and bones. They use their body parts to make medicine. Due to these practices, three subspecies of these big cats have become extinct in the past 80 years. Other subspecies are endangered.
    <ol type="a">
       <li>Jaguars are losing their habit.</li>
-      <li>**Humans are a major threat to tiger**</li>
+      <li class="bold">Humans are a major threat to tiger.</li>
       <li>Big cats among the world's most amazing creatures.</li>
    </ol>
 
 3. <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>. These cats live in the rainforest. As the rainforest is destroyed, they lose their hunting ground. These cats have survived for over two million years, but this may change.
    <ol type="a">
-      <li>**Jaguars are login their habitat.**</li>
-      <li> Humans are a major threat to tigers.</li>
-      <li> Big cats among the world's most amazing creatures.</li>
+      <li class="bold">Jaguars are login their habitat.</li>
+      <li>Humans are a major threat to tigers.</li>
+      <li>Big cats among the world's most amazing creatures.</li>
    </ol>
