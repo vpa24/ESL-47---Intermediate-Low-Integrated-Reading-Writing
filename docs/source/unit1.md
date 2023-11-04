@@ -128,7 +128,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ## Compare and contrast using Venn diagram
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info">
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>Using a Venn diagram</b></p>
@@ -185,3 +185,50 @@ _Bold text is the correct topic sentences for the paragraph_
       <li>Humans are a major threat to tigers.</li>
       <li>Big cats among the world's most amazing creatures.</li>
    </ul>
+
+---
+
+## Word Order
+
+<div class="info">
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>WORD ORDER</b></p>
+<p style='margin-left:1em;'>
+In English sentences, the subject usually comes before the verb and the object.
+</p>
+</span>
+</div>
+
+These example sentences show order common features of English word order.
+
+| subject   | verb | object                  |
+| :-------- | :--- | :---------------------- |
+| Squirrels | eat  | seeds, nuts, and fruit. |
+
+| subject        | verb | adjective | prepositional phrase |
+| :------------- | :--- | :-------- | :------------------- |
+| Gray squirrels | are  | common    | in Britain.          |
+
+| linker   | subject | verb            | prepositional phrase |
+| :------- | :------ | :-------------- | :------------------- |
+| However, | they    | were introduced | from North America.  |
+
+#### Example
+
+1. the Mongolian / wild horse / never domesticated / Humans
+   **Humans never domesticated the Mongolian wild horse.**
+2. The native population / the harsh climate / due to / declined
+   **The native population declined due to the harsh climate.**
+3. In zoos / protected / by putting them / The scientists / the horses
+   \*\*The scientists protected the horses by putting them in zoos.
+4. Due to / the horses / extinction / this / survived
+   **Due to this, the horses survived extinction.**
+5. lives / The tiger shark /in tropical oceans / .
+   **The tiger shark lives in tropical oceans.**
+6. isn't / the whale shark / However, / dangerous / .
+   **However, the whale shark isn't dangerous.**
+7. The tiger shake / on its skin / markings / has / .
+   **The tiger shake has markings on its skins.**
+8. a large mouth / and / has / The whale shark / plankton / eats / .
+   \*\*The whale shark has a large mouth and eats plankton.
