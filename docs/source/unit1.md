@@ -235,19 +235,19 @@ In English sentences, the subject usually comes before the verb and the object. 
 
 <ol>
    <li>the Mongolian / wild horse / never domesticated / Humans</li>
-   <strong>Humans never domesticated the Mongolian wild horse.</strong>
+   <strong class="ml-2em">Humans never domesticated the Mongolian wild horse.</strong>
    <li>The native population / the harsh climate / due to / declined</li>
-   <strong>The native population declined due to the harsh climate.</strong>
+   <strong class="ml-2em">The native population declined due to the harsh climate.</strong>
    <li>In zoos / protected / by putting them / The scientists / the horses</li>
-   <strong>The scientists protected the horses by putting them in zoos.</strong>
+   <strong class="ml-2em">The scientists protected the horses by putting them in zoos.</strong>
    <li>Due to / the horses / extinction / this / survived</li>
-   <strong>Due to this, the horses survived extinction.</strong>
+   <strong class="ml-2em">Due to this, the horses survived extinction.</strong>
    <li>lives / The tiger shark /in tropical oceans / .</li>
-   <strong>The tiger shark lives in tropical oceans.</strong>
+   <strong class="ml-2em">The tiger shark lives in tropical oceans.</strong>
    <li>isn't / the whale shark / However, / dangerous / .</li>
-   <strong>However, the whale shark isn't dangerous.</strong>
+   <strong class="ml-2em">However, the whale shark isn't dangerous.</strong>
    <li>The tiger shake / on its skin / markings / has / .</li>
-   <strong>The tiger shake has markings on its skins.</strong>
+   <strong class="ml-2em">The tiger shake has markings on its skins.</strong>
    <li>a large mouth / and / has / The whale shark / plankton / eats / .</li>
-   <strong>The whale shark has a large mouth and eats plankton.</strong>
+   <strong class="ml-2em">The whale shark has a large mouth and eats plankton.</strong>
 </ol>
