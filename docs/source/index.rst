@@ -9,5 +9,6 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
 Contents
 --------
 .. toctree::
+   :maxdepth: 2
    unit1.md
 
