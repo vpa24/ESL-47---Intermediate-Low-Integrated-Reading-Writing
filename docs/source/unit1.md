@@ -68,6 +68,8 @@
 
 [https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt)
 
+## Comparative Adjectives
+
 When comparing things, the comparative form of the adjective is used. Use the comparative form of an adjective + _than_ to compare two people or things.
 
 <table>
@@ -93,7 +95,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
    </tbody>
 </table>
 
-## Irregular comparative adjectives
+### Irregular comparative adjectives
 
 - **good** -> **better**
 - **bad** -> **worse**
