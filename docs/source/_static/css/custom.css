@@ -1,6 +1,6 @@
 /* Fill viewport horizontally */
 .wy-nav-content {
-    max-width: inherit;
+  max-width: inherit;
 }
 
 h2 {
@@ -8,12 +8,13 @@ h2 {
 }
 
 h3 {
-  color: #afe1af;
+  color: #355e3b;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-bottom: 24px;
 }
 
 td,
