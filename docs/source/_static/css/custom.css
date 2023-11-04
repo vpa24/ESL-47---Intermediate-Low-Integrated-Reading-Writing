@@ -28,6 +28,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-b {
+strong {
   color: #b25567;
+  font-weight: bold;
 }
