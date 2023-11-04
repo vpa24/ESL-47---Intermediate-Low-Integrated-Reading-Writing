@@ -75,26 +75,22 @@
 When comparing things, the comparative form of the adjective is used. Use the comparative form of an adjective + _than_ to compare two people or things.
 
 <table>
-   <thead>
-      <tr>
-         <th>Rule</th>
-         <th>Example</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>Add <em>-er</em> to <strong>one-syllable</strong> adjectives. If the adjective ends in <em>-e</em>, just add <em>-r</em>.</td>
-         <td>The red squirrel is <strong>smaller than</strong> the gray squirrel.</td>
-      </tr>
-      <tr>
-         <td>Use <em>more/less</em> + <em>adjective</em> + <em>than</em> for adjectives with <strong>two or more syllables</strong>.</td>
-         <td>The gray squirrel is <strong>more intelligent than</strong> the red squrirel.</td>
-      </tr>
-      <tr>
-         <td>If an adjective with <strong>two syllables ends in -y</strong>, <mark style="background: #FF5582A6;">remove</mark> the *-y* and <mark style="background: #BBFABBA6;">add</mark> *-ier*</td>
-         <td>The gray squirrel is <strong>heavier than</strong> the red squirrel.</td>
-      </tr>
-   </tbody>
+   <tr>
+      <th>Rule</th>
+      <th>Example</th>
+   </tr>
+   <tr>
+      <td>Add <em>-er</em> to <strong>one-syllable</strong> adjectives. If the adjective ends in <em>-e</em>, just add <em>-r</em>.</td>
+      <td>The red squirrel is <strong>smaller than</strong> the gray squirrel.</td>
+   </tr>
+   <tr>
+      <td>Use <em>more/less</em> + <em>adjective</em> + <em>than</em> for adjectives with <strong>two or more syllables</strong>.</td>
+      <td>The gray squirrel is <strong>more intelligent than</strong> the red squrirel.</td>
+   </tr>
+   <tr>
+      <td>If an adjective with <strong>two syllables ends in -y</strong>, <mark style="background: #FF5582A6;">remove</mark> the *-y* and <mark style="background: #BBFABBA6;">add</mark> *-ier*</td>
+      <td>The gray squirrel is <strong>heavier than</strong> the red squirrel.</td>
+   </tr>
 </table>
 
 ### Irregular comparative adjectives
@@ -193,44 +189,46 @@ A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins>
 In English sentences, the subject usually comes before the verb and the object. These example sentences show order common features of English word order.
 
 <table>
-   <thead>
-      <tr>subject</tr>
-      <tr>verb</tr>
-      <tr>object</tr>
-   </thead>
-   <tbody>
-      <tr>Squirrels</tr>
-      <tr>eat</tr>
-      <tr>seeds, nuts, and fruit.</tr>
-   </tbody>
+   <tr>
+      <th>subject</th>
+      <th>verb</th>
+      <th>object</th>
+   </tr>
+   <tr>
+      <td>Squirrels</td>
+      <td>eat</td>
+      <td>seeds, nuts, and fruit.</td>
+   </tr>
 </table>
+
 <table>
-   <thead>
-      <tr>subject</tr>
-      <tr>verb</tr>
-      <tr>adjective</tr>
-      <tr>prepositional phrase</tr>
-   </thead>
-   <tbody>
-      <tr>Gray squirrels</tr>
-      <tr>are</tr>
-      <tr>common</tr>
-      <tr>in Britain.</tr>
-   </tbody>
+   <tr>
+      <th>subject</th>
+      <th>verb</th>
+      <th>adjective</th>
+      <th>prepositional phrase</th>
+   </tr>
+   <tr>
+      <td>Gray squirrels</td>
+      <td>are</td>
+      <td>common</td>
+      <td>in Britain.</td>
+   </tr>
 </table>
+
 <table>
-   <thead>
-      <tr>linker</tr>
-      <tr>subject</tr>
-      <tr>verb</tr>
-      <tr>prepositional phrase</tr>
-   </thead>
-   <tbody>
-      <tr>However,</tr>
-      <tr>they</tr>
-      <tr>were introducted</tr>
-      <tr>from North America.</tr>
-   </tbody>
+   <tr>
+      <th>linker</th>
+      <th>subject</th>
+      <th>verb</th>
+      <th>prepositional phrase</th>
+   </tr>
+   <tr>
+      <td>However,</td>
+      <td>they</td>
+      <td>were introducted</td>
+      <td>from North America.</td>
+   </tr>
 </table>
 
 #### Example
