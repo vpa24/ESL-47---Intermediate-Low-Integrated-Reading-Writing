@@ -1,5 +1,9 @@
 .. title:: Home
 
+.. toctree::
+   :hidden:
+   unit1.md
+   
 Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation!
 ==============================================================================
 
@@ -10,8 +14,3 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
 Contents
 --------
 
-.. toctree::
-   
-   unit1.md
-   usage.md
-   api
