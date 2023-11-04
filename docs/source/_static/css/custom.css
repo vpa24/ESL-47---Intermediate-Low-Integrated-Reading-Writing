@@ -1,3 +1,8 @@
+/* Fill viewport horizontally */
+.wy-nav-content {
+    max-width: inherit;
+}
+
 h2 {
   color: #0173bc;
 }
