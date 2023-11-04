@@ -250,3 +250,68 @@ In English sentences, the subject usually comes before the verb and the object. 
    <li>a large mouth / and / has / The whale shark / plankton / eats / .</li>
    <strong class="ml-2em">The whale shark has a large mouth and eats plankton.</strong>
 </ol>
+
+---
+
+## Combing Sentences
+
+### AND and OR
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<p style='margin-left:1em;'>
+When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.<br/>
+In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:<br/>
+<p style="color:#00a6e9"><span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> sharp teeth. <span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> a powerful bite.</p>
+<p style="color:#00a6e9">-> The tiger shark has sharp teeth <b>and</b> a powerful bite.</p>
+In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
+<p style="color:#00a6e9"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</p>
+<p style="color:#00a6e9">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</p>
+</p>
+</span>
+</div>
+
+#### Example
+
+1. The whale shark is gray-blue. The whale shark has light spots on its body.
+   The whale shark is gray-blue **and** has light spots on its body.
+2. The tiger shark is gray-brown. The tiger shark has a striped pattern on its body.
+   The tiger shark is gray-brown **and** has striped pattern on its body.
+3. The tiger shark eats large sea creatures. The tiger shark can be dangerous to human.
+   The tiger shark eats large sea creatures **and** can be dangerous to human.
+4. The whale shark is not aggressive. The whale shark is not dangerous to swim with.
+   The whale shark is not aggressive **or** dangerous to swim with.
+5. The tiger shark is not an endangered species. The tiger shark is not a protected species.
+   The tiger shark is not endangered species **or** a protected.
+6. The whale shark is an endanger species. The whale shark is a protected species.
+   The whale shark is an endanger species **and** a protected.
+
+## BUT and WHEREAS
+
+> [!info] but an whereas
+> _But_ and _whereas_ are used to contrast two sentences. _Whereas_ is more formal than but.<br/>
+>
+> <p style="color:#00a6e9">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite. </p>
+
+### Example
+
+1. Gray squirrels are seem as pests, **but/whereas** red squirrels are protected.
+2. In Canada, grizzly bears live mainly in the forests, **whereas/but** polar bears live mainly on the ice.
+
+## BOTH and NEITHER
+
+> [!info] both an neither
+> You can use other phrases to compare two difference things.<br/><br/>
+> If two things/people have the same characteristic, use _both ... and ...._ :
+>
+> <p style="color:#00a6e9"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</p>
+>  If they do not have a particular characteristic, use *neither ... nor ....* : 
+> <p style="color:#00a6e9"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</p>
+
+### Example
+
+1. **Neither** British people **nor** scientists support destroying the population of gray squirrels.
+2. **Both** the grizzly bear **and** the poplar bear are endangered species in some areas. Their populations are decreasing.
+3. **Neither** the Arabian oryx **nor** the snow leopard is safe from hunters. The Arabian oryx is killed for its horns and the snow leopard for its fur.
+4. Not including their tails, **both** red **and** gray squirrels are under 15 inches long.
