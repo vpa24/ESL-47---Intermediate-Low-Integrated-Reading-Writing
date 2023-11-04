@@ -261,8 +261,8 @@ In English sentences, the subject usually comes before the verb and the object. 
 <span>
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>
-When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.<br/>
-In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:
+When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.
+<div>In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:</div>
 <div style="color:#0173bc"><span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> sharp teeth. <span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> a powerful bite.</div>
 <div style="color:#0173bc">-> The tiger shark has sharp teeth <b>and</b> a powerful bite.</div>
 In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
@@ -274,42 +274,56 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 #### Example
 
-1. The whale shark is gray-blue. The whale shark has light spots on its body.
-   The whale shark is gray-blue **and** has light spots on its body.
-2. The tiger shark is gray-brown. The tiger shark has a striped pattern on its body.
-   The tiger shark is gray-brown **and** has striped pattern on its body.
-3. The tiger shark eats large sea creatures. The tiger shark can be dangerous to human.
-   The tiger shark eats large sea creatures **and** can be dangerous to human.
-4. The whale shark is not aggressive. The whale shark is not dangerous to swim with.
-   The whale shark is not aggressive **or** dangerous to swim with.
-5. The tiger shark is not an endangered species. The tiger shark is not a protected species.
-   The tiger shark is not endangered species **or** a protected.
-6. The whale shark is an endanger species. The whale shark is a protected species.
-   The whale shark is an endanger species **and** a protected.
+<ul>
+   <li>The whale shark is gray-blue. The whale shark has light spots on its body.</li>
+   <div class="ml-2em">The whale shark is gray-blue <strong>and</strong> has light spots on its body.</div>
+   <li>The tiger shark is gray-brown. The tiger shark has a striped pattern on its body.</li>
+   <div class="ml-2m">The tiger shark is gray-brown <strong>and</strong> has striped pattern on its body.</div>
+   <li>The tiger shark eats large sea creatures. The tiger shark can be dangerous to human.</li>
+   <div class="ml-2m">The tiger shark eats large sea creatures <strong>and</strong> can be dangerous to human.</div>
+   <li>The whale shark is not aggressive. The whale shark is not dangerous to swim with.</li>
+   <div class="ml-2m">The whale shark is not aggressive <strong>or</strong> dangerous to swim with.</div>
+   <li>The tiger shark is not an endangered species. The tiger shark is not a protected species.</li>
+   <div class="ml-2m">The tiger shark is not endangered species <strong>or</strong> a protected.</div>
+   <li>The whale shark is an endanger species. The whale shark is a protected species.</li>
+   <div class="ml-2m">The whale shark is an endanger species **and** a protected.</div>
+</ul>
 
-## BUT and WHEREAS
+### BUT and WHEREAS
 
-> [!info] but an whereas
-> _But_ and _whereas_ are used to contrast two sentences. _Whereas_ is more formal than but.<br/>
->
-> <p style="color:#0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite. </p>
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<p style='margin-left:1em;'>
+<ins>A <b>but</b> and <b>whereas</b> are used to contrast two sentences.</ins> <b>Whereas</b> is more formal than <b>but</b>.
+<div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
+</p>
+</span>
+</div>
 
-### Example
+#### Example
 
 1. Gray squirrels are seem as pests, **but/whereas** red squirrels are protected.
 2. In Canada, grizzly bears live mainly in the forests, **whereas/but** polar bears live mainly on the ice.
 
-## BOTH and NEITHER
+### BOTH and NEITHER
 
-> [!info] both an neither
-> You can use other phrases to compare two difference things.<br/><br/>
-> If two things/people have the same characteristic, use _both ... and ...._ :
->
-> <p style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</p>
->  If they do not have a particular characteristic, use *neither ... nor ....* : 
-> <p style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</p>
 
-### Example
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<p style='margin-left:1em;'>
+You can use other phrases to compare two difference things.
+<div>If <ins>two things/people have the same characteristic</ins>, use <b>both ... and ....</b> :</div>
+<div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
+<div style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</div>
+<div>If <ins>they do not have a particular characteristic</ins>, use <b>neither ... nor ....</b>:</div>
+<div style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</div>
+</p>
+</span>
+</div>
+
+#### Example
 
 1. **Neither** British people **nor** scientists support destroying the population of gray squirrels.
 2. **Both** the grizzly bear **and** the poplar bear are endangered species in some areas. Their populations are decreasing.
