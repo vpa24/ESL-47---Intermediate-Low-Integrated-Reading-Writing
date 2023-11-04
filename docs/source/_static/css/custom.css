@@ -24,8 +24,11 @@ th {
   padding: 8px;
 }
 
-.bold,
 strong {
   color: #b25567;
   font-weight: bold;
+}
+
+.bold {
+  color: #b25567;
 }
