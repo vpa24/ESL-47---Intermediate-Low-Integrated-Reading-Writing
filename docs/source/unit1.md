@@ -274,7 +274,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 #### Example
 
-<ul>
+<ol>
    <li>The whale shark is gray-blue. The whale shark has light spots on its body.</li>
    <div class="ml-2em">The whale shark is gray-blue <strong>and</strong> has light spots on its body.</div>
    <li>The tiger shark is gray-brown. The tiger shark has a striped pattern on its body.</li>
@@ -287,7 +287,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
    <div class="ml-2m">The tiger shark is not endangered species <strong>or</strong> a protected.</div>
    <li>The whale shark is an endanger species. The whale shark is a protected species.</li>
    <div class="ml-2m">The whale shark is an endanger species **and** a protected.</div>
-</ul>
+</ol>
 
 ### BUT and WHEREAS
 
