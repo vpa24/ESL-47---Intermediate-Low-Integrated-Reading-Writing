@@ -101,24 +101,23 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 #### Example
 
-1. Loving taste is always _sweeter than_ sugar.
-2. That roller coaster was _scarier than_ a haunted house.
-3. Light travels _faster than_ sound.
-4. The weather today is _better than_ it was yesterday.
-5. The weather yesterday was _worse than_ it is today.
-6. The story is _funnier than_ that story.
-7. This book is _more interesting than_ that book.
-8. Joe is _smarter than_ his brother.
-9. A movie star is _more famous than_ I am.
-10. A highway is _wider than_ an alley.
-11. The Pacific Ocean is _deeper than_ the Mediterranean Sea.
-12. This story is _more confusing than_ that story.
-13. Thailand is _hotter than_ Korea.
-14. A giraffe's neck is _thinner than_ an elephant's neck.
-15. My house is _farther_ from downtown _than_ your house.
-16. Reading a good book is _better than_ watching television.
-17. My English class is _easier than_ my history class.
-18. The groom was _more nervous_ at the wedding _than_ the bride.
+1. That roller coaster was **scarier than** a haunted house.
+2. Light travels **faster than** sound.
+3. The weather today is **better than** it was yesterday.
+4. The weather yesterday was **worse than** it is today.
+5. The story is **funnier than** that story.
+6. This book is **more interesting than** that book.
+7. Joe is **smarter than** his brother.
+8. A movie star is **more famous than** I am.
+9. A highway is **wider than** an alley.
+10. The Pacific Ocean is **deeper than** the Mediterranean Sea.
+11. This story is **more confusing than** that story.
+12. Thailand is **hotter than** Korea.
+13. A giraffe's neck is **thinner than** an elephant's neck.
+14. My house is **farther** from downtown **than** your house.
+15. Reading a good book is **better than** watching television.
+16. My English class is **easier than** my history class.
+17. The groom was **more nervous** at the wedding **than** the bride.
 
 ---
 
