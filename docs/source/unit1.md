@@ -286,7 +286,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
    <li>The tiger shark is not an endangered species. The tiger shark is not a protected species.</li>
    <div class="ml-2m">The tiger shark is not endangered species <strong>or</strong> a protected.</div>
    <li>The whale shark is an endanger species. The whale shark is a protected species.</li>
-   <div class="ml-2m">The whale shark is an endanger species **and** a protected.</div>
+   <div class="ml-2m">The whale shark is an endanger species <strong>and</strong> a protected.</div>
 </ol>
 
 ### BUT and WHEREAS
