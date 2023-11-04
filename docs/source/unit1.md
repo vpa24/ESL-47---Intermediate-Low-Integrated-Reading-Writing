@@ -262,12 +262,12 @@ In English sentences, the subject usually comes before the verb and the object. 
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>
 When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.<br/>
-In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:<br/>
-<p style="color:#00a6e9"><span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> sharp teeth. <span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> a powerful bite.</p>
-<p style="color:#00a6e9">-> The tiger shark has sharp teeth <b>and</b> a powerful bite.</p>
+In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:
+<div style="color:#0173bc"><span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> sharp teeth. <span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> a powerful bite.</div>
+<div style="color:#0173bc">-> The tiger shark has sharp teeth <b>and</b> a powerful bite.</div>
 In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
-<p style="color:#00a6e9"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</p>
-<p style="color:#00a6e9">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</p>
+<div style="color:#0173bc"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</div>
+<div style="color:#0173bc">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</div>
 </p>
 </span>
 </div>
@@ -292,7 +292,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 > [!info] but an whereas
 > _But_ and _whereas_ are used to contrast two sentences. _Whereas_ is more formal than but.<br/>
 >
-> <p style="color:#00a6e9">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite. </p>
+> <p style="color:#0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite. </p>
 
 ### Example
 
@@ -305,9 +305,9 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 > You can use other phrases to compare two difference things.<br/><br/>
 > If two things/people have the same characteristic, use _both ... and ...._ :
 >
-> <p style="color:#00a6e9"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</p>
+> <p style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</p>
 >  If they do not have a particular characteristic, use *neither ... nor ....* : 
-> <p style="color:#00a6e9"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</p>
+> <p style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</p>
 
 ### Example
 
