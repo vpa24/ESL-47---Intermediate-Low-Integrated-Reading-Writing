@@ -1,9 +1,6 @@
 Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation!
 ==============================================================================
 
-.. toctree::
-   :hidden::
-   unit1.md
 
 .. .. note::
 
@@ -11,4 +8,6 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
 
 Contents
 --------
+.. toctree::
+   unit1.md
 
