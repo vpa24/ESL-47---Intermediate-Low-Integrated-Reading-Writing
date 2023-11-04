@@ -30,9 +30,12 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# These folders are copied to the documentation's HTML output
+html_static_path = ['_static']
+
 # Add your custom CSS files to the html_css_files list.
 html_css_files = [
-    "/_static/custom.css"
+    'custom.css',
 ]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
