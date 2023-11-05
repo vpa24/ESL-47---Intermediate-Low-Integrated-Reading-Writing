@@ -8,6 +8,7 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
    <br>
 
 .. image:: _static/images/IMG_3795.AVIF.jpg
+.. image:: _static/images/5622342.jpg
 
 .. .. note::
 
