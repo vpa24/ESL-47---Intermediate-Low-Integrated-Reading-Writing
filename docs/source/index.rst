@@ -12,6 +12,10 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
 .. image:: _static/images/5622342.jpg
    :align: right
 
+.. raw:: html
+
+   <br>
+   
 .. .. note::
 
    This project is under active development.
