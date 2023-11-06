@@ -64,7 +64,7 @@
 5. The butterfly also **attaches** its eggs to this plant. When the plant dies, the butterfly eggs also die.
 6. I am comparing and **contrasting** the efforts of different organizations to protect endangered species.
 
-### Quizlet link for Unit 1 Vocabulary
+### Quizlet link to study the Unit 1 Words
 
 [https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/825675006/unit-1-vocabulary-words-prism-reading-writing-2-flash-cards/?i=777wu&x=1jqt)
 
@@ -307,7 +307,6 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 2. In Canada, grizzly bears live mainly in the forests, **whereas/but** polar bears live mainly on the ice.
 
 ### BOTH and NEITHER
-
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <span>
