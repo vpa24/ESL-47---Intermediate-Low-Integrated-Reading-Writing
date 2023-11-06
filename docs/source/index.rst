@@ -1,3 +1,4 @@
+.. title:: Home
 Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation!
 ==============================================================================
 
