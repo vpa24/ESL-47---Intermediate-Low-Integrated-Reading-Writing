@@ -92,6 +92,8 @@
 
 [https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
 
+---
+
 ## BECAUSE and BECAUSE OF
 
 Use a **because** _clause_ or **because of** _phrase_ to give an explanation for something.
@@ -124,6 +126,8 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 8. Tanya needed a ladder **because of** the broken light.
 9. Joseph couldn't take a vacation **because of** his busy work schedule.
 10. Marietta didn't come to class **because** she had a bad headache.
+
+---
 
 ## Prefixes
 
