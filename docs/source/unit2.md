@@ -92,15 +92,15 @@
 
 [https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
 
-## BECAUE and BECAUE OF
+## BECAUSE and BECAUSE OF
 
 Use a **because** _clause_ or **because of** _phrase_ to give an explanation for something.
 Use **because** in a clause with _subject and verb_. Use **because of** _before a noun to make a phrase_.
 
 <table>
 	<tr>
-		<th>BECAUE + CLAUSE</th>
-		<th>BECAUE OF + NOUN PHRASE</th>
+		<th>BECAUSE + CLAUSE</th>
+		<th>BECAUSE OF + NOUN PHRASE</th>
 	</tr>
 	<tr>
 		<td>Ana can't reach the smoke alarm <strong>because</strong> the ceiling is too high.</td>
