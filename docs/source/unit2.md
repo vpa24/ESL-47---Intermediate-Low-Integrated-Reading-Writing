@@ -179,7 +179,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 ### Example
 
-#### Example 0
+**PART A**
 
 1. **re**build - to build again
 2. **en**large - to make larger
@@ -188,7 +188,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 5. **de**cline - to slowly become less, worse, or lower
 6. **un**likely - probarly not going to happen
 
-#### Example 1
+**PART B**
 
 1. After an accident during testing, the company decided the car was **unsafe**.
 2. He deleted the file by mistake, so he had to **rewrite** this paper.
