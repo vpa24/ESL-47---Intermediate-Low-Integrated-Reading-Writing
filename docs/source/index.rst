@@ -6,7 +6,6 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
    :align: center
 
 .. rst-class: center
-
 ===================
 Are You Ready For The Final Tests?
 ===================
