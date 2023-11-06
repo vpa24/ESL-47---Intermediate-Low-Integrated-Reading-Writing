@@ -318,7 +318,7 @@ You can use other phrases to compare two difference things.
 <div>If <ins>two things/people have the same characteristic</ins>, use <b>both ... and ....</b> :</div>
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
 <div style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</div>
-<div>If <ins>they do not have a particular characteristic</ins>, use <b>neither ... nor ....</b>:</div>
+<div>If <ins>they do not have a particular characteristic</ins>, use <b>neither ... nor ....</b> :</div>
 <div style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</div>
 </p>
 </span>
@@ -337,5 +337,35 @@ You can use other phrases to compare two difference things.
 
 <ol>
 <li>I don't linke hambugers. I don't linke hot dogs.</li>
-<div class="ml-2em">I don't like hambugers <b>or</b> hot dogs.</div>
+<div class="ml-2em">I don't like hambugers <strong>or</strong> hot dogs.</div>
+<li>I don't linke hambugers. I don't linke hot dogs.</li>
+<div class="ml-2em">I don't like hambugers <strong>or</strong> hot dogs.</div>
+<li>George rode his bike to school. George rode his bike to Walmart.</li>
+<div class="ml-2em">Goerge rode his bike to school <strong>and</strong> Walmart.</div>
+<li>Atlanta is the capital of Georgia. It is the largest city of Georgia.</li>
+<div class="ml-2em">Atlanta is the capital of Georgia <strong>and</strong>largest city in Georgia.</div>
+<li>Barbara flew to California. Paige flew to California.</li>
+<div class="ml-2em">Barbara <strong>Paige</strong> flew to California.</div>
+<li>I can't go to the game. I can't go to the play.</li>
+<div class="ml-2em">I can't go to the game <strong>or</strong> (to) the play.</div>
+<li>Every morning Jeffery brushes his teeth. Every morning Jeffery combs his hair.</li>
+<div class="ml-2em">Every morning Jeffery brushes his teeth <strong>and</strong> combs his hair.</div>
+<li>My cat ran out the door. My cat climbed a tree.</li>
+<div class="ml-2em">My cat ran out the door <strong>and</strong> climbed a tree.</div>
+<li>Don wanted pizza for dinner. His wife wanted Chinese food.</li>
+<div class="ml-2em">Don wanted pizza for dinner, <strong>and</strong> his wife wanted Chinese food.</div>
+<li>Cathy might want pizza for dinner. Cathy might want hambugers for dinner.</li>
+<div class="ml-2em">Cathy might want pizza <strong>and</strong> hambugers for dinner.</div>
+<li>We are going to the park. We are going to have a picnic. We are going to play soccer.</li>
+<div class="ml-2em">We are goint to go to the park, to have a picnic <strong>and</strong> to play soccer.</div>
+<li>We couldn't find the ball in the back yard. We cound't find the cup in the back yard.</li>
+<div class="ml-2em">We cound't find the ball in the back yard <strong>or</strong> cup.</div>
+<li>We watched the monkeys at the zoo. We watched the lions at the zoo. We watched the elephants at the zoo.</li>
+<div class="ml-2em">We watched <strong>the monkeys, lions, and elephants</strong> at the zoo.</div>
+<li>Our students enjoy holidays. Our students bring food to share.</li>
+<div class="ml-2em">Our students enjoy holidays <strong>and</strong> bring food to share.</div>
+<li>Marcy brought a cake. It was chocolate.</li>
+<div class="ml-2em">Marcy brought a chocolate cake.</div>
+<li>I practice English in class. I practice English on my computer. I practice English with my friends.</li>
+<div class="ml-2em">I practice English <strong>in class, on my computer, and with my friends.</strong></div>
 </ol>
