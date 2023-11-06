@@ -68,10 +68,6 @@
 7. The biggest **challenge** we face is to protect the planet.
 8. Human activity **contributes** climate change.
 
-### Quizlet link to study the Unit 2 Words
-
-[https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
-
 ### ENVIRONMENT COLLOCATIONS
 
 1. **climate change**
@@ -90,4 +86,41 @@
 4. Tree absorb **cacbon dioxide** and give off oxygen.
 5. All over the world, **evironmental groups** are working to educate people about the dangers of deforestation and habital destruction.
 6. Fresh water is the most precious **natural resource** on Earth.
-7. Thousands of unquie plants, animals, birds, and insects live in the **tropical rainforsets** of South America and Southeast Asia. 
+7. Thousands of unquie plants, animals, birds, and insects live in the **tropical rainforsets** of South America and Southeast Asia.
+
+### Quizlet link to study the Unit 2 Words
+
+[https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
+
+## BECAUE and BECAUE OF
+
+Use a **because** _clause_ or **because of** _phrase_ to give an explanation for something.
+Use **because** in a clause with _subject and verb_. Use **because of** _before a noun to make a phrase_.
+
+<table>
+	<tr>
+		<th>BECAUE + CLAUSE</th>
+		<th>BECAUE OF + NOUN PHRASE</th>
+	</tr>
+	<tr>
+		<td>Ana can't reach the smoke alarm <strong>because</strong> the ceiling is too high.</td>
+		<td>Ana can't reach the smoke alarm <strong>because of</strong> the high ceiling.</td> 
+	</tr>
+	<tr>
+		<td><strong>Because</strong> the ceiling is too hight, Ana can't reach the smoke alarm.</td>
+		<td><strong>because of</strong>the high ceiling, Ana can't reach the smoke alarm  .</td> 
+	</tr>
+</table>
+
+#### Example
+
+1. Stan borrowed some money **because of** he wants to buy a car.
+2. Dan travels a lot **because** of his job.
+3. Alfredo and Maria were late **because of** a flat tire.
+4. Dolores studied for three hours **because** she had a big test.
+5. Tran called the bulding manager **because** his window was broken.
+6. Ana couldn't sleep **because** the baby was crying.
+7. I couldn't go to work **because** my car broke down.
+8. Tanya needed a ladder **because of** the broken light.
+9. Joseph couldn't take a vacation **because of** his busy work schedule.
+10. Marietta didn't come to class **because** she had a bad headache.
