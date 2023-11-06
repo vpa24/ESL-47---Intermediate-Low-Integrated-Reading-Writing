@@ -1,4 +1,4 @@
-# Unit 2: The Environment
+# Unit 2 - The Environment
 
 ---
 
