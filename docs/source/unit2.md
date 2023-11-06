@@ -125,7 +125,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 9. Joseph couldn't take a vacation **because of** his busy work schedule.
 10. Marietta didn't come to class **because** she had a bad headache.
 
-## PREFIXES
+## Prefixes
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <span>
