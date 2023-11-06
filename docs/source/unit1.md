@@ -121,7 +121,9 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ---
 
-## Compare and contrast using Venn diagram
+## Compare and Contrast
+
+### Compare and contrast using Venn diagram
 
 <div class="info">
 <span>
@@ -138,7 +140,7 @@ For example, birds and bats are profiled by both their similarities and differen
 
 ---
 
-## Example Paragraphs: 2 Similarities + 2 Differences
+### Example Paragraphs: 2 Similarities + 2 Differences
 
 <h2 align="center">British and American English</h2>
 <div style="line-height: 2;">There are some similarities and some differences between <b>American English and British English</b>. English is a global language spoken and understood by millions of people around the world, and two of the most common variations of English are British English, spoken in the U.K., and American English, spoken in the U.S.  <ins>The first similarity is that <b>both American and British English share the same grammar</b></ins>. Both varieties of English have the same subject-verb agreement rules and sentence structure. <ins>Another similarity <b>is the vocabulary</b></ins>. People can use many of the same basic words and phares in the U.S. or the U.K. and people will understand them. <span style="text-decoration:underline">For example,</span> if you ask someone "Where is the bus stop?" in either the U.K or the U.S., that person will be able to help you. <ins>However, there are also many differences between <b>these two varieties of English.</b></ins> <ins>The first difference is <b>the pronunciation.</b></ins> There are many words and sounds that are pronounced differently in British English and American English. <span style="text-decortaion:underline">For instance,</span> in British English, people don't usually pronounce the "r" sound, but it is pronounced strongly in American English (such as the word "water"). <ins>The second difference is <b>the spelling.</b></ins> American English often drops the "u" in words that are spelled "colour" or "harbour" in British English. (The American spellings of these words are "color" and "harbor"). <ins><span style="text-decoration:underline">In conclusion,</span> there are both similarities and differences <b>in the varieties of the English that are used in the U.S. and the U.K.</b></ins></div>
