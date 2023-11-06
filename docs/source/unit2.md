@@ -1,8 +1,8 @@
 # Unit 2: The Environment
 
-## Key Vocabulary
-
 ---
+
+## Key Vocabulary
 
 ### Our Changing Planet
 
