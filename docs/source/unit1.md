@@ -330,3 +330,12 @@ You can use other phrases to compare two difference things.
 2. **Both** the grizzly bear **and** the poplar bear are endangered species in some areas. Their populations are decreasing.
 3. **Neither** the Arabian oryx **nor** the snow leopard is safe from hunters. The Arabian oryx is killed for its horns and the snow leopard for its fur.
 4. Not including their tails, **both** red **and** gray squirrels are under 15 inches long.
+
+## Example of using the words but, and, and or
+
+**Most sentences are simple sentences, not compound sentences.**
+
+<ol>
+<li>I don't linke hambugers. I don't linke hot dogs.</li>
+<div class="ml-2em">I don't like hambugers <b>or</b> hot dogs.</div>
+</ol>
