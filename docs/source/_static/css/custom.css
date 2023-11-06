@@ -34,6 +34,9 @@ em {
   color: #b25567;
 }
 
+.center {
+  text-algin: center;
+}
 .info {
   background-color: #e3b5a6;
   border-left: solid #af242a 4px;
