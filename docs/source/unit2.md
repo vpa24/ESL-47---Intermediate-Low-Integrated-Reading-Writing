@@ -108,7 +108,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 	</tr>
 	<tr>
 		<td><strong>Because</strong> the ceiling is too hight, Ana can't reach the smoke alarm.</td>
-		<td><strong>because of</strong>the high ceiling, Ana can't reach the smoke alarm  .</td> 
+		<td><strong>Because of</strong> the high ceiling, Ana can't reach the smoke alarm  .</td> 
 	</tr>
 </table>
 
