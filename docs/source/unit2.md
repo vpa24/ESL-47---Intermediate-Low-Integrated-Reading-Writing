@@ -71,3 +71,23 @@
 ### Quizlet link to study the Unit 2 Words
 
 [https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
+
+### ENVIRONMENT COLLOCATIONS
+
+1. **climate change**
+2. **environmental group**
+3. **tropical rainforest**
+4. **carbon dioxide**
+5. **power plant**
+6. **natural resource**
+7. **greenhoust gas**
+
+#### Example
+
+1. In my town, about 70% of the electricity comes from a **power plant** that uses coals for energy.
+2. Carbon dioxide and methance are examples of **greenhouse gases**.
+3. Almost all scientists these days agree that **climate change** is happenging and it is a serious threat to out planet.
+4. Tree absorb **cacbon dioxide** and give off oxygen.
+5. All over the world, **evironmental groups** are working to educate people about the dangers of deforestation and habital destruction.
+6. Fresh water is the most precious **natural resource** on Earth.
+7. Thousands of unquie plants, animals, birds, and insects live in the **tropical rainforsets** of South America and Southeast Asia. 
