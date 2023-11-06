@@ -124,3 +124,75 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 8. Tanya needed a ladder **because of** the broken light.
 9. Joseph couldn't take a vacation **because of** his busy work schedule.
 10. Marietta didn't come to class **because** she had a bad headache.
+
+### PREFIXES
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Prefixes</b> are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
+</span>
+</div>
+
+<table>
+	<tr>
+		<th>prefix</th>
+		<th>meaning</th>
+		<th>example</th>
+	</tr>
+	<tr>
+		<td>de-</td>
+		<td>reverse or go down</td> 
+		<td>descrease, decline, deactivate, deforest</td> 
+	</tr>
+	<tr>
+		<td>dis-</td>
+		<td>reverse or opposite</td> 
+		<td>disagree, dislike, disappear, disconnect, dishost, discover</td> 
+	</tr>
+	<tr>
+		<td>en-</td>
+		<td>cause</td> 
+		<td>enable, enclose, encourage, endangered</td> 
+	</tr>
+	<tr>
+		<td>pre-</td>
+		<td>before</td> 
+		<td>predict, prevent, preview, preorder, preschool</td> 
+	</tr>
+	<tr>
+		<td>re-</td>
+		<td>again</td> 
+		<td>rebuild, revise, refuel, replace, repeat</td> 
+	</tr>
+	<tr>
+		<td>trans-</td>
+		<td>across, through</td> 
+		<td>transportation, translate, transfer, transaction</td> 
+	</tr>
+	<tr>
+		<td>un-</td>
+		<td>remove, reverse, not</td> 
+		<td>unlikely, undo, unfriendly, unhealthy</td> 
+	</tr>
+</table>
+
+### Example
+
+#### Example 0
+
+1. **re**build - to build again
+2. **en**large - to make larger
+3. **trans**port - to move from once place to another
+4. **dis**agree - to have a differnt opinion
+5. **de**cline - to slowly become less, worse, or lower
+6. **un**likely - probarly not going to happen
+
+#### Example 1
+
+1. After an accident during testing, the company decided the car was **unsafe**.
+2. He deleted the file by mistake, so he had to **rewrite** this paper.
+3. The Spanish class was easy for me, so my teacher **transfer** me to a more advanced class.
+4. We need elevators in all buildings so that a person with a **disability** can access all floors.
+5. I have many things to **prepare** before my trip to Egypt next week.
+6. Before the 1960s, most people though that is was **impossible** for people to travel in space.
