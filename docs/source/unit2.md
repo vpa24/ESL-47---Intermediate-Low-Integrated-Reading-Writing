@@ -129,7 +129,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <span>
-<p style='margin-top:1em; text-align:center'>
+<p style='margin-top:1em;'>
 <b>Prefixes</b> are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
 </span>
 </div>
