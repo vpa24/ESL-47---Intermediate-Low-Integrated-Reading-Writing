@@ -172,3 +172,109 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
    <li>We build a railway line. People can use the train instead of their cars.</li>
    <strong class="ml-2em">If we build a railway line, people will be able to use the train instead of their cars.</strong>
 </ol>
+
+## Suffixes
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<p style='margin-top:1em;'>
+<b>Suffixes</b> are letters added to the end of a base word to change its conjugation, word type, or other grammar properties like plurality.
+</div>
+
+<table>
+	<tr>
+		<th>suffix</th>
+		<th>new meaning</th>
+		<th>example</th>
+	</tr>
+	<tr>
+		<td>-y</td>
+		<td>characterized by</td> 
+		<td>rainy, anggry</td> 
+	</tr>
+	<tr>
+		<td>-al</td>
+		<td>relating to</td> 
+		<td>magical, musical, national</td> 
+	</tr>
+	<tr>
+		<td>-ate</td>
+		<td>to become</td> 
+		<td>activate, decorate</td> 
+	</tr>
+	<tr>
+		<td>-ship</td>
+		<td>position held</td> 
+		<td>relationship, citizenship, friendship</td> 
+	</tr>
+	<tr>
+		<td>-ous</td>
+		<td>a characteristic</td> 
+		<td>spacious, myterious</td> 
+	</tr>
+	<tr>
+		<td>-ish</td>
+		<td>having the quality</td> 
+		<td>childish, foolish</td> 
+	</tr>
+	<tr>
+		<td>-ly</td>
+		<td>in a manner</td> 
+		<td>lonely, hourly, friendly</td> 
+	</tr>
+	<tr>
+		<td>-ward</td>
+		<td>in a direction</td> 
+		<td>forward, homeward, toward, backward</td> 
+	</tr>
+	<tr>
+		<td>-ry</td>
+		<td>to add to</td> 
+		<td>angry, hungry</td> 
+	</tr>
+	<tr>
+		<td>-en</td>
+		<td>become</td> 
+		<td>sweeten, sadden</td> 
+	</tr>
+	<tr>
+		<td>-less</td>
+		<td>without</td> 
+		<td>jobless, hopelness, careless, useless</td> 
+	</tr>
+	<tr>
+		<td>-ment</td>
+		<td>the action or result</td> 
+		<td>environment, judgement, entertainment</td> 
+	</tr>
+	<tr>
+		<td>-er<br/>-or</td>
+		<td>person who makes or does an action</td> 
+		<td>driver, teacher, <b>programmer</b>, hacker</td> 
+	</tr>
+	<tr>
+		<td>-ness</td>
+		<td>condition or state</td> 
+		<td>sadness, happiness, darkness, weakness</td> 
+	</tr>
+	<tr>
+		<td>-ible<br/>-able</td>
+		<td>ability; capable of</td> 
+		<td>confortable, understanable, returnable, enjoyable, unstoppable</td> 
+	</tr>
+</table>
+
+
+### Example
+
+1. This dress is so **colorful**. Look at these colors.
+2. Sam is a **careless** driver. He always has accidents.
+3. Wow! This ring is so **valuable**.
+4. I don't understand **religous** topics.
+5. She'll be appreciated because of her **kindess**.
+6. I want to quit. I don't want to work in this **stressful** office.
+7. My mother is a famous **writer**.
+8. Don't afraid of the insect. It is **harmless**.
+9. Martin is a **powerful** boy. He can lift everything he wants.
+10. The **painter** will paint the fences.
+11. My grandmother is a **ambitious** woman.
+12. Sarah is the most **reliable** person I have ever known.
