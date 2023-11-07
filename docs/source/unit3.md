@@ -1,8 +1,8 @@
 # Unit 3 - Transportation
 
 - [Key Vocabulary](#key-vocabulary)
-  - [Masdar: the Future of Cities?](#our-changing-planet)
-  - [The Causes and Effects of Deforestation](#the-causes-and-effects-of-deforestation)
+  - [Masdar: the Future of Cities?](#masdar-the-future-of-cities)
+  - [Solving the Problem of Traffic Congestion](#solving-the-problem-of-traffic-congestion)
   - [Synonyms For Verbs](#synonyms-for-verbs)
   - [Quizlet link to study the Unit 3 Words](#quizlet-link-to-study-the-unit-3-words)
 - [Transportation collocations](#transportation-collocations)
@@ -52,7 +52,7 @@
 6. In Masdar, drivers must park their **vehicle** outsite the city and use public transportation to reach the city center.
 7. If I want to use public transportation, I must take three buses to get to school. This isn't **practical**, so l usually drive my car.
 
-### Synonyms For Verbs
+## Synonyms For Verbs
 
 1. **attempt** (v) try (to do something); to make an effort.
 2. **consider** (v) think about carefully; weigh
