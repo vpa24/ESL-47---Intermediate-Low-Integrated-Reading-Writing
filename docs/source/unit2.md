@@ -10,6 +10,7 @@
 - [Prefixes](#prefixes)
 - [Verbs of Cause and Effect](#verbs-of-cause-and-effect)
 - [Paragraph Unity](#paragraph-unity)
+- [Supporting sentences and details](#supporting-sentences-and-details)
 
 ---
 
@@ -322,3 +323,21 @@ Writers use certain phrases to show relationship between the causes of a problem
 		</ul>
 	</div>
 </ol>
+
+## Supporting sentences and details
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<p style='margin-top:1em;'>
+Good writers use <strong>supporting sentences</strong> to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide <strong>details</strong>-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
+</p>
+</div>
+
+### Example
+
+**Bold text** is the supporting sentence that matches the topic sentence.
+
+1. Global warming results in rising temperatures throughout the world. **Temperatures have been on the rise since the 1970s, but the last decade has been the warmest.**
+2. Hydroelectric power stations can be found in countries where there is a lot of water. **For instance, nearly 60% of Canada's electricity comes from hydroelectric power.**
+3. One of the largest solar power plants in the world is the Shams 1 plant in Abu Dhabi. **The plant consists of over 258,000 mirrors, covering an area larger than 285 soccer fields.**
+4. There are several ways in which we can help protect our environment. **One is to use renewable sources of energy instead of depending on fossil fuels.**
+5. Animals in the rainforest are suffering because of the destruction of their habitat. **Deforestation ruins the ecosystem, making it impossible for them to survive.**
