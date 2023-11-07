@@ -109,10 +109,11 @@
 <p style='margin-top:1em; text-align:center'>
 <div style='margin-left:1em;'>
 <strong>Because</strong> is a conjunction that introduces a reason. It is followed by a subject, a verb, and sometimes an object.
-<div class="color-blue" style='margin-left:1em;'>The environment is changing <b>because</b> humans are burning fossil fuels.</div><br/>
-<div style='margin-left:1em;'><strong>Because of</strong> is a two-word preposiion meaning "as a result of". It is followed by a noun phrase (made up of articles, adjectives, and nouns).</div>
-<div class="color-blue" style='margin-left:1em;'>The climate is chaning <b>because of</b> human activity.</div>
+<div class="color-blue">The environment is changing <b>because</b> humans are burning fossil fuels.</div><br/>
+<div><strong>Because of</strong> is a two-word preposiion meaning "as a result of". It is followed by a noun phrase (made up of articles, adjectives, and nouns).</div>
+<div class="color-blue">The climate is chaning <b>because of</b> human activity.</div>
 </div>
+</p>
 </div>
 
 Use a **because** _clause_ or **because of** _phrase_ to give an explanation for something.
