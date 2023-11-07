@@ -263,7 +263,6 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	</tr>
 </table>
 
-
 ### Example
 
 1. This dress is so **colorful**. Look at these colors.
@@ -278,3 +277,61 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 10. The **painter** will paint the fences.
 11. My grandmother is a **ambitious** woman.
 12. Sarah is the most **reliable** person I have ever known.
+
+## Writing a Concluding Sentence
+
+A concluding setence is not absolutely necessary in a muli paragraph essay. However, for long single paragraphs, a concluding sentence can be helpful. A concluding sentence singals the end of the paragraph by:
+
+- Resating the topic sentence using synonyms
+- Summarizing the main points (without repeating the same words)
+- Giving a final comment (a suggestion, an opinion, or a prediction)
+
+A concluding sentence should NOT:
+
+- Copy the exact same words as the topic sentence.
+- Include a new topic or information (other than your final comment)
+- Focus on too specific of a detail (remember: you are reminding your reader of your topic sentence, which should neither too general nor too specific)
+
+**End-of-paragraph signals**:
+
+<div class="flex-row-container">
+  <div class="flex-row-item">In short,</div>
+  <div class="flex-row-item">Therefore,</div>
+  <div class="flex-row-item">As a result,</div>
+  <div class="flex-row-item">In conclusion,</div>
+  <div class="flex-row-item">To summarize,</div>
+  <div class="flex-row-item">Indeed,</div>
+  <div class="flex-row-item">In summary,</div>
+  <div class="flex-row-item">Thus,</div>
+</div>
+
+### Example
+
+**Bold text** is the concluding sentence for each one
+
+**Paragraph 1**
+Riding my bicycle to school has both advantages and disadvantages. The most important
+advantage is that it saves me time because I don't have to wait in traffic or spend time searching
+for a parking space. Cycling is great exercise, and it feels good. Also, cycling helps the environment
+because it does not create any pollution. However, there are two things I dislike about cycling.
+One is that it can be dangerous if drivers can't see you. Also, some drivers are very rude.
+
+1. In other words, some drivers think they own the road and cyclists have
+   no place on it.
+2. **Still, I think the advantages of cycling outweigh the disadvantages, and
+   I will continue to use my bicycle to get around in good weather.**
+3. Because of these disadvantages, I may sell my bike and take the bus.
+
+**Paragraph 2**
+In some cities, such as Seattle and Istanbul, people commute to work by ferry. A ferry carries
+people, and sometimes cars, over water between two or more places. Sometimes a ferry is the
+only way to get around because there are no roads or bridges. However, even if a road exists,
+many people prefer to travel by ferry because it saves time. Ferry passengers don't have to sit
+in traffic, and they can read or work on their computers. Another benefit is that ferries help
+the environment by keeping hundreds of cars and trucks off the roads.
+
+1. **These advantages explain why people in cities all over the world travel
+   to and from work by ferry.**
+2. For me, the best thing about taking the ferry to work is that it is fun.
+3. Many ferries have a restaurant on board, and passengers can drink
+   coffee or eat a meal while they commute.
