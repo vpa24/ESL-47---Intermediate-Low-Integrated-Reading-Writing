@@ -256,10 +256,10 @@ Writers use certain phrases to show relationship between the causes of a problem
 ### Example
 
 <ol>
-	<li>Deforestation <strong>results</strong> in animal extintion and loss of biodiversity.</li>
+	<li>Deforestation <strong>results in</strong> animal extintion and loss of biodiversity.</li>
 	<li>Demand for food and energy are expected to rise <strong>due to</strong> the increase in the world's population.
 	<li>Burning fossil fuels <strong>leads to</strong> an increase in CO<sub>2</sub> in the atmosphere.</li>
-	<li>Flooding, heat waves, and other extreme weather are all <strong>caused</strong> by climate change.</li>
-	<li>Reducing the amound of meat we eat may <strong>result</strong> in lower greenhouse gas emissions.</li>
-	<li>Submerged islands could be the <strong>result</strong> of rising sea levels.</li>
+	<li>Flooding, heat waves, and other extreme weather are all <strong>caused by</strong> climate change.</li>
+	<li>Reducing the amound of meat we eat may <strong>result in</strong> lower greenhouse gas emissions.</li>
+	<li>Submerged islands could be <strong>the result of</strong> rising sea levels.</li>
 </ol>
