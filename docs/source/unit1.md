@@ -343,9 +343,9 @@ You can use other phrases to compare two difference things.
 <li>George rode his bike to school. George rode his bike to Walmart.</li>
 <div class="ml-2em">Goerge rode his bike to school <strong>and</strong> Walmart.</div>
 <li>Atlanta is the capital of Georgia. It is the largest city of Georgia.</li>
-<div class="ml-2em">Atlanta is the capital of Georgia <strong>and</strong>largest city in Georgia.</div>
+<div class="ml-2em">Atlanta is the capital of Georgia <strong>and</strong> largest city in Georgia.</div>
 <li>Barbara flew to California. Paige flew to California.</li>
-<div class="ml-2em">Barbara <strong>Paige</strong> flew to California.</div>
+<div class="ml-2em">Barbara <strong>and</strong> Paige flew to California.</div>
 <li>I can't go to the game. I can't go to the play.</li>
 <div class="ml-2em">I can't go to the game <strong>or</strong> (to) the play.</div>
 <li>Every morning Jeffery brushes his teeth. Every morning Jeffery combs his hair.</li>
