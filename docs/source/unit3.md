@@ -117,9 +117,9 @@
 You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
 	<div><b>idea/action:</b> The goverment inncreases tax on fuel. -> simple present</div>
 	<div><b>consequence:</b> People use their cars less. -> simple future.</div>
-	<div class="color-bule"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
+	<div class="color-blue"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
 	<div>or</div>
-	<div class="color-bule">People <b>will</b> use their cars less <b>if</b> the government increases the tax on fuel.</div>
+	<div class="color-blue">People <b>will</b> use their cars less <b>if</b> the government increases the tax on fuel.</div>
 	<div><b>Notice:</b></div>
 	<ul>
 		<li>The idea/action clause begins with <i>if</i>.</li>
