@@ -33,7 +33,7 @@
 3. I take the train to work every day because the **rail** network is fast and cheap.
 4. **Traffic congestion** has improved since my city built a subway and
    improved the bus system. Fewer people drive to work now.
-5. I told the bus driver that my **destiation** was downtown, so she told me to get off on Main Street.
+5. I told the bus driver that my **destination** was downtown, so she told me to get off on Main Street.
 6. In large cities, people usually prefer to live near their workplace so that they don't have to be a **commuter**, but it's more expensive than the suburbs.
 7. Ferries **connnect** the main land to the islands.
 
@@ -201,7 +201,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	<tr>
 		<td>-y</td>
 		<td>characterized by</td> 
-		<td>rainy, anggry</td> 
+		<td>rainy, anggry, sunny, watery</td> 
 	</tr>
 	<tr>
 		<td>-al</td>
@@ -211,7 +211,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	<tr>
 		<td>-ate</td>
 		<td>to become</td> 
-		<td>activate, decorate</td> 
+		<td>activate, decorate, hyphenate</td> 
 	</tr>
 	<tr>
 		<td>-ship</td>
@@ -221,12 +221,12 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	<tr>
 		<td>-ous</td>
 		<td>a characteristic</td> 
-		<td>spacious, myterious</td> 
+		<td>spacious, myterious, poisonous</td> 
 	</tr>
 	<tr>
 		<td>-ish</td>
 		<td>having the quality</td> 
-		<td>childish, foolish</td> 
+		<td>childish, foolish, Turkish</td> 
 	</tr>
 	<tr>
 		<td>-ly</td>
@@ -256,7 +256,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	<tr>
 		<td>-ment</td>
 		<td>the action or result</td> 
-		<td>environment, judgement, entertainment</td> 
+		<td>environment, judgement, entertainment, agreement, apartment</td> 
 	</tr>
 	<tr>
 		<td>-er<br/>-or</td>
@@ -281,7 +281,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 2. Sam is a **careless** driver. He always has accidents.
 3. Wow! This ring is so **valuable**.
 4. I don't understand **religous** topics.
-5. She'll be appreciated because of her **kindess**.
+5. She'll be appreciated because of her **kindness**.
 6. I want to quit. I don't want to work in this **stressful** office.
 7. My mother is a famous **writer**.
 8. Don't afraid of the insect. It is **harmless**.
@@ -322,9 +322,9 @@ A concluding sentence should NOT:
 
 ### Example
 
-**Bold text** is the concluding sentence for each  
+**Bold text** is the concluding sentence for each
 
-**Paragraph 1**  
+**Paragraph 1**
 
 Riding my bicycle to school has both advantages and disadvantages. The most important
 advantage is that it saves me time because I don't have to wait in traffic or spend time searching
@@ -338,7 +338,7 @@ One is that it can be dangerous if drivers can't see you. Also, some drivers are
    I will continue to use my bicycle to get around in good weather.**
 3. Because of these disadvantages, I may sell my bike and take the bus.
 
-**Paragraph 2**  
+**Paragraph 2**
 
 In some cities, such as Seattle and Istanbul, people commute to work by ferry. A ferry carries
 people, and sometimes cars, over water between two or more places. Sometimes a ferry is the
