@@ -9,7 +9,7 @@
 - [Because and Because of](#because-and-because-of)
 - [Prefixes](#prefixes)
 - [Verbs of Cause and Effect](#verbs-of-cause-and-effect)
-
+- [Paragraph Unity](#paragraph-unity)
 ---
 
 ## Key Vocabulary
@@ -262,4 +262,57 @@ Writers use certain phrases to show relationship between the causes of a problem
 	<li>Flooding, heat waves, and other extreme weather are all <strong>caused by</strong> climate change.</li>
 	<li>Reducing the amound of meat we eat may <strong>result in</strong> lower greenhouse gas emissions.</li>
 	<li>Submerged islands could be <strong>the result of</strong> rising sea levels.</li>
+</ol>
+
+## Paragraph Unity
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<p style='margin-top:1em;'>
+	A well-written pragraph has just <b>one main idea</b>, and <b>all the supporting sentences in the paragraph should expalain or give information about it.</b> They should not introducte any new topics.
+	<br/>
+	<div>When a paragraph has these characteristics, it has <b>unity</b>. Unity is a basic requirement of good academic writing.</div>
+</p>
+</div>
+
+### Example
+
+**Bold text is the correct answer** for the supporting sentence that would be **irrelevant to the paragraph**
+
+<ol>
+   <li>Computers have become more important in our society.</li>
+   <div class="ml-2em">
+	<ul>
+		<li class="bold">Most people use smart phone to stay in touch with friends.</li>
+		<li>Businesses depend on computers for many things.</li>
+		<li>Children are skilled with technology at younger ages.</li>
+	</ul>
+   </div>
+   <li>Football is a violent sport that can have severe consequences for the players.</li>
+   <div class="ml-2em">
+	<ul>
+		<li>Injuries are common, especially in the shoulders, kees, and ankles.</li>
+		<li>Concussions can cause disability later in life.</li>
+		<li class="bold">Coaches teach the basic of playing the game.</li>
+	</ul>
+   <li>Reading has many benerfits, especially for children.</li>
+   <div class="ml-2em">
+	<ul>
+		<li>Stress and anxiety can be lowered.</li>
+		<li class="bold">Reading is enjoyable at any age.</li>
+		<li>Creativity and empathy are inscreased.</li>
+	</ul>
+   <li>American families are becoming more mobile, with many families moving every year.</li>
+   <div class="ml-2em">
+	<ul>
+		<li class="bold">Movers say that fragile items should be packed crarefully.</li>
+		<li>Some familites move because a parent transfers for a new job.</li>
+		<li>Some familites choose to relocate for a change of scenery.</li>
+	</ul>
+   <li>Classes for new drivers can help them drive more safely on highways.</li>
+   <div class="ml-2em">
+	<ul>
+		<li>Students will have the opportunity to practice under simulated conditions.</li>
+		<li class="bold">Seatbelts save thoudsands of lives each year and should be required.</li>
+		<li>The more teenagers know, the safer they will be on the road.</li>
+	</ul>
 </ol>
