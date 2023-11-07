@@ -48,3 +48,8 @@ em {
 .ml-2em {
   margin-left: 2em;
 }
+
+th {
+  background-color: #2980b9;
+  color: #fff;
+}
