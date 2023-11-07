@@ -10,6 +10,7 @@
 - [IF … NOT and UNLESS](#if-not-and-unless)
 - [Suffixes](#suffixes)
 - [Writing a Concluding Sentence](#writing-a-concluding-sentence)
+- [Two Solutions Paragraphs Example](#two-solutions-paragraphs-example)
 
 ---
 
@@ -56,6 +57,12 @@
 6. In Masdar, drivers must park their **vehicle** outsite the city and use public transportation to reach the city center.
 7. If I want to use public transportation, I must take three buses to get to school. This isn't **practical**, so l usually drive my car.
 
+### Quizlet link to study the Unit 3 Words
+
+[https://quizlet.com/843281833/unit-3-vocabulary-words-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/843281833/unit-3-vocabulary-words-flash-cards/?i=777wu&x=1jqt)
+
+---
+
 ## Synonyms For Verbs
 
 1. **attempt** (v) try (to do something); to make an effort.
@@ -88,9 +95,7 @@
    <div class="ml-2em">It will be difficult to <strong>convince</strong> divers to use public transportation.</div>
 </ol>
 
-### Quizlet link to study the Unit 3 Words
-
-[https://quizlet.com/843281833/unit-3-vocabulary-words-flash-cards/?i=777wu&x=1jqt](https://quizlet.com/843281833/unit-3-vocabulary-words-flash-cards/?i=777wu&x=1jqt)
+---
 
 ## Transportation collocations
 
@@ -141,6 +146,8 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
    <strong class="ml-2em">If the city doesn't invest in a PRT, there won't be less congestion.</strong>
 </ol>
 
+---
+
 ## IF ... NOT and UNLESS
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
@@ -175,6 +182,8 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
    <li>We build a railway line. People can use the train instead of their cars.</li>
    <strong class="ml-2em">If we build a railway line, people will be able to use the train instead of their cars.</strong>
 </ol>
+
+---
 
 ## Suffixes
 
@@ -281,6 +290,8 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 11. My grandmother is a **ambitious** woman.
 12. Sarah is the most **reliable** person I have ever known.
 
+---
+
 ## Writing a Concluding Sentence
 
 A concluding setence is not absolutely necessary in a muli paragraph essay. However, for long single paragraphs, a concluding sentence can be helpful. A concluding sentence singals the end of the paragraph by:
@@ -297,7 +308,7 @@ A concluding sentence should NOT:
 
 **End-of-paragraph signals**:
 
-<div class="flex-row-container">
+<div class="flex-row-container" style="margin-bottom: 2em;">
   <div class="flex-row-item">In short,</div>
   <div class="flex-row-item">Therefore,</div>
   <div class="flex-row-item">As a result,</div>
@@ -306,13 +317,15 @@ A concluding sentence should NOT:
   <div class="flex-row-item">Indeed,</div>
   <div class="flex-row-item">In summary,</div>
   <div class="flex-row-item">Thus,</div>
+  <div class="flex-row-item"></div>
 </div>
 
 ### Example
 
-**Bold text** is the concluding sentence for each one
+**Bold text** is the concluding sentence for each  
 
-**Paragraph 1**
+**Paragraph 1**  
+
 Riding my bicycle to school has both advantages and disadvantages. The most important
 advantage is that it saves me time because I don't have to wait in traffic or spend time searching
 for a parking space. Cycling is great exercise, and it feels good. Also, cycling helps the environment
@@ -325,7 +338,8 @@ One is that it can be dangerous if drivers can't see you. Also, some drivers are
    I will continue to use my bicycle to get around in good weather.**
 3. Because of these disadvantages, I may sell my bike and take the bus.
 
-**Paragraph 2**
+**Paragraph 2**  
+
 In some cities, such as Seattle and Istanbul, people commute to work by ferry. A ferry carries
 people, and sometimes cars, over water between two or more places. Sometimes a ferry is the
 only way to get around because there are no roads or bridges. However, even if a road exists,
@@ -338,6 +352,8 @@ the environment by keeping hundreds of cars and trucks off the roads.
 2. For me, the best thing about taking the ferry to work is that it is fun.
 3. Many ferries have a restaurant on board, and passengers can drink
    coffee or eat a meal while they commute.
+
+---
 
 ## Two Solutions Paragraphs Example
 
