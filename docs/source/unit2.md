@@ -8,7 +8,7 @@
 - [Environment collocations](#environment-collocations)
 - [Because and Because of](#because-and-because-of)
 - [Prefixes](#prefixes)
-- [Verbs of Cause and Effect](##verbs-of-cause-and-effect)
+- [Verbs of Cause and Effect](#verbs-of-cause-and-effect)
 
 ---
 
