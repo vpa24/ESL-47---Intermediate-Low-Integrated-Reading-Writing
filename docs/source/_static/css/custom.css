@@ -61,3 +61,7 @@ th {
 ul li {
   list-style-type: circle !important;
 }
+
+.txt-indent-2em {
+  text-indent: 2em;
+}
