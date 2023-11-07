@@ -226,7 +226,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 Writers use certain phrases to show relationship between the causes of a problem and its effects.
 
-<table>
+<table style="max-width:600px">
 	<tr>
 		<th>cause</th>
 		<th>linking verb or phrase</th>
@@ -238,7 +238,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 		<td>habital destruction.</td>
 	</tr>
 </table>
-<table>
+<table style="max-width:600px">
 	<tr>
 		<th>effect</th>
 		<th>linking verb or phrase</th>
