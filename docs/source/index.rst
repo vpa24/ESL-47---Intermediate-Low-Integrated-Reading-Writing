@@ -29,3 +29,7 @@ Contents
    unit2.md
    unit3.md
 
+|say thanks|
+
+.. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
+   :target: https://saythanks.io/to/vpa24
