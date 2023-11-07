@@ -85,6 +85,8 @@
 
 [https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
 
+---
+
 ## Environment collocations
 
 1. **climate change**
@@ -225,9 +227,9 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 5. I have many things to **prepare** before my trip to Egypt next week.
 6. Before the 1960s, most people though that is was **impossible** for people to travel in space.
 
-## Verbs of Cause and Effect
-
 ---
+
+## Verbs of Cause and Effect
 
 Writers use certain phrases to show relationship between the causes of a problem and its effects.
 
@@ -266,6 +268,8 @@ Writers use certain phrases to show relationship between the causes of a problem
 	<li>Reducing the amound of meat we eat may <strong>result in</strong> lower greenhouse gas emissions.</li>
 	<li>Submerged islands could be <strong>the result of</strong> rising sea levels.</li>
 </ol>
+
+---
 
 ## Paragraph Unity
 
@@ -325,6 +329,8 @@ Writers use certain phrases to show relationship between the causes of a problem
 	</div>
 </ol>
 
+---
+
 ## Supporting sentences and details
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
@@ -342,6 +348,8 @@ Good writers use <b>supporting sentences</b> to develop and explain the main ide
 3. One of the largest solar power plants in the world is the Shams 1 plant in Abu Dhabi. **The plant consists of over 258,000 mirrors, covering an area larger than 285 soccer fields.**
 4. There are several ways in which we can help protect our environment. **One is to use renewable sources of energy instead of depending on fossil fuels.**
 5. Animals in the rainforest are suffering because of the destruction of their habitat. **Deforestation ruins the ecosystem, making it impossible for them to survive.**
+
+---
 
 ## Cause and Effect Essay Example
 
