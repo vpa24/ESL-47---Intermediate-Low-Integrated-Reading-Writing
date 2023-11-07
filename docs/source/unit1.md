@@ -1,5 +1,22 @@
 # Unit 1 - Animals
 
+- [Key Vocabulary](#key-vocabulary)
+  - [Endangered Species](#endangered-species)
+  - [Losing the Battle for Survival](#losing-the-battle-for-survival)
+  - [Academic verbs](#academic-verbs)
+  - [Quizlet link to study the Unit 1 Words](#quizlet-link-to-study-the-unit-1-words)
+- [Comparative Adjectives](#comparative-adjectives)
+- [Compare and Contrast](#compare-and-contrast)
+  - [Compare and contrast using Venn diagram](#compare-and-contrast-using-venn-diagram)
+  - [Example Paragraphs: 2 Similarities + 2 Differences](#example-paragraphs-2-similarities-2-differences)
+- [Topic sentences](#topic-sentences)
+- [Word Order](#word-order)
+- [Combing Sentences](#combing-sentences)
+  - [AND and OR](#and-and-or)
+  - [BUT and WHEREAS](#but-and-whereas)
+  - [BOTH and NEITHER](#both-and-neither)
+  - [Example of using the words but, and, and or](l#example-of-using-the-words-but-and-and-or)
+
 ---
 
 ## Key Vocabulary
