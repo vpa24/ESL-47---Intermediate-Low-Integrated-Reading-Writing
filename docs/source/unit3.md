@@ -96,14 +96,14 @@
 4. **rush hour**
 5. **car pool**
 6. **road rage**
-7. **parking restriction**
+7. **packing restrictions**
 
 #### Example
 
 1. **Traffic congestion** is a big problem in this city. The traffic jams are terrible.
 2. I use **public transportation** like trains or the subway to get to work.
 3. You can't drive in the **bike lane**. It's only for bicycles.
-4. Because of **paking restriction**, you can't leave your car there.
+4. Because of **packing restrictions**, you can't leave your car there.
 5. **Rush hour** is usually from eight to nine in the morning,
 6. I am in a **car pool** and drive to work with a coworker.
 7. If people get angry and behave aggressively in traffic, they are expressing **road rage**.
