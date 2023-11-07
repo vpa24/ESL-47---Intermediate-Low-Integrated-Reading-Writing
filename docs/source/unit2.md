@@ -4,8 +4,8 @@
   - [Our Changing Planet](#our-changing-planet)
   - [The Causes and Effects of Deforestation](#the-causes-and-effects-of-deforestation)
   - [Academic vocabulary](#academic-vocabulary)
-  - [Environment collocations](#environment-collocations)
   - [Quizlet link to study the Unit 2 Words](#quizlet-link-to-study-the-unit-2-words)
+- [Environment collocations](#environment-collocations)
 - [Because and Because of](#because-and-because-of)
 - [Prefixes](#prefixes)
 
@@ -77,7 +77,11 @@
 7. The biggest **challenge** we face is to protect the planet.
 8. Human activity **contributes** climate change.
 
-### Environment collocations
+### Quizlet link to study the Unit 2 Words
+
+[https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
+
+## Environment collocations
 
 1. **climate change**
 2. **environmental group**
@@ -96,10 +100,6 @@
 5. All over the world, **evironmental groups** are working to educate people about the dangers of deforestation and habital destruction.
 6. Fresh water is the most precious **natural resource** on Earth.
 7. Thousands of unquie plants, animals, birds, and insects live in the **tropical rainforsets** of South America and Southeast Asia.
-
-### Quizlet link to study the Unit 2 Words
-
-[https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/833902797/unit-2-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
 
 ---
 
