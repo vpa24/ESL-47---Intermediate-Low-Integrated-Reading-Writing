@@ -8,6 +8,7 @@
 - [Environment collocations](#environment-collocations)
 - [Because and Because of](#because-and-because-of)
 - [Prefixes](#prefixes)
+- [Verbs of Cause and Effect](##verbs-of-cause-and-effect)
 
 ---
 
@@ -222,6 +223,8 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 6. Before the 1960s, most people though that is was **impossible** for people to travel in space.
 
 ## Verbs of Cause and Effect
+
+---
 
 Writers use certain phrases to show relationship between the causes of a problem and its effects.
 
