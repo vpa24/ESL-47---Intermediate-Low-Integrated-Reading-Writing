@@ -27,4 +27,5 @@ Contents
 .. toctree::
    unit1.md
    unit2.md
+   unit3.md
 
