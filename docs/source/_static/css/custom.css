@@ -57,3 +57,7 @@ th {
 .color-blue {
   color: #2980b9;
 }
+
+ul li {
+  list-style-type: circle !important;
+}
