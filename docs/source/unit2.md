@@ -1,5 +1,14 @@
 # Unit 2 - The Environment
 
+- [Key Vocabulary](#key-vocabulary)
+  - [Our Changing Planet](#our-changing-planet)
+  - [The Causes and Effects of Deforestation](#the-causes-and-effects-of-deforestation)
+  - [Academic vocabulary](#academic-vocabulary)
+  - [Environment collocations](#environment-collocations)
+  - [Quizlet link to study the Unit 2 Words](#quizlet-link-to-study-the-unit-2-words)
+- [Because and Because of](#because-and-because-of)
+- [Prefixes](#prefixes)
+
 ---
 
 ## Key Vocabulary
@@ -68,7 +77,7 @@
 7. The biggest **challenge** we face is to protect the planet.
 8. Human activity **contributes** climate change.
 
-### ENVIRONMENT COLLOCATIONS
+### Environment collocations
 
 1. **climate change**
 2. **environmental group**
