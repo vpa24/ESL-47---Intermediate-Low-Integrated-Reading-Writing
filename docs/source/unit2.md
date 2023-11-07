@@ -209,3 +209,43 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 4. We need elevators in all buildings so that a person with a **disability** can access all floors.
 5. I have many things to **prepare** before my trip to Egypt next week.
 6. Before the 1960s, most people though that is was **impossible** for people to travel in space.
+
+## Verbs of Cause and Effect
+
+Writers use certain phrases to show relationship between the causes of a problem and its effects.
+
+<table>
+	<tr>
+		<th>cause</th>
+		<th>linking verb or phrase</th>
+		<th>effect</th>
+	</tr>
+	<tr>
+		<td>Deforestaion</td>
+		<td class="color-blue">leads to <br/>causes <br/>results in</td>
+		<td>habital destruction.</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>effect</th>
+		<th>linking verb or phrase</th>
+		<th>cause</th>
+	</tr>
+	<tr>
+		<td>Habital destruction is</td>
+		<td class="color-blue">caused by <br/>due to<br/>the result of</td>
+		<td>deforestation.</td>
+	</tr>
+</table>
+
+### Example
+
+<ol>
+	<li>Deforestation <strong>results</strong> in animal extintion and loss of biodiversity.</li>
+	<li>Demand for food and energy are expected to rise <strong>due to</strong> the increase in the world's population.
+	<li>Burning fossil fuels <strong>leads to</strong> an increase in CO<sub>2</sub> in the atmosphere.</li>
+	<li>Flooding, heat waves, and other extreme weather are all <strong>caused</strong> by climate change.</li>
+	<li>Reducing the amound of meat we eat may <strong>result</strong> in lower greenhouse gas emissions.</li>
+	<li>Submerged islands could be the <strong>result</strong> of rising sea levels.</li>
+</ol>
