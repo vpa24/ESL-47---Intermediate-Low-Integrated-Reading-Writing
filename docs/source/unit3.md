@@ -109,3 +109,38 @@
 7. If people get angry and behave aggressively in traffic, they are expressing **road rage**.
 
 ---
+
+## Future Real Conditional/ If ... will
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<p style='margin-top:1em;'>
+You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
+	<div><b>idea/action:</b> The goverment inncreases tax on fuel. -> simple present</div>
+	<div><b>consequence:</b> People use their cars less. -> simple future.</div>
+	<div class="color-bule"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
+	<div>or</div>
+	<div class="color-bule">People <b>will</b> use their cars less <b>if</b> the government increases the tax on fuel.</div>
+	<div><b>Notice:</b></div>
+	<ul>
+		<li>The idea/action clause begins with <i>if</i>.</li>
+		<li>The consequence clause uses <i>will</i>.</li>
+		<li><ins><b>Can</b> changes <b>to be able to</b> in the consequence clause.</li>
+		<li>Either the idea clause or the consequence clause can come first. If the idea clause comes first, put a <i>comma</i> after it.</li>
+	</ul> 
+</p>
+</div>
+
+### Example
+
+<ol>
+   <li>We move the offices and schools next to the houses. We have fewer traffic problems.</li>
+   <strong class="ml-2em">If we move the offices and schools next to the houses, we will have fewer traffic problems.</strong>
+   <li>We have a ferry over the river. Fewer people use the bridge.</li>
+   <strong class="ml-2em">If we have a ferry ove the river, fewer people will use the bridge.</strong>
+   <li>Fewer cars use the roads. We inscrease the price of fuel.</li>
+   <strong class="ml-2em">If we inscrease the price of fuel, fewer cars will use the roads.</strong>
+   <li>We change the office hours. The cars won't all use the road at the same time.</li>
+   <strong class="ml-2em">If we change the office hours, the cars won't all use the road the same time.</strong>
+   <li>We build a railway line. People can use the train instead of their cars.</li>
+   <strong class="ml-2em">If we build a railway line, people will be able to use the train instead of their cars.</strong>
+</ol>
