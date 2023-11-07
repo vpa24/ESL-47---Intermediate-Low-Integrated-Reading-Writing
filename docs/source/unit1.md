@@ -126,16 +126,13 @@ When comparing things, the comparative form of the adjective is used. Use the co
 ### Compare and contrast using Venn diagram
 
 <div class="info">
-<span>
-<p style='margin-top:1em; text-align:center'>
-<b>Using a Venn diagram</b></p>
+<p style='margin-top:1em; text-align:center'><b>Using a Venn diagram</b></p>
 <p style='margin-left:1em;'>
 A Venn diagram is useful for taking notes on similarities and differences. It consists of two or three overlapping circles. The differences will listed on the left side and right side of the diagram. The similarities are listed in the center.
 </p>
-</span>
 </div>
 
-For example, birds and bats are profiled by both their similarities and differences in a single visual.
+For example, birds and bats are profiled by both their similarities and differences in a single visual.\
 ![](https://miniverse-static.s3.amazonaws.com/static/infosites/images/venn/birds-bats.png)
 
 ---
