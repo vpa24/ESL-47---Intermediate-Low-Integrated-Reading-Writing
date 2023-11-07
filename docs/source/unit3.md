@@ -338,3 +338,17 @@ the environment by keeping hundreds of cars and trucks off the roads.
 2. For me, the best thing about taking the ferry to work is that it is fun.
 3. Many ferries have a restaurant on board, and passengers can drink
    coffee or eat a meal while they commute.
+
+## Two Solutions Paragraphs Example
+
+<h2 align="center">Two solutions to Homlessness</h2>
+<div style="line-height: 2;">
+<p class="txt-indent-2em"><ins>One solution to the problem of homelessness <b>is building more affordable housing.</b></ins> This means making homes that people with lower incomes can afford to rent. <ins>The first advantage of this solution <b>is that it provides a safe and stable place for homeless people and their families to
+live.</b></ins> If they don't need to worry about where they will sleep each night, they will be able to focus
+on finding a job and moving forward in their lives. <ins>The second advantage of providing affordable housing to the homeless <b>is that it can reduce the number of people living on the streets.</b></ins> This will make communities cleaner and safer. <ins><span style="text-decoration:underline">However,</span> there are also some disadvantages to this solution.</ins> <ins>One disadvantage <b>is that building affordable housing may take a long time.</b></ins> City governments need to find a good location for the housing and consider a lot of details before the construction begins. <ins>Another disadvantage <b>is that building affordable housing is expensive.</b></ins> It could lead to higher taxes or costs to people who are not homeless, which may not be fair.
+</ins></p>
+
+<p class="txt-indent-2em"><ins>Another solution to homelessness <b>is providing support and services to homeless people.</b></ins>This means offering things like mental health care, addiction treatment, and job training to help the homeless people overcome the problems that caused their homelessness. <ins>One advantage of this solution <b>is that it attempts to solve the root causes of homelessness.</b></ins> <span style="text-decoration:underline">For example,</span> if social workers can help homeless people with their drug or alcohol addiction, they will be less likely to become homeless again in the future. <ins>Another advantage <b>is that it can improve the overall well-
+being of people who are homeless.</b></ins> They may be able to have better lives. <ins><span style="text-decoration:underline">On the other hand,</span> there are also disadvantages to this solution.</ins>
+<span style="text-decoration:underline">First,</span> providing support and services can be expensive. Funding might be limited. <span style="text-decoration:underline">Also,</span> not all homeless people may want help. It may be challenging to find the homeless people who need or want to receive support services.
+</div>
