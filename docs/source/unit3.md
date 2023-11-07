@@ -6,6 +6,7 @@
   - [Quizlet link to study the Unit 3 Words](#quizlet-link-to-study-the-unit-3-words)
 - [Synonyms For Verbs](#synonyms-for-verbs)
 - [Transportation collocations](#transportation-collocations)
+- [Future Real Conditional/ IF … WILL](#future-real-conditional-if-will)
 
 ---
 
@@ -110,7 +111,34 @@
 
 ---
 
-## Future Real Conditional/ If ... will
+## Future Real Conditional/ IF ... WILL
+
+<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<p style='margin-top:1em;'>
+You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
+	<div><b>idea/action:</b> The goverment inncreases tax on fuel.</div>
+	<div><b>consequence:</b> People use their cars less.</div>
+	<div class="color-blue"><b>If</b> the government <b>doesn't</b> increase the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
+	<div class="color-blue"><b>Unless</b> the government increases the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
+</p>
+</div>
+
+### Example
+
+<ol>
+   <li>The traffic will improve. We build more roads.</li>
+   <strong class="ml-2em">The traffic will not improve if we don't build more roads.</strong>
+   <li>Poluttion will be reduced. We use cleaner transportation</li>
+   <strong class="ml-2em">Poluttion won't be reduced if we don't use cleaner transportation.</strong>
+   <li>We provide a solution. People will get to work on time.</li>
+   <strong class="ml-2em">If we don't provide a solution, people won't get to work on time.</strong>
+   <li>We will solve the traffic problem. We build houses closer to the business areas.</li>
+   <strong class="ml-2em">We won't solve the traffic problem, if we don't build houses closer to the business areas.</strong>
+   <li>The city invests in a PRT. There will be less congestion.</li>
+   <strong class="ml-2em">If the city doesn't invest in a PRT, there won't be less congestion.</strong>
+</ol>
+
+### IF ... NOT and UNLESS
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <p style='margin-top:1em;'>
