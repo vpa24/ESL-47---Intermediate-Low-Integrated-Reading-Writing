@@ -106,6 +106,6 @@
 4. Because of **paking restriction**, you can't leave your car there.
 5. **Rush hour** is usually from eight to nine in the morning,
 6. I am in a **car pool** and drive to work with a coworker.
-7. If people get angry and behave aggressively in traffic, they are expressing **car rage**.
+7. If people get angry and behave aggressively in traffic, they are expressing **road rage**.
 
 ---
