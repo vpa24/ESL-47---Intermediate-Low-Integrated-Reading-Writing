@@ -328,7 +328,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <p style='margin-top:1em;'>
-Good writers use <strong>supporting sentences</strong> to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide <strong>details</strong>-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
+Good writers use <b>supporting sentences</b> to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide <b>details</b>-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
 </p>
 </div>
 
