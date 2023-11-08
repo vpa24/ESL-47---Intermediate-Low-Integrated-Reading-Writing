@@ -37,6 +37,9 @@ em {
 .center h2 {
   text-align: center;
 }
+.center img {
+  margin-bottom: 3em;
+}
 .info {
   background-color: #e3b5a6;
   border-left: solid #af242a 4px;
