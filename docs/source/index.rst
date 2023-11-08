@@ -11,13 +11,18 @@ Welcome to ESL47 - Intermediate-Low Integrated Reading & Writing's documentation
 Are You Ready For The Final Tests?
 ===================
 
+.. image:: _static/images/5622342.jpg
+
 .. compound::
    
    .. image:: _static/images/IMG_3795.AVIF.jpg
       :align: left
-   .. image:: _static/images/5622342.jpg
+   .. image:: _static/images/what-do-you-choose-v0-q8t2ffshwt6a1.jpg
       :align: right
 
+
+.. image:: _static/images/859i2l.jpg
+   
 .. note::
 
    This project is under active development.
