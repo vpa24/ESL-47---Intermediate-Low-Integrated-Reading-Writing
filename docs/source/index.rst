@@ -27,7 +27,6 @@ Are You Ready For The Final Tests?
 
 
 .. image:: _static/images/859i2l.jpg
-   :align: center
    :width: 500px
 
 .. note::
