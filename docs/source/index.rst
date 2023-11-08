@@ -14,12 +14,11 @@ Are You Ready For The Final Tests?
 .. image:: _static/images/5622342.jpg
    :align: center
 
-   
 .. image:: _static/images/IMG_3795.AVIF.jpg
-   :width: 500px 
+   :algin: center
 
 .. image:: _static/images/859i2l.jpg
-   :width: 500px
+   :algin: center
 
 .. note::
 
