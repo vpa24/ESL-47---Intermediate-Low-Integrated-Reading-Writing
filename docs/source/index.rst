@@ -22,7 +22,9 @@ Are You Ready For The Final Tests?
 
 Behind the screen of people who make websites
 -------
-:raw-html:`<br />`
+.. raw:: html
+
+   <br/>
 .. image:: _static/images/859yht.jpg
 
 

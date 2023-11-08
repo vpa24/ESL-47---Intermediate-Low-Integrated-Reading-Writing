@@ -83,7 +83,6 @@ ul li {
 #welcome-to-the-documentation-for-esl47-intermediate-low-integrated-reading-writing
   h1 {
   background: linear-gradient(90deg, #8250df, #d42a32);
-  background-clip: border-box;
   background-clip: text;
   display: inline-block;
   color: transparent;
