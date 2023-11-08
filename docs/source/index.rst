@@ -14,17 +14,10 @@ Are You Ready For The Final Tests?
 .. image:: _static/images/5622342.jpg
    :align: center
 
-.. compound::
    
-   .. image:: _static/images/IMG_3795.AVIF.jpg
-      :align: left
-      :width: 500px 
-      :height: 700px
-   .. image:: _static/images/what-do-you-choose-v0-q8t2ffshwt6a1.jpg
-      :align: right
-      :width: 500px
-      :height: 700px
-
+.. image:: _static/images/IMG_3795.AVIF.jpg
+   :align: left
+   :width: 500px 
 
 .. image:: _static/images/859i2l.jpg
    :width: 500px
