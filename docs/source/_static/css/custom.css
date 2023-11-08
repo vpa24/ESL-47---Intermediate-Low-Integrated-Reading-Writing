@@ -38,7 +38,7 @@ em {
   text-align: center;
 }
 .center img {
-  margin-bottom: 3em;
+  margin-bottom: 3em !important;
 }
 .info {
   background-color: #e3b5a6;
