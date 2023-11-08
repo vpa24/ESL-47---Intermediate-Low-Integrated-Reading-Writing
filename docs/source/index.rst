@@ -15,10 +15,10 @@ Are You Ready For The Final Tests?
    :align: center
 
 .. image:: _static/images/IMG_3795.AVIF.jpg
-   :algin: center
+   :align: center
 
 .. image:: _static/images/859i2l.jpg
-   :algin: center
+   :align: center
 
 .. note::
 
