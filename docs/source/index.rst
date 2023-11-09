@@ -39,7 +39,7 @@ Behind the screen of people who make websites
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. If you have any questions or you found any mistakes in this documentation, please email me at: phuonganhvu497@gmail.com
 
 |say thanks|
 
