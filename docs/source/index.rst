@@ -9,6 +9,10 @@ Contents
    unit2.md
    unit3.md
 
+.. note::
+
+   This project is under active development. If you have any questions or you found any mistakes in this documentation, please email me at: phuonganhvu497@gmail.com
+
 .. image:: https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5600&lines=Hello+Friends!+%F0%9F%91%8B;
    :align: center
 
@@ -35,13 +39,6 @@ Behind the screen of people who make websites
 .. image:: _static/images/859yht.jpg
 
 
-.. note::
-
-   This project is under active development. If you have any questions or you found any mistakes in this documentation, please email me at: phuonganhvu497@gmail.com
-
-
-  If you are bootstrapping a new documentation project,
-  here is a list of example projects that you can derive your setup from.
 
 |say thanks|
 
