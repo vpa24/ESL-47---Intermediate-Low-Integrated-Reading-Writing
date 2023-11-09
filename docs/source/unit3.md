@@ -35,7 +35,7 @@
    improved the bus system. Fewer people drive to work now.
 5. I told the bus driver that my **destination** was downtown, so she told me to get off on Main Street.
 6. In large cities, people usually prefer to live near their workplace so that they don't have to be a **commuter**, but it's more expensive than the suburbs.
-7. Ferries **connnect** the main land to the islands.
+7. Ferries **connect** the main land to the islands.
 
 ### Solving the Problem of Traffic Congestion
 
@@ -153,7 +153,7 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
 <div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
 <p style='margin-top:1em;'>
 You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
-	<div><b>idea/action:</b> The goverment inncreases tax on fuel. -> simple present</div>
+	<div><b>idea/action:</b> The government increases tax on fuel. -> simple present</div>
 	<div><b>consequence:</b> People use their cars less. -> simple future</div>
 	<div class="color-blue"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
 	<div>or</div>
