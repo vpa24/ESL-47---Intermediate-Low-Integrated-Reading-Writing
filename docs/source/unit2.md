@@ -95,17 +95,17 @@
 4. **carbon dioxide**
 5. **power plant**
 6. **natural resource**
-7. **greenhoust gas**
+7. **greenhouse gas**
 
 #### Example
 
 1. In my town, about 70% of the electricity comes from a **power plant** that uses coals for energy.
-2. Carbon dioxide and methance are examples of **greenhouse gases**.
-3. Almost all scientists these days agree that **climate change** is happenging and it is a serious threat to out planet.
-4. Tree absorb **cacbon dioxide** and give off oxygen.
-5. All over the world, **evironmental groups** are working to educate people about the dangers of deforestation and habital destruction.
+2. Carbon dioxide and methane are examples of **greenhouse gases**.
+3. Almost all scientists these days agree that **climate change** is happening and it is a serious threat to out planet.
+4. Tree absorb **carbon dioxide** and give off oxygen.
+5. All over the world, **environmental groups** are working to educate people about the dangers of deforestation and habitat destruction.
 6. Fresh water is the most precious **natural resource** on Earth.
-7. Thousands of unquie plants, animals, birds, and insects live in the **tropical rainforsets** of South America and Southeast Asia.
+7. Thousands of unique plants, animals, birds, and insects live in the **tropical rainforests** of South America and Southeast Asia.
 
 ---
 
@@ -146,7 +146,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 2. Dan travels a lot **because** of his job.
 3. Alfredo and Maria were late **because of** a flat tire.
 4. Dolores studied for three hours **because** she had a big test.
-5. Tran called the bulding manager **because** his window was broken.
+5. Tran called the building manager **because** his window was broken.
 6. Ana couldn't sleep **because** the baby was crying.
 7. I couldn't go to work **because** my car broke down.
 8. Tanya needed a ladder **because of** the broken light.
@@ -214,9 +214,9 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 1. **re**build - to build again
 2. **en**large - to make larger
 3. **trans**port - to move from once place to another
-4. **dis**agree - to have a differnt opinion
+4. **dis**agree - to have a different opinion
 5. **de**cline - to slowly become less, worse, or lower
-6. **un**likely - probarly not going to happen
+6. **un**likely - probably not going to happen
 
 **PART B**
 
