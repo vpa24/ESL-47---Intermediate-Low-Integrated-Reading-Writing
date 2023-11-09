@@ -64,7 +64,9 @@ th {
 ul li {
   list-style-type: circle !important;
 }
-
+a:visited {
+  color: #2980b9 !important;
+}
 .txt-indent-2em {
   text-indent: 2em;
 }
