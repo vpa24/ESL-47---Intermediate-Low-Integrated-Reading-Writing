@@ -39,6 +39,10 @@ Behind the screen of people who make websites
 
    This project is under active development. If you have any questions or you found any mistakes in this documentation, please email me at: phuonganhvu497@gmail.com
 
+
+  If you are bootstrapping a new documentation project,
+  here is a list of example projects that you can derive your setup from.
+
 |say thanks|
 
 .. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
