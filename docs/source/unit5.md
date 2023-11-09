@@ -1,7 +1,7 @@
 # Unit 5 - Health and Fitness
 
 - [Key Vocabulary](#key-vocabulary)
-  - [Stay in Shape - It's Easier than You Think](#stay-in-shape-its-easier-than-you-think)
+  - [Stay in Shape - It's Easier than You Think](#stay-in-shape-its-s-easier-than-you-think)
   - [Tackling Obesity](#tackling-obesity)
 
 ---
