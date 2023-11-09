@@ -85,6 +85,7 @@ ul li {
 #welcome-to-the-documentation-for-esl47 h1 {
   background: linear-gradient(90deg, #8250df, #d42a32);
   background-clip: text;
+  -webkit-background-clip: text;
   display: inline-block;
   color: transparent;
 }
