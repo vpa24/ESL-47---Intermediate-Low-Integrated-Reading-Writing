@@ -94,3 +94,7 @@ ul li {
 #welcome-to-the-documentation-for-esl47 li.toctree-l2 {
   display: none;
 }
+
+ul.simple li a {
+  font-weight: bold;
+}
