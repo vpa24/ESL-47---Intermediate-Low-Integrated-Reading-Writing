@@ -89,3 +89,7 @@ ul li {
   display: inline-block;
   color: transparent;
 }
+
+li.toctree-l2 {
+  display: none;
+}
