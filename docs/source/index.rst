@@ -2,11 +2,10 @@
 Welcome to the documentation for ESL47!
 ==============================================================================
 
-🚀🗂️ This is a documentation which covered all of the lessons of Unit 1, Unit 2, Unit 3, and Unit 5 (I am still not complete yet).
- .. raw:: html
+.. raw:: html
+<p>🚀🗂️ This is a documentation which covered all of the lessons of Unit 1, Unit 2, Unit 3, and Unit 5 (I am still not complete yet).</p>
+<p>💡 You can click on the link below for each unit, and from each unit page, there are links outlining that unit's topics. Also, you can use the search function which located at the top of menu bar to quickly find specific information.</p>
 
-   <br/>
-💡 You can click on the link below for each unit, and from each unit page, there are links outlining that unit's topics. Also, you can use the search function which located at the top of menu bar to quickly find specific information.
 
 Contents
 --------
