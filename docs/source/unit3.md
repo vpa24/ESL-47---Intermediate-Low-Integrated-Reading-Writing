@@ -18,8 +18,8 @@
 
 ### Masdar: the Future of Cities?
 
-1. **commuter** (n) someone who travels between hoem and work or school regularly
-2. **connect** (v) to join two thigns or places together
+1. **commuter** (n) someone who travels between home and work or school regularly
+2. **connect** (v) to join two things or places together
 3. **destination** (n) the place where someone or something is going
 4. **outskirts** (n) the outer area of city or town
 5. **public transportation** (n) a system of vehicles, such as buses and subways, which operate at regular times for public use
@@ -296,7 +296,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 
 A concluding setence is not absolutely necessary in a muli paragraph essay. However, for long single paragraphs, a concluding sentence can be helpful. A concluding sentence singals the end of the paragraph by:
 
-- Resating the topic sentence using synonyms
+- Restarting the topic sentence using synonyms
 - Summarizing the main points (without repeating the same words)
 - Giving a final comment (a suggestion, an opinion, or a prediction)
 
