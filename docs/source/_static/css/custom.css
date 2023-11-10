@@ -48,7 +48,10 @@ em {
   padding: 0.7em;
   margin-bottom: 2em;
 }
-
+.info[data-theme="dark"] {
+  background-color: #ae5365;
+  border-left: solid #79070c 4px;
+}
 .ml-2em {
   margin-left: 2em;
 }
@@ -83,7 +86,7 @@ ul li {
 }
 
 #behind-the-screen-of-people-who-make-websites h2,
- h1 {
+h1 {
   background: linear-gradient(90deg, #8250df, #d42a32);
   background-clip: text;
   -webkit-background-clip: text;
