@@ -142,6 +142,10 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ### Compare and contrast using Venn diagram
 
+```{admonition} Using a Venn diagram
+A Venn diagram is useful for taking notes on similarities and differences. It consists of two or three overlapping circles. The differences will listed on the left side and right side of the diagram. The similarities are listed in the center.
+```
+
 <div class="info">
 <p style='margin-top:1em; text-align:center'><b>Using a Venn diagram</b></p>
 <p style='margin-left:1em;'>
