@@ -93,13 +93,13 @@ h1 {
   display: none;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (data-theme="dark") {
   .info {
     background-color: #ae5365;
     border-left: solid #79070c 4px;
   }
 }
-@media (prefers-color-scheme: light) {
+@media (data-theme="light") {
   .info {
     background-color: #e3b5a6;
     border-left: solid #af242a 4px;
