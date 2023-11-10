@@ -163,7 +163,7 @@ For example, birds and bats are profiled by both their similarities and differen
 
 ## Topic sentences
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <span>
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>
@@ -273,7 +273,7 @@ In English sentences, the subject usually comes before the verb and the object. 
 
 ### AND and OR
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <span>
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>
@@ -307,7 +307,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 ### BUT and WHEREAS
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <span>
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>
@@ -324,7 +324,7 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 ### BOTH and NEITHER
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <span>
 <p style='margin-top:1em; text-align:center'>
 <p style='margin-left:1em;'>

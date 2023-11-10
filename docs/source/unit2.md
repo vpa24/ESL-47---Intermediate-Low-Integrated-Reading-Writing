@@ -157,7 +157,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 ## Prefixes
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <span>
 <p style='margin-top:1em;'>
 <b>Prefixes</b> are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
@@ -273,7 +273,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ## Paragraph Unity
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <p style='margin-top:1em;'>
 	A well-written pragraph has just <b>one main idea</b>, and <b>all the supporting sentences in the paragraph should expalain or give information about it.</b> They should not introducte any new topics.
 	<br/>
@@ -333,7 +333,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ## Supporting sentences and details
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <p style='margin-top:1em;'>
 Good writers use <b>supporting sentences</b> to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide <b>details</b>-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
 </p>

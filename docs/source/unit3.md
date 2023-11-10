@@ -121,7 +121,7 @@
 
 ## Future Real Conditional/ IF ... WILL
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <p style='margin-top:1em;'>
 You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
 	<div><b>idea/action:</b> The goverment inncreases tax on fuel.</div>
@@ -150,7 +150,7 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
 
 ## IF ... NOT and UNLESS
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <p style='margin-top:1em;'>
 You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
 	<div><b>idea/action:</b> The government increases tax on fuel. -> simple present</div>
@@ -187,7 +187,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 
 ## Suffixes
 
-<div class="warning" style='background-color:#e3b5a6; border-left: solid #af242a 4px; border-radius: 4px; padding:0.7em; margin-bottom:2em;'>
+<div class="info" >
 <p style='margin-top:1em;'>
 <b>Suffixes</b> are letters added to the end of a base word to change its conjugation, word type, or other grammar properties like plurality.
 </div>
