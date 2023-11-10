@@ -142,11 +142,10 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ### Compare and contrast using Venn diagram
 
-```{admonition} Custom title with "warning" style
+{admonition} Custom title with "warning" style
 :class: warning
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-```
 
 ```{admonition} Using a Venn diagram
 
