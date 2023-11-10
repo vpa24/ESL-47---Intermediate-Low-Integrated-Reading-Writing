@@ -94,9 +94,6 @@ h1 {
   display: none;
 }
 
-ul.simple li a {
-  font-weight: bold;
-}
 @media (prefers-color-scheme: dark) {
   .info {
     background-color: #ae5365;
