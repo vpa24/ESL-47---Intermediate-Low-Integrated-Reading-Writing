@@ -42,8 +42,6 @@ em {
   margin-bottom: 3em !important;
 }
 .info {
-  background-color: #e3b5a6;
-  border-left: solid #af242a 4px;
   border-radius: 4px;
   padding: 0.7em;
   margin-bottom: 2em;
@@ -99,5 +97,11 @@ h1 {
   .info {
     background-color: #ae5365;
     border-left: solid #79070c 4px;
+  }
+}
+@media (prefers-color-scheme: light) {
+  .info {
+    background-color: #e3b5a6;
+    border-left: solid #af242a 4px;
   }
 }
