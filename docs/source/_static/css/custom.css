@@ -48,10 +48,6 @@ em {
   padding: 0.7em;
   margin-bottom: 2em;
 }
-.info[data-theme="dark"] {
-  background-color: #ae5365;
-  border-left: solid #79070c 4px;
-}
 .ml-2em {
   margin-left: 2em;
 }
@@ -100,4 +96,10 @@ h1 {
 
 ul.simple li a {
   font-weight: bold;
+}
+@media (prefers-color-scheme: dark) {
+  .info {
+    background-color: #ae5365;
+    border-left: solid #79070c 4px;
+  }
 }
