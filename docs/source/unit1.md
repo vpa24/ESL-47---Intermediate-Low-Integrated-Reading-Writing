@@ -336,7 +336,7 @@ You can use other phrases to compare two difference things.
 3. **Neither** the Arabian oryx **nor** the snow leopard is safe from hunters. The Arabian oryx is killed for its horns and the snow leopard for its fur.
 4. Not including their tails, **both** red **and** gray squirrels are under 15 inches long.
 
-### Example of using the words but, and, and or
+### Example of using BUT, AND, and OR
 
 **Most sentences are simple sentences, not compound sentences.**
 
