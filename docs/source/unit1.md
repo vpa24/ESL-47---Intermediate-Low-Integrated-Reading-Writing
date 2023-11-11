@@ -162,7 +162,7 @@ For example, birds and bats are profiled by both their similarities and differen
 
 ## Topic sentences
 
-```{admonition} Using a Venn diagram
+```{admonition}
 
 A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins> It <ins>introduces the main idea</ins> of the paragraph and often the point that the writer wants to make about the topic. A topic sentence should be a <ins>general</ins> statement about the paragraph's subject, but <ins>it shouldn't be too specific</ins>. It is then support by the order sentences in the paragraph.
 ```
@@ -269,7 +269,6 @@ In English sentences, the subject usually comes before the verb and the object. 
 ### AND and OR
 
 ````{admonition}
-
 When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.
 
 ```{raw} html
@@ -280,7 +279,6 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 <div style="color:#0173bc"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</div>
 <div style="color:#0173bc">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</div>
 
-```
 ````
 
 #### Example
