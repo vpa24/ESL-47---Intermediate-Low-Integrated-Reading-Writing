@@ -97,3 +97,7 @@ h1 {
   color: #f778ba;
   font-weight: 500;
 }
+
+.toctree-wrapper>ul {
+    padding-left: 2rem !important;
+}
