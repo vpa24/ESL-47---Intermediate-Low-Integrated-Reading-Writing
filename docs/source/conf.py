@@ -7,6 +7,8 @@ project = 'ESL47'
 # -- General configuration
 
 extensions = [
+	'myst-parser',
+	'pydata_sphix_theme',
 	'recommonmark',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
