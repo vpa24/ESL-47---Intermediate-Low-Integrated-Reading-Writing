@@ -38,14 +38,6 @@ Are You Ready For The Final Tests?
 .. image:: _static/images/859i2l.jpg
    :align: center
 
-Behind the screen of people who make websites
--------
-.. raw:: html
-
-   <br/>
-.. image:: _static/images/859yht.jpg
-
-
 
 |say thanks|
 
