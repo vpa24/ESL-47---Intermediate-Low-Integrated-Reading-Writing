@@ -142,7 +142,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ### Compare and contrast using Venn diagram
 
-```{admonition}
+```{admonition} Using a Venn diagram
 
 A Venn diagram is useful for taking notes on similarities and differences. It consists of two or three overlapping circles. The differences will listed on the left side and right side of the diagram. The similarities are listed in the center.
 ```
@@ -162,7 +162,7 @@ For example, birds and bats are profiled by both their similarities and differen
 
 ## Topic sentences
 
-```{admonition}
+```{admonition} A topic sentence
 
 A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins> It <ins>introduces the main idea</ins> of the paragraph and often the point that the writer wants to make about the topic. A topic sentence should be a <ins>general</ins> statement about the paragraph's subject, but <ins>it shouldn't be too specific</ins>. It is then support by the order sentences in the paragraph.
 ```
@@ -268,7 +268,7 @@ In English sentences, the subject usually comes before the verb and the object. 
 
 ### AND and OR
 
-````{admonition}
+````{admonition} AND and OR
 
 When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.
 
@@ -302,11 +302,11 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 ### BUT and WHEREAS
 
-````{admonition}
+```{admonition} BUT and WHEREAS
 
 <ins>A <b>but</b> and <b>whereas</b> are used to contrast two sentences.</ins> <b>Whereas</b> is more formal than <b>but</b>.
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
-````
+```
 
 #### Example
 
@@ -315,10 +315,10 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 ### BOTH and NEITHER
 
-````{admonition}
+```{admonition} BOTH and NEITHER
 
 You can use other phrases to compare two difference things.
-````
+```
 
 <div>If <ins>two things/people have the same characteristic</ins>, use <b>both ... and ....</b> :</div>
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
