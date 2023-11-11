@@ -273,10 +273,10 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ```{admonition} PARAGRAPH UNITY
 
-	A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
+A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
+When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
 ```
 
-    When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
 
 ### Example
 
