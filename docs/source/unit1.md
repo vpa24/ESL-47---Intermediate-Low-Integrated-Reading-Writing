@@ -276,7 +276,7 @@ When joining two sentences together, you can also take out some words. This make
 <div>In <strong><em>affirmative sentences</strong></em>, use <strong>and</strong>:</div>
 <div style="color:#0173bc"><span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> sharp teeth. <span style="font-weight:bold">The tiger shark</span> <span style="text-decoration:underline">has</span> a powerful bite.</div>
 <div style="color:#0173bc">-> The tiger shark has sharp teeth <b>and</b> a powerful bite.</div>
-In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
+<div>In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:</div>
 <div style="color:#0173bc"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</div>
 <div style="color:#0173bc">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</div>
 ```
@@ -315,16 +315,19 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 
 ### BOTH and NEITHER
 
-```{admonition} BOTH and NEITHER
+````{admonition} BOTH and NEITHER
 
 You can use other phrases to compare two difference things.
-```
 
+```{raw} html
 <div>If <ins>two things/people have the same characteristic</ins>, use <b>both ... and ....</b> :</div>
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
 <div style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</div>
 <div>If <ins>they do not have a particular characteristic</ins>, use <b>neither ... nor ....</b> :</div>
 <div style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</div>
+```
+
+````
 
 #### Example
 
