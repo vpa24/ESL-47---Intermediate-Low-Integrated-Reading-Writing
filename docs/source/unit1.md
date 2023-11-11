@@ -142,7 +142,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
 
 ### Compare and contrast using Venn diagram
 
-```{admonition} Using a Venn diagram
+```{admonition}
 
 A Venn diagram is useful for taking notes on similarities and differences. It consists of two or three overlapping circles. The differences will listed on the left side and right side of the diagram. The similarities are listed in the center.
 ```
@@ -269,6 +269,7 @@ In English sentences, the subject usually comes before the verb and the object. 
 ### AND and OR
 
 ````{admonition}
+
 When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.
 
 ```{raw} html
@@ -278,6 +279,7 @@ When joining two sentences together, you can also take out some words. This make
 In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 <div style="color:#0173bc"><span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have sharp teeth. <span style="font-weight:bold">The whale shark</span> <span style="text-decoration:underline">does not</span> have a powerful bite.</div>
 <div style="color:#0173bc">-> The whale shark does not have sharp teeth <b>or</b> a powerful bite.</div>
+```
 
 ````
 
@@ -316,12 +318,13 @@ In <strong><em>negative sentences</em></strong>, use <strong>or</strong>:
 ````{admonition}
 
 You can use other phrases to compare two difference things.
+````
+
 <div>If <ins>two things/people have the same characteristic</ins>, use <b>both ... and ....</b> :</div>
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
 <div style="color:#0173bc"><b>Both</b> the gray <b>and</b> red squirrel carry the parapox virus.</div>
 <div>If <ins>they do not have a particular characteristic</ins>, use <b>neither ... nor ....</b> :</div>
 <div style="color:#0173bc"><b>Neither</b> the gray <b>nor</b> red squirrel is found in the north of Scottland.</div>
-````
 
 #### Example
 
