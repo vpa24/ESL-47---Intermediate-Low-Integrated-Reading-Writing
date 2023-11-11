@@ -7,7 +7,8 @@ project = 'ESL47'
 # -- General configuration
 
 extensions = [
-    'myst-parser',
+    'myst_parser',
+	'sphinx_design',
     'pydata_sphix_theme',
     'recommonmark',
     'sphinx.ext.duration',
@@ -16,6 +17,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
+
+myst_enable_extensions = ["colon_fence"]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
