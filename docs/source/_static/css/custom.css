@@ -93,11 +93,6 @@ h1 {
   display: none;
 }
 
-/* .info[data-theme="dark"] {
-  background-color: #ae5365;
-  border-left: solid #79070c 4px;
+.para_title {
+  color: #f778ba;
 }
-.info[data-theme="light"] {
-  background-color: #e3b5a6;
-  border-left: solid #af242a 4px;
-} */

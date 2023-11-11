@@ -357,7 +357,7 @@ the environment by keeping hundreds of cars and trucks off the roads.
 
 ## Two Solutions Paragraphs Example
 
-<h2 align="center">Two solutions to Homlessness</h2>
+<h2 align="center" class="para_title">Two solutions to Homlessness</h2>
 <div style="line-height: 2;">
 <p class="txt-indent-2em"><ins>One solution to the problem of homelessness <b>is building more affordable housing.</b></ins> This means making homes that people with lower incomes can afford to rent. <ins>The first advantage of this solution <b>is that it provides a safe and stable place for homeless people and their families to
 live.</b></ins> If they don't need to worry about where they will sleep each night, they will be able to focus
