@@ -113,7 +113,7 @@
 
 ````{admonition} BECAUSE and BECAUSE OF
 
-```{raw}html
+```{raw} html
 <strong>Because</strong> is a conjunction that introduces a reason. It is followed by a subject, a verb, and sometimes an object.
 <div class="color-blue">The environment is changing <b>because</b> humans are burning fossil fuels.</div><br/>
 <div><strong>Because of</strong> is a two-word preposiion meaning "as a result of". It is followed by a noun phrase (made up of articles, adjectives, and nouns).</div>
@@ -159,7 +159,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 ```{admonition} PREFIXES
 
-<b>Prefixes</b> are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
+**Prefixes** are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
 ```
 
 <table>
@@ -274,7 +274,6 @@ Writers use certain phrases to show relationship between the causes of a problem
 ```{admonition} PARAGRAPH UNITY
 
 	A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
-
 	When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
 
 ```
@@ -333,7 +332,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ```{admonition} SUPPORTING SENTENCES and DETAILS
 
-Good writers use **supporting sentences** to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide **details**-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
+Good writers use **supporting sentences** to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, **writers provide details-facts, examples, reasons, or explanations-for each supporting point in a paragraph.**
 
 ```
 
