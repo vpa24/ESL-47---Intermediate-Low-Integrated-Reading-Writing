@@ -30,20 +30,19 @@
 
 ### Tackling Obesity
 
-<!-- 1. **absorb** (v) to take in a liquid or gas through a surface and hold it
-2. **construction** (n) the process of building something, usually large structures such as houses, roads, or bridges
-3. **destruction** (n) the act of causing so much damage to something that it stops existing because it cannot be repaired
-4. **effect** (n) result; a change that happens because of a cause
-5. **farming** (n) the job of working on a farm or organizing work on
-6. **logging** (n) the activity or business of cutting down trees for wood
+1. **balanced diet** (n) a daily eating program that has a healthy mixture of different kinds of food
+2. **campaign** (n) a group of activities designed to motivate people to take action, such as giving money or changing their behavior
+3. **junk food** (n) food that is unhealthy but quick and easy to eat
+4. **nutritional** (adj) relating to food and the way it affects your health
+5. **obesity** (n) the condition of being extremely overweight
+6. **portion** (n) an amount of food served to one person
 7. **rainforest** (n) a forest in a tropical area that gets a lot of rain -->
 
 #### Example
 
-<!-- 1. Clothes made from plants, like cotton or bamboo, **absorb** water more easily than man-made materials like polyester.
-2. **Farming** has been the occupation of my family since my grandfather bought his first cow 75 years ago.
-3. **Logging** hurts native people because it destroys the forest that provides them with food, shelter, and medicine.
-4. The Amazon **rainforest** in South America receives 60 to 118 inches (150 to 300 centimeters) of rain every year.
-5. Because of heavy snow, the **construction** of the new road stopped for more than two months.
-6. Sunburn is just one of the harmful **effect** of too much sun on sensitive skin.
-7. Hurricane Katrina in 2005 caused serious **destruction** along the U.S. coast from Florida to Texas and killed more than 1,800 people. -->
+1. I try to eat a **balanced diet** consisting of a little meat, some dairy product, and a lot fruit, vegetables, and grains.
+2. I love **junk food** like potato chips and hot dogs, but I'm careful not to eat too much because I know they aren't good for me.
+3. **Obesity** is a serious problem all over the world. In some countries, more than 50% of adults are overweight.
+4. One way to lose weight is to eat the same foods but smaller **portion**.
+5. Right now, my company is sponsoring a **campaign** to raise money for a new gym in the local school.
+6. Snacks like candy and potato chips have little **nutritional** fruit or raw vegetables is much better for your body.
