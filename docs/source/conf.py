@@ -8,14 +8,14 @@ project = 'ESL47'
 
 extensions = [
     'myst_parser',
-	'sphinx_design',
-    'recommonmark',
+    'sphinx_design',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
+
 
 myst_enable_extensions = ["colon_fence"]
 
