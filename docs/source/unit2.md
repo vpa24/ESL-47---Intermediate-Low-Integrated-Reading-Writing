@@ -111,16 +111,16 @@
 
 ## Because and Because of
 
-<div class="info">
-<p style='margin-top:1em; text-align:center'>
-<div style='margin-left:1em;'>
+````{admonition} BECAUSE and BECAUSE OF
+
+```{raw}html
 <strong>Because</strong> is a conjunction that introduces a reason. It is followed by a subject, a verb, and sometimes an object.
 <div class="color-blue">The environment is changing <b>because</b> humans are burning fossil fuels.</div><br/>
 <div><strong>Because of</strong> is a two-word preposiion meaning "as a result of". It is followed by a noun phrase (made up of articles, adjectives, and nouns).</div>
 <div class="color-blue">The climate is chaning <b>because of</b> human activity.</div>
-</div>
-</p>
-</div>
+```
+
+````
 
 Use a **because** _clause_ or **because of** _phrase_ to give an explanation for something.
 Use **because** in a clause with _subject and verb_. Use **because of** _before a noun to make a phrase_.
@@ -157,12 +157,10 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 
 ## Prefixes
 
-<div class="info" >
-<span>
-<p style='margin-top:1em;'>
+```{admonition} PREFIXES
+
 <b>Prefixes</b> are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
-</span>
-</div>
+```
 
 <table>
 	<tr>
@@ -273,13 +271,13 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ## Paragraph Unity
 
-<div class="info" >
-<p style='margin-top:1em;'>
-	A well-written pragraph has just <b>one main idea</b>, and <b>all the supporting sentences in the paragraph should expalain or give information about it.</b> They should not introducte any new topics.
-	<br/>
-	<div>When a paragraph has these characteristics, it has <b>unity</b>. Unity is a basic requirement of good academic writing.</div>
-</p>
-</div>
+```{admonition} PARAGRAPH UNITY
+
+	A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
+
+	When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
+
+```
 
 ### Example
 
@@ -333,11 +331,11 @@ Writers use certain phrases to show relationship between the causes of a problem
 
 ## Supporting sentences and details
 
-<div class="info" >
-<p style='margin-top:1em;'>
-Good writers use <b>supporting sentences</b> to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide <b>details</b>-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
-</p>
-</div>
+```{admonition} SUPPORTING SENTENCES and DETAILS
+
+Good writers use **supporting sentences** to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, writers provide **details**-facts, examples, reasons, or explanations-for each supporting point in a paragraph.
+
+```
 
 ### Example
 
