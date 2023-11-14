@@ -286,7 +286,7 @@ can understand the meaning.
 
 ## Stating Opinions
 
-````{admonition}
+````{admonition} Stating Opinions
 :class: important
 
 Good writers need to clearly state thier opinions when they write an opinion essay. You can can state your opinion with opinion phrases or with modals.
