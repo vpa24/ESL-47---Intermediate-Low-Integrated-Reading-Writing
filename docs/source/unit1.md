@@ -269,6 +269,7 @@ In English sentences, the subject usually comes before the verb and the object. 
 ### AND and OR
 
 ````{admonition} AND and OR
+:class: important
 
 When joining two sentences together, you can also take out some words. This makes the sentences shorter and better because you can avoid repetition.
 
@@ -303,6 +304,7 @@ When joining two sentences together, you can also take out some words. This make
 ### BUT and WHEREAS
 
 ```{admonition} BUT and WHEREAS
+:class: important
 
 <ins>A <b>but</b> and <b>whereas</b> are used to contrast two sentences.</ins> <b>Whereas</b> is more formal than <b>but</b>.
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
@@ -316,6 +318,7 @@ When joining two sentences together, you can also take out some words. This make
 ### BOTH and NEITHER
 
 ````{admonition} BOTH and NEITHER
+:class: important
 
 You can use other phrases to compare two difference things.
 

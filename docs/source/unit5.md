@@ -58,6 +58,7 @@
 ## Verb and Noun Forms
 
 ````{admonition} VERB and NOUN FORMS
+:class: important
 
 It is important to recognize both the verb and the noun form of words when you are reading, and to spell them correctly when you are writing.
 
