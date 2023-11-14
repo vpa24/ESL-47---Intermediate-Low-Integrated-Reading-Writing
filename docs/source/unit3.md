@@ -122,7 +122,7 @@
 ## Future Real Conditional/ IF ... WILL
 
 ````{admonition} PARAGRAPH UNITY
-:class:important
+:class: important
 
 ```{raw} html
 You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
@@ -154,7 +154,7 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
 ## IF ... NOT and UNLESS
 
 ````{admonition} IF ... NOT and UNLESS
-:class:important
+:class: important
 
 ```{raw} html
 You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
@@ -194,7 +194,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 ## Suffixes
 
 ```{admonition} SUFFIXES
-:class:important
+:class: important
 **Suffixes** are letters added to the end of a base word to change its conjugation, word type, or other grammar properties like plurality.
 ```
 

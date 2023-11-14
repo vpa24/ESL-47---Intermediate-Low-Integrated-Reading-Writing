@@ -159,7 +159,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 ## Prefixes
 
 ```{admonition} PREFIXES
-:class:important
+:class: important
 
 **Prefixes** are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
 ```
@@ -274,7 +274,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 ## Paragraph Unity
 
 ```{admonition} PARAGRAPH UNITY
-:class:important
+:class: important
 
 A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
 
@@ -334,7 +334,7 @@ When a paragraph has these characteristics, it has **unity**. Unity is a basic r
 ## Supporting sentences and details
 
 ```{admonition} SUPPORTING SENTENCES and DETAILS
-:class:important
+:class: important
 
 Good writers use **supporting sentences** to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, **writers provide details-facts, examples, reasons, or explanations-for each supporting point in a paragraph.**
 
