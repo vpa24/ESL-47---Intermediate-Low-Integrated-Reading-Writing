@@ -112,6 +112,7 @@
 ## Because and Because of
 
 ````{admonition} BECAUSE and BECAUSE OF
+:class: important
 
 ```{raw} html
 <strong>Because</strong> is a conjunction that introduces a reason. It is followed by a subject, a verb, and sometimes an object.
@@ -158,6 +159,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 ## Prefixes
 
 ```{admonition} PREFIXES
+:class:important
 
 **Prefixes** are added to the beginning of a word to make a new word with a differnt meaning. Understanding the meaning of prefixes can help you guess the general meaning of difficult academic or technical words.
 ```
@@ -272,12 +274,12 @@ Writers use certain phrases to show relationship between the causes of a problem
 ## Paragraph Unity
 
 ```{admonition} PARAGRAPH UNITY
+:class:important
 
 A well-written pragraph has just **one main idea**, and **all the supporting sentences in the paragraph should expalain or give information about it.** They should not introducte any new topics.
 
 When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
 ```
-
 
 ### Example
 
@@ -332,6 +334,7 @@ When a paragraph has these characteristics, it has **unity**. Unity is a basic r
 ## Supporting sentences and details
 
 ```{admonition} SUPPORTING SENTENCES and DETAILS
+:class:important
 
 Good writers use **supporting sentences** to develop and explain the main idea of a paragraph. The supporting sentences state important points about the main idea. Normally, **writers provide details-facts, examples, reasons, or explanations-for each supporting point in a paragraph.**
 
@@ -351,7 +354,10 @@ Good writers use **supporting sentences** to develop and explain the main idea o
 
 ## Cause and Effect Essay Example
 
-<h2 align="center" class="para_title">The Causes and Effects of Homelessness</h2>
+```{admonition} The Causes and Effects of Homelessness
+:class:important
+
+```{raw} html
 <div style="line-height: 2;">
 <p class="txt-indent-2em">Homelessness is a big problem that affects people and communities everywhere. To understand it better, we need to look at <span style="text-decoration:underline">why it happens and what it does</span> to people and our society. It is important to understand <span style="text-decoration:underline">the reasons for</span> homelessness and <span style="text-decoration:underline">what happens</span> when people don't have a home.</p>
 
@@ -361,3 +367,6 @@ Good writers use **supporting sentences** to develop and explain the main idea o
 
 <p class="txt-indent-2em">In conclusion, homelessness is a significant problem caused by financial and personal problems. It also has serious effects, such as making people sick and hurting our community. We all need to work together to help people who are homeless, so that everyone has a safe place to live and our community can be a better place for everyone.</p>
 </div>
+```
+
+````
