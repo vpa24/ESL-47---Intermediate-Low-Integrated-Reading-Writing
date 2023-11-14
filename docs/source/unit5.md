@@ -295,7 +295,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 <table>
   <tbody>
     <tr>
-      <td style="min-width:200px"><b>opinion phrases</b><br/>
+      <td><b>opinion phrases</b><br/>
       In my opinion,<br/>
       In my view,<br/>
       I believe (that) <br/>
