@@ -221,7 +221,7 @@ It is important to recognize both the verb and the noun form of words when you a
 ## Health and fitness collocations
 
 ```{admonition} Health and fitness collocations
-  :class: important
+:class: important
 
 **Collocations are pairs of words that frequently occur together**, for example,
 **noun + noun** or **adjective + noun**. Collocations sound correct to fluent speakers
