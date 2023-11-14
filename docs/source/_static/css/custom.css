@@ -98,6 +98,14 @@ h1 {
   font-weight: 500;
 }
 
-.toctree-wrapper>ul {
-    padding-left: 2rem !important;
+.toctree-wrapper > ul {
+  padding-left: 2rem !important;
+}
+
+.admonition p.admonition-title ~ *,
+div.admonition p.admonition-title ~ * {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
 }
