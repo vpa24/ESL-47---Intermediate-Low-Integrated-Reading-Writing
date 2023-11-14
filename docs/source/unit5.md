@@ -323,8 +323,8 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 
 ### Example
 
-1. I think that government shouldn't pay for people to enroll in weight reduction.
-2. In my opinion, junk food advertisements shouldn't be illegal.
-3. I believe that running isn't the best way for staying in shape.
-4. In my view, most adults shouldn't spend too much time sitting.
-5. I think that it is necessary to sleep eight hours a night in order to stay healthy.
+1. **I think that** government **shouldn't** pay for people to enroll in weight reduction.
+2. **In my opinion**, junk food advertisements **shouldn't** be illegal.
+3. **I believe that** running isn't the best way for staying in shape.
+4. **In my view,** most adults **shouldn't** spend too much time sitting.
+5. **I think that** it is necessary to sleep eight hours a night in order to stay healthy.
