@@ -46,3 +46,23 @@
 4. One way to lose weight is to eat the same foods but smaller **portion**.
 5. Right now, my company is sponsoring a **campaign** to raise money for a new gym in the local school.
 6. Snacks like candy and potato chips have little **nutritional** fruit or raw vegetables is much better for your body.
+
+### Quizlet link to study the Unit 5 Words
+
+[https://quizlet.com/851266696/unit-5-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/851266696/unit-5-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
+
+## Verb and Noun Forms
+
+````{admonition} VERB and NOUN FORMS
+
+It is important to recognize both the verb and the noun form of words when you are reading, and to spell them correctly when you are writing.
+
+**Notice:** Sometimes the verb and noun forms are the same.
+
+
+
+```{raw} html
+<div class="color-blue">The biggest thing that stops people going to the gym is the <b>cost</b>. (noun)</div>
+<div class="color-blue">Gym membership should <b>cost</b> less so more people can join. (verb)</div>
+```
+````
