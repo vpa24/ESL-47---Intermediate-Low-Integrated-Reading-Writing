@@ -301,8 +301,6 @@ Good writers need to clearly state thier opinions when they write an opinion ess
       I believe (that) <br/>
       I think (that) <br/>
       </td>
-    </tr>
-    <tr>
       <td><b>In my opinion,</b> individuals, governments, and the media should share the responsibility for tackling obesity.</td>
     </tr>
     <tr>
@@ -312,8 +310,6 @@ Good writers need to clearly state thier opinions when they write an opinion ess
       need to / don't need to<br/>
       must / don't have to
       </td>
-    </tr>
-    <tr>
       <td>
       The media <b>need to</b> play a larger role in fighting obesity.
       Individuals <b>ought to</b> make better food choices.
@@ -324,3 +320,10 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 ```
 
 ````
+### Example
+
+1. I think that government shouldn't pay for people to enroll in weight reduction.
+2. In my opinion, junk food advertisements shouldn't be illegal.
+3. I believe that running isn't the best way for staying in shape.
+4. In my view, most adults shouldn't spend too much time sitting.
+5. I think that it is necessary to sleep eight hours a night in order to stay healthy.
