@@ -217,3 +217,66 @@ It is important to recognize both the verb and the noun form of words when you a
     </tr>
   </tbody>
 </table>
+
+## Health and fitness collocations
+
+```{admonition}:: Health and fitness collocations
+  :class: important
+
+**Collocations are pairs of words that frequently occur together**, for example,
+**noun + noun** or **adjective + noun**. Collocations sound correct to fluent speakers
+of a language. For example, heart disease is a frequent collocation in English. It
+sounds correct. On the other hand, heart illness sounds wrong, even though we
+can understand the meaning.
+```
+
+<table>
+ <thead>
+    <tr>
+      <th>definition</th>
+      <th>collocation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>how long a person can expect to live</td>
+      <td>life expectancy</td>
+    </tr>
+    <tr>
+      <td>how good a particular kind of food is for you</td>
+      <td>nutritional value</td>
+    </tr>
+    <tr>
+      <td>classes or material to teach people about a particular topic</td>
+      <td>education programs</td>
+    </tr>
+    <tr>
+      <td>an illness of the heart</td>
+      <td>heart disease</td>
+    </tr>
+    <tr>
+      <td>moving around and doing things</td>
+      <td>physical activity</td>
+    </tr>
+    <tr>
+      <td>media projects to convince people to buy a product or change their behavior</td>
+      <td>advertising campaign</td>
+    </tr>
+    <tr>
+      <td>a very bad medical problem</td>
+      <td>serious illness</td>
+    </tr>
+    <tr>
+      <td>a mixture of the correct types and amounts of food</td>
+      <td>balanced diet</td>
+    </tr>
+    <tr>
+      <td>sports or movement that people do at the same time each day, week, month, etc.</td>
+      <td>regular exercise</td>
+    </tr>
+    <tr>
+      <td>food that is unhealthy but is quick and easy to eat</td>
+      <td>junk food</td>
+    </tr>
+  </tbody>
+</table>
