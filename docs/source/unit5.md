@@ -6,7 +6,8 @@
   - [Quizlet link to study the Unit 5 Words](#quizlet-link-to-study-the-unit-5-words)
 - [Verb and Noun Forms](#verb-and-noun-forms)
 - [Some other commond word families](#some-other-commond-word-families)
-- [Health and fitness collocations](l#health-and-fitness-collocations)
+- [Health and fitness collocations](#health-and-fitness-collocations)
+- [Stating Opinions](#stating-opinions)
 
 ---
 
