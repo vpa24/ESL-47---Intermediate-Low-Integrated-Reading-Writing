@@ -295,13 +295,13 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 <table>
   <tbody>
     <tr>
-      <td><b>opinion phrase</b><br/>
+      <td><b>opinion phrases</b><br/>
       In my opinion,<br/>
       In my view,<br/>
       I believe (that) <br/>
       I think (that) <br/>
       </td>
-      <td><b>In my opinion,</b> individuals, governments, and the media should share the responsibility for tackling obesity.</td>
+      <td class="color-blue"><b>In my opinion,</b> individuals, governments, and the media should share the responsibility for tackling obesity.</td>
     </tr>
     <tr>
       <td><b>modals</b><br/>
@@ -310,7 +310,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
       need to / don't need to<br/>
       must / don't have to
       </td>
-      <td>
+      <td class="color-blue">
       The media <b>need to</b> play a larger role in fighting obesity.
       Individuals <b>ought to</b> make better food choices.
       </td>
@@ -320,6 +320,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 ```
 
 ````
+
 ### Example
 
 1. I think that government shouldn't pay for people to enroll in weight reduction.
