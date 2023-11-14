@@ -283,3 +283,46 @@ can understand the meaning.
     </tr>
   </tbody>
 </table>
+
+## Stating Opinions
+
+````{admonition}
+:class: important
+
+Good writers need to clearly state thier opinions when they write an opinion essay. You can can state your opinion with opinion phrases or with modals.
+
+```{raw} html
+<table>
+  <tbody>
+    <tr>
+      <td><b>opinion phrase</b><br/>
+      In my opinion,<br/>
+      In my view,<br/>
+      I believe (that) <br/>
+      I think (that) <br/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>In my opinion,</b> individuals, governments, and the media should share the responsibility for tackling obesity.</td>
+    </tr>
+    <tr>
+      <td><b>modals</b><br/>
+      should / shouldn't<br/>
+      ought to<br/>
+      need to / don't need to<br/>
+      must / don't have to
+      </td>
+    </tr>
+    <tr>
+      <td>
+      The media <b>need to</b> play a larger role in fighting obesity.
+      Individuals <b>ought to</b> make better food choices.
+      </td>
+    </tr>
+  </tbody>
+</table>
+````
+
+```
+
+```
