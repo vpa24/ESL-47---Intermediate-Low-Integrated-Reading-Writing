@@ -121,7 +121,7 @@
 
 ## Future Real Conditional/ IF ... WILL
 
-````{admonition} PARAGRAPH UNITY
+````{admonition} IF ... WILL
 :class: important
 
 ```{raw} html
