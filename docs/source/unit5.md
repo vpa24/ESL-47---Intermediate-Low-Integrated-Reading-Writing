@@ -321,8 +321,6 @@ Good writers need to clearly state thier opinions when they write an opinion ess
     </tr>
   </tbody>
 </table>
+```
+
 ````
-
-```
-
-```
