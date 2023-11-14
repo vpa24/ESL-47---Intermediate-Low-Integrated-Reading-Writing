@@ -109,3 +109,111 @@ It is important to recognize both the verb and the noun form of words when you a
     </tr>
   </tbody>
 </table>
+
+## Some other commond word families
+
+<table>
+ <thead>
+    <tr>
+      <th>Noun</th>
+      <th>Verb</th>
+      <th>Adjective</th>
+      <th>Adverb</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>beauty</td>
+      <td>beautify</td>
+      <td>beautiful</td>
+      <td>beautifully</td>
+    </tr>
+    <tr>
+      <td>care</td>
+      <td>care</td>
+      <td>careful</td>
+      <td>carefully</td>
+    </tr>
+    <tr>
+      <td>creation/creativity</td>
+      <td>create</td>
+      <td>creative</td>
+      <td>creatively</td>
+    </tr>
+    <tr>
+      <td>understanding</td>
+      <td>understand</td>
+      <td>understandable</td>
+      <td>understandably</td>
+    </tr>
+    <tr>
+      <td>benefit</td>
+      <td>benefit</td>
+      <td>beneficial</td>
+      <td>benficially</td>
+    </tr>
+  </tbody>
+</table>
+
+### Other vocabulary words from this unit
+
+<table>
+ <thead>
+    <tr>
+      <th>Noun</th>
+      <th>Verb</th>
+      <th>Adjective</th>
+      <th>Adverb</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>reduction</td>
+      <td>reduce</td>
+      <td>reduced</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>seriousness</td>
+      <td>X</td>
+      <td>serious</td>
+      <td>seriously</td>
+    </tr>
+    <tr>
+      <td>action/activity</td>
+      <td>act</td>
+      <td>active</td>
+      <td>actively</td>
+    </tr>
+    <tr>
+      <td>calories</td>
+      <td>X</td>
+      <td>caloric</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>moderation</td>
+      <td>moderate</td>
+      <td>moderate</td>
+      <td>moderately</td>
+    </tr>
+    <tr>
+      <td>recognition</td>
+      <td>recognize</td>
+      <td>recognizable</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>obesity</td>
+      <td>X</td>
+      <td>obese</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>nutrition</td>
+      <td>X</td>
+      <td>nutritional<br/>nutritious</td>
+      <td>nutriously</td>
+    </tr>
+  </tbody>
+</table>
