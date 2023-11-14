@@ -68,3 +68,44 @@ It is important to recognize both the verb and the noun form of words when you a
 <div class="color-blue">Gym membership should <b>cost</b> less so more people can join. (verb)</div>
 ```
 ````
+
+### Example
+
+<table>
+ <thead>
+    <tr>
+      <th>Noun</th>
+      <th>Verb</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>adveretisement</td>
+      <td>advertise</td>
+    </tr>
+    <tr>
+      <td>ban</td>
+      <td>ban</td>
+    </tr>
+    <tr>
+      <td>encouragement</td>
+      <td>encourage</td>
+    </tr>
+    <tr>
+      <td>promotion</td>
+      <td>promote</td>
+    </tr>
+    <tr>
+      <td>protection</td>
+      <td>protect</td>
+    </tr>
+    <tr>
+      <td>recognization</td>
+      <td>recorgnize</td>
+    </tr>
+    <tr>
+      <td>reduction</td>
+      <td>reduce</td>
+    </tr>
+  </tbody>
+</table>
