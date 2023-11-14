@@ -121,15 +121,18 @@
 
 ## Future Real Conditional/ IF ... WILL
 
-<div class="info" >
-<p style='margin-top:1em;'>
+````{admonition} PARAGRAPH UNITY
+:class:important
+
+```{raw} html
 You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
-	<div><b>idea/action:</b> The goverment inncreases tax on fuel.</div>
-	<div><b>consequence:</b> People use their cars less.</div>
-	<div class="color-blue"><b>If</b> the government <b>doesn't</b> increase the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
-	<div class="color-blue"><b>Unless</b> the government increases the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
-</p>
-</div>
+<div><b>idea/action:</b> The goverment inncreases tax on fuel.</div>
+<div><b>consequence:</b> People use their cars less.</div>
+<div class="color-blue"><b>If</b> the government <b>doesn't</b> increase the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
+<div class="color-blue"><b>Unless</b> the government increases the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
+```
+
+````
 
 ### Example
 
@@ -150,23 +153,26 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
 
 ## IF ... NOT and UNLESS
 
-<div class="info" >
-<p style='margin-top:1em;'>
+````{admonition} IF ... NOT and UNLESS
+:class:important
+
+```{raw} html
 You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
-	<div><b>idea/action:</b> The government increases tax on fuel. -> simple present</div>
-	<div><b>consequence:</b> People use their cars less. -> simple future</div>
-	<div class="color-blue"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
-	<div>or</div>
-	<div class="color-blue">People <b>will</b> use their cars less <b>if</b> the government increases the tax on fuel.</div>
-	<div><b>Notice:</b></div>
-	<ul>
-		<li>The idea/action clause begins with <i>if</i>.</li>
-		<li>The consequence clause uses <i>will</i>.</li>
-		<li><ins><b>Can</b> changes <b>to be able to</b> in the consequence clause.</li>
-		<li>Either the idea clause or the consequence clause can come first. If the idea clause comes first, put a <i>comma</i> after it.</li>
-	</ul> 
-</p>
-</div>
+<div><b>idea/action:</b> The government increases tax on fuel. -> simple present</div>
+<div><b>consequence:</b> People use their cars less. -> simple future</div>
+<div class="color-blue"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
+<div>or</div>
+<div class="color-blue">People <b>will</b> use their cars less <b>if</b> the government increases the tax on fuel.</div>
+<div><b>Notice:</b></div>
+<ul>
+	<li>The idea/action clause begins with <i>if</i>.</li>
+	<li>The consequence clause uses <i>will</i>.</li>
+	<li><ins><b>Can</b> changes <b>to be able to</b> in the consequence clause.</li>
+	<li>Either the idea clause or the consequence clause can come first. If the idea clause comes first, put a <i>comma</i> after it.</li>
+</ul>
+```
+
+````
 
 ### Example
 
@@ -187,10 +193,10 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 
 ## Suffixes
 
-<div class="info" >
-<p style='margin-top:1em;'>
-<b>Suffixes</b> are letters added to the end of a base word to change its conjugation, word type, or other grammar properties like plurality.
-</div>
+```{admonition} SUFFIXES
+:class:important
+**Suffixes** are letters added to the end of a base word to change its conjugation, word type, or other grammar properties like plurality.
+```
 
 <table>
 	<tr>
@@ -200,78 +206,78 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	</tr>
 	<tr>
 		<td>-y</td>
-		<td>characterized by</td> 
-		<td>rainy, anggry, sunny, watery</td> 
+		<td>characterized by</td>
+		<td>rainy, anggry, sunny, watery</td>
 	</tr>
 	<tr>
 		<td>-al</td>
-		<td>relating to</td> 
-		<td>magical, musical, national</td> 
+		<td>relating to</td>
+		<td>magical, musical, national</td>
 	</tr>
 	<tr>
 		<td>-ate</td>
-		<td>to become</td> 
-		<td>activate, decorate, hyphenate</td> 
+		<td>to become</td>
+		<td>activate, decorate, hyphenate</td>
 	</tr>
 	<tr>
 		<td>-ship</td>
-		<td>position held</td> 
-		<td>relationship, citizenship, friendship</td> 
+		<td>position held</td>
+		<td>relationship, citizenship, friendship</td>
 	</tr>
 	<tr>
 		<td>-ous</td>
-		<td>a characteristic</td> 
-		<td>spacious, myterious, poisonous</td> 
+		<td>a characteristic</td>
+		<td>spacious, myterious, poisonous</td>
 	</tr>
 	<tr>
 		<td>-ish</td>
-		<td>having the quality</td> 
-		<td>childish, foolish, Turkish</td> 
+		<td>having the quality</td>
+		<td>childish, foolish, Turkish</td>
 	</tr>
 	<tr>
 		<td>-ly</td>
-		<td>in a manner</td> 
-		<td>lonely, hourly, friendly</td> 
+		<td>in a manner</td>
+		<td>lonely, hourly, friendly</td>
 	</tr>
 	<tr>
 		<td>-ward</td>
-		<td>in a direction</td> 
-		<td>forward, homeward, toward, backward</td> 
+		<td>in a direction</td>
+		<td>forward, homeward, toward, backward</td>
 	</tr>
 	<tr>
 		<td>-ry</td>
-		<td>to add to</td> 
-		<td>angry, hungry</td> 
+		<td>to add to</td>
+		<td>angry, hungry</td>
 	</tr>
 	<tr>
 		<td>-en</td>
-		<td>become</td> 
-		<td>sweeten, sadden</td> 
+		<td>become</td>
+		<td>sweeten, sadden</td>
 	</tr>
 	<tr>
 		<td>-less</td>
-		<td>without</td> 
-		<td>jobless, hopelness, careless, useless</td> 
+		<td>without</td>
+		<td>jobless, hopelness, careless, useless</td>
 	</tr>
 	<tr>
 		<td>-ment</td>
-		<td>the action or result</td> 
-		<td>environment, judgement, entertainment, agreement, apartment</td> 
+		<td>the action or result</td>
+		<td>environment, judgement, entertainment, agreement, apartment</td>
 	</tr>
 	<tr>
 		<td>-er<br/>-or</td>
-		<td>person who makes or does an action</td> 
-		<td>driver, teacher, <b>programmer</b>, hacker</td> 
+		<td>person who makes or does an action</td>
+		<td>driver, teacher, <b>programmer</b>, hacker</td>
 	</tr>
 	<tr>
 		<td>-ness</td>
-		<td>condition or state</td> 
-		<td>sadness, happiness, darkness, weakness</td> 
+		<td>condition or state</td>
+		<td>sadness, happiness, darkness, weakness</td>
 	</tr>
 	<tr>
 		<td>-ible<br/>-able</td>
-		<td>ability; capable of</td> 
-		<td>confortable, understanable, returnable, enjoyable, unstoppable</td> 
+		<td>ability; capable of</td>
+		<td>confortable, understanable, returnable, enjoyable, unstoppable</td>
 	</tr>
 </table>
 
