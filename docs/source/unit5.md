@@ -56,6 +56,8 @@
 
 [https://quizlet.com/851266696/unit-5-vocabulary-words-flash-cards/?i=777wu&x=1qqt](https://quizlet.com/851266696/unit-5-vocabulary-words-flash-cards/?i=777wu&x=1qqt)
 
+---
+
 ## Verb and Noun Forms
 
 ````{admonition} VERB and NOUN FORMS
@@ -113,6 +115,8 @@ It is important to recognize both the verb and the noun form of words when you a
     </tr>
   </tbody>
 </table>
+
+---
 
 ## Some other commond word families
 
@@ -222,6 +226,8 @@ It is important to recognize both the verb and the noun form of words when you a
   </tbody>
 </table>
 
+---
+
 ## Health and fitness collocations
 
 ```{admonition} Collocations
@@ -284,6 +290,8 @@ can understand the meaning.
     </tr>
   </tbody>
 </table>
+
+---
 
 ## Stating Opinions
 
