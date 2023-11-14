@@ -125,11 +125,12 @@
 :class: important
 
 ```{raw} html
-You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
+<p>You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the consequence of not doing a certain action.
 <div><b>idea/action:</b> The goverment inncreases tax on fuel.</div>
 <div><b>consequence:</b> People use their cars less.</div>
 <div class="color-blue"><b>If</b> the government <b>doesn't</b> increase the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
 <div class="color-blue"><b>Unless</b> the government increases the tax on fuel, people <b>won't/will not</b> use their cars less.</div>
+</p>
 ```
 
 ````
@@ -157,7 +158,7 @@ You can also use <i>if</i> and <i>not</i> or <i>unless</i> to describle the cons
 :class: important
 
 ```{raw} html
-You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
+<p>You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice the use of <i>if</i> and <i>will</i> combine two sentences.
 <div><b>idea/action:</b> The government increases tax on fuel. -> simple present</div>
 <div><b>consequence:</b> People use their cars less. -> simple future</div>
 <div class="color-blue"><b>If</b> the government increases the tax on fuel, people <b>will</b> use their cars less.</div>
@@ -169,7 +170,7 @@ You can use <ins>future real conditionals to persuade or negotiate.</ins> Noice 
 	<li>The consequence clause uses <i>will</i>.</li>
 	<li><ins><b>Can</b> changes <b>to be able to</b> in the consequence clause.</li>
 	<li>Either the idea clause or the consequence clause can come first. If the idea clause comes first, put a <i>comma</i> after it.</li>
-</ul>
+</ul></p>
 ```
 
 ````
