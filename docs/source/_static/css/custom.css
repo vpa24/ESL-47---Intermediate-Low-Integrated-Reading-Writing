@@ -102,7 +102,7 @@ h1 {
   padding-left: 2rem !important;
 }
 
-.admonition p.admonition-title ~ *,
+/* .admonition p.admonition-title ~ *,
 div.admonition p.admonition-title ~ * {
   margin-left: 0 !important;
   margin-right: 0 !important;
@@ -114,4 +114,4 @@ div.admonition p.admonition-title ~ :not(i, ins, strong, b, li) {
   margin-right: 0 !important;
   padding-left: 1.4rem;
   padding-right: 1.4rem;
-}
+} */
