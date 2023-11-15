@@ -28,6 +28,9 @@ Contents
    <div class="text">Hello Friends 👋✌️</div>
    <div class="sub-title">Are You Ready For The Final Tests???</div>
 
+.. image:: _static/images/IMG_3592.GIF
+   :align: center
+
 .. image:: _static/images/5622342.jpg
    :align: center
 
