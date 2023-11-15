@@ -301,7 +301,7 @@ can understand the meaning.
 
 Making inferences means using your knowledge and clues in the text to guess about things that aren't stated in the text but are probably true. For example:
 
-```{raw html}
+```{raw} html
 <div class="color-blue">After two miles, Amir could not run another step, but Danya kept going.</div>
 ```
 
