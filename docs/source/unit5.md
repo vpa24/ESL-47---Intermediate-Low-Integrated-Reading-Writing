@@ -366,7 +366,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 
 ## Stating a Purpose
 
-````{admonition} Stating Opinions
+````{admonition} Stating Opinions (goal or reason we do something)
 :class: important
 
 When you give reasons for your opinions, you can use ___to___ or ___in order to___ to indicate purpose. __Both are followed by an infinitive (to + base V)__.
