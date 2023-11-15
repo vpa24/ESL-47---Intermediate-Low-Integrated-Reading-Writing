@@ -1,3 +1,5 @@
+@import url("https://fonts.cdnfonts.com/css/handwriting");
+
 /* Fill viewport horizontally */
 .wy-nav-content {
   max-width: inherit;
@@ -107,4 +109,10 @@ div.admonition p.admonition-title ~ * {
   margin-left: 0 !important;
   margin-right: 0 !important;
   padding: 0 1.4rem;
+}
+
+.sub-title {
+  text-align: center;
+  color: #2aaa8a;
+  font-family: "Handwriting", sans-serif;
 }
