@@ -25,7 +25,7 @@ Contents
 
 .. raw:: html
    
-   <div class="text">Hello Friends?</div>
+   <div class="text">Hello Friends 👋✌️</div>
    <div class="sub-title">Are You Ready For The Final Tests???</div>
 
 .. image:: _static/images/5622342.jpg
