@@ -25,15 +25,7 @@ Contents
 
 .. raw:: html
    
-   <div class="typing_container">
-        <div class="text_hide"></div>
-        <!----------------------------->
-        <!--Change the number of words in the text and the animation will still work-->
-        <div class="text">Hello Friends?</div>
-        <!-------------------------------------->
-        <div class="text_cursor"></div>
-    </div>
-
+   <div class="text">Hello Friends?</div>
    <div class="sub-title">Are You Ready For The Final Tests???</div>
 
 .. image:: _static/images/5622342.jpg

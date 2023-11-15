@@ -39,10 +39,6 @@ html_css_files = [
     'css/custom.css',
 ]
 
-# Add custom JS files to the html_js_files list.
-html_js_files = [
-    'js/typing.js',
-]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
