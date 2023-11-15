@@ -303,7 +303,7 @@ Making inferences means using your knowledge and clues in the text to guess abou
 
 ```{raw html}
 <div class="color-blue">After two miles, Amir could not run another step, but Danya kept going.</div>
-````
+```
 
 **Question**: Who is in better shape, Amir or Danya?
 **Answer**: Danya
@@ -311,6 +311,8 @@ Making inferences means using your knowledge and clues in the text to guess abou
 We can tell Danya is in better shape because she "kept going" and Amir "could not run another step."
 
 Readers may make inferences about the characters in a text (their age, attitude, relationship, feelings, etc.). They also make inferences about the writers's purpose, intention, background, or attitude.
+````
+
 ---
 
 ## Stating Opinions
