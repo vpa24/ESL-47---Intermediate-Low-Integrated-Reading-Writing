@@ -337,3 +337,40 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 3. **I believe that** running isn't the best way for staying in shape.
 4. **In my view,** most adults **shouldn't** spend too much time sitting.
 5. **I think that** it is necessary to sleep eight hours a night in order to stay healthy.
+
+---
+
+## Stating a Purpose
+
+````{admonition} Stating Opinions
+:class: important
+
+When you give reasons for your opinions, you can use ___to___ or ___in order to___ to indicate purpose. Both are followed by an infinitive.
+
+```{raw} html
+<table>
+  <tbody>
+    <tr>
+      <td class="color-blue">Governments should promote healthy eating</td>
+      <td class="color-blue"><b>to</b><br/><b>in order to</b></td>
+      <td class="color-blue">in increase life expectancy</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+You can aslo use ___so___ or ___so that___. There are usually followed by a clause with ___can___.
+
+```{raw} html
+<table>
+  <tbody>
+    <tr>
+      <td class="color-blue">Governments should build more recreation centers</td>
+      <td class="color-blue"><b>so</b><br/><b>so that</b></td>
+      <td class="color-blue">people can play more sports.</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+````
