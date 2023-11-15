@@ -7,6 +7,7 @@
 - [Verb and Noun Forms](#verb-and-noun-forms)
 - [Some other commond word families](#some-other-commond-word-families)
 - [Health and fitness collocations](#health-and-fitness-collocations)
+- [Making Inferences](#making-inferences)
 - [Stating Opinions](#stating-opinions)
 - [Stating a Purpose](#stating-a-purpose)
 
@@ -304,6 +305,7 @@ Making inferences means using your knowledge and clues in the text to guess abou
 ```{raw} html
 <div class="color-blue">After two miles, Amir could not run another step, but Danya kept going.</div>
 ```
+
 
 **Question**: Who is in better shape, Amir or Danya?
 **Answer**: Danya
