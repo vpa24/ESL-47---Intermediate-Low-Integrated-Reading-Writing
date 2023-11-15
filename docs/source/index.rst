@@ -20,10 +20,19 @@ Contents
 
    This project is under active development 💪😏. If you have any questions or found any mistakes in this documentation, please email me at: phuonganhvu497@gmail.com 😄😎.
 
-.. image:: https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5600&lines=Hello+Friends!+%F0%9F%91%8B;
-   :align: center
+.. .. image:: https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5600&lines=Hello+Friends!+%F0%9F%91%8B;
+..    :align: center
 
 .. raw:: html
+   
+   <div class="typing_container">
+        <div class="text_hide"></div>
+        <!----------------------------->
+        <!--Change the number of words in the text and the animation will still work-->
+        <div class="text">Hello Friends?</div>
+        <!-------------------------------------->
+        <div class="text_cursor"></div>
+    </div>
 
    <div class="sub-title">Are You Ready For The Final Tests???</div>
 
