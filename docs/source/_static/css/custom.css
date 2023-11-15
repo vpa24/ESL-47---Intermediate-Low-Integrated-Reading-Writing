@@ -119,3 +119,7 @@ div.admonition p.admonition-title ~ * {
   font-weight: bold;
   margin: 10px 0;
 }
+
+img.align-center {
+  margin-bottom: 2rem;
+}
