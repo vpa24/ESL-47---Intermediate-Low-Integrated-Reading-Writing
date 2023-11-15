@@ -1,5 +1,6 @@
 function typing_animation() {
   let text_element = document.querySelector(".text");
+  console.log(text_element);
   let text_array = text_element.innerHTML.split("");
   let text_array_slice = text_element.innerHTML.split(" ");
   let text_len = text_array.length;
@@ -164,4 +165,7 @@ function typing_animation() {
     left_instance = left_instance + (100 / text_len) * (word_len[i] + 1);
   }
 }
-typing_animation();
+document.addEventListener("DOMContentLoaded", (event) => {
+  console.log("DOM fully loaded and parsed");
+  typing_animation();
+});
