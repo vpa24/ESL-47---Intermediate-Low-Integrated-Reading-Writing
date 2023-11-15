@@ -307,8 +307,8 @@ Making inferences means using your knowledge and clues in the text to guess abou
 ```
 
 
-**Question**: Who is in better shape, Amir or Danya?
-**Answer**: Danya
+**Question:** Who is in better shape, Amir or Danya?
+**Answer:** Danya
 
 We can tell Danya is in better shape because she "kept going" and Amir "could not run another step."
 
