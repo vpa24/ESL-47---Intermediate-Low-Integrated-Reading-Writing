@@ -8,6 +8,7 @@
 - [Some other commond word families](#some-other-commond-word-families)
 - [Health and fitness collocations](#health-and-fitness-collocations)
 - [Stating Opinions](#stating-opinions)
+- [Stating a Purpose](#stating-a-purpose)
 
 ---
 
