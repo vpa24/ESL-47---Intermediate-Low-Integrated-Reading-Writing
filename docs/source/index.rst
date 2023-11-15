@@ -23,9 +23,8 @@ Contents
 .. image:: https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5600&lines=Hello+Friends!+%F0%9F%91%8B;
    :align: center
 
-.. rst-class:: center
-
 .. raw:: html
+
    <div class="sub-title">Are You Ready For The Final Tests?</div>
 
 .. image:: _static/images/5622342.jpg
