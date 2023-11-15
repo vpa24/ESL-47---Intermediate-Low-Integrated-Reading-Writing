@@ -352,7 +352,7 @@ When you give reasons for your opinions, you can use ___to___ or ___in order to_
   <tbody>
     <tr>
       <td class="color-blue">Governments should promote healthy eating</td>
-      <td class="color-blue"><b>to</b><br/><b>in order to</b></td>
+      <td class="color-blue"><b>to</b><hr/><b>in order to</b></td>
       <td class="color-blue">in increase life expectancy</td>
     </tr>
   </tbody>
@@ -366,7 +366,7 @@ You can aslo use ___so___ or ___so that___. There are usually followed by a clau
   <tbody>
     <tr>
       <td class="color-blue">Governments should build more recreation centers</td>
-      <td class="color-blue"><b>so</b><br/><b>so that</b></td>
+      <td class="color-blue"><b>so</b><hr/><b>so that</b></td>
       <td class="color-blue">people can play more sports.</td>
     </tr>
   </tbody>
