@@ -369,7 +369,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 ````{admonition} Stating Opinions
 :class: important
 
-When you give reasons for your opinions, you can use ___to___ or ___in order to___ to indicate purpose. Both are followed by an infinitive.
+When you give reasons for your opinions, you can use ___to___ or ___in order to___ to indicate purpose. __Both are followed by an infinitive (to + base V)__.
 
 ```{raw} html
 <table>
@@ -383,7 +383,7 @@ When you give reasons for your opinions, you can use ___to___ or ___in order to_
 </table>
 ```
 
-You can aslo use ___so___ or ___so that___. There are usually followed by a clause with ___can___.
+You can aslo use ___so___ or ___so that___  + S + V. There are usually followed by a clause with can.
 
 ```{raw} html
 <table>
@@ -398,3 +398,11 @@ You can aslo use ___so___ or ___so that___. There are usually followed by a clau
 ```
 
 ````
+
+### Example
+
+1. Governments need to increase the tax on junk food **in order to/to** make it more expensive.
+2. Nutrition labels should be added to food packaging **so/so that** opeople can see if their food is healthy or not.
+3. Governments should provide free sports clubs **so/so that** living in poorer areas can participate in sports.
+4. Governments can promote the idea of eating five portions of fruit and vegetables per day **to/in order to** improve people's diets.
+5. Some people argue that junk food advertising should be banned **so/so that** children are not influenced by it.
