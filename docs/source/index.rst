@@ -25,7 +25,7 @@ Contents
 
 .. raw:: html
 
-   <div class="sub-title">Are You Ready For The Final Tests?</div>
+   <div class="sub-title">Are You Ready For The Final Tests???</div>
 
 .. image:: _static/images/5622342.jpg
    :align: center

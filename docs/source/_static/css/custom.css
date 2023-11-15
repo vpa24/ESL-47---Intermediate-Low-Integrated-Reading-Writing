@@ -115,4 +115,7 @@ div.admonition p.admonition-title ~ * {
   text-align: center;
   color: #2aaa8a;
   font-family: "Handwriting", sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0;
 }
