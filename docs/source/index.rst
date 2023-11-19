@@ -36,9 +36,3 @@ Contents
 
 .. image:: _static/images/859i2l.jpg
    :align: center
-
-
-|say thanks|
-
-.. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
-   :target: https://saythanks.io/to/vpa24
