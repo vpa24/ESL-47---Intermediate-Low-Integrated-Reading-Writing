@@ -28,7 +28,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # logo
-html_logo = "_static/logo.png"
+# html_logo = "_static/logo.png"
 
 # -- Options for HTML output
 
