@@ -25,7 +25,7 @@
 6. **recognize** (v) understand; to accept that something is true
 7. **moderate** (adj) not too much and not too little
 
-#### Example
+#### Example Sentences
 
 1. Type 2 diabetes is an extremely **serious** condition. Many people die each year from the complications of this illness.
 2. Participation in sports is an excellent way to raise the **self-esteem** of teenagers. It helps them to feel confident and happy with themselves.
@@ -45,7 +45,7 @@
 6. **portion** (n) an amount of food served to one person
 7. **rainforest** (n) a forest in a tropical area that gets a lot of rain -->
 
-#### Example
+#### Example Sentences
 
 1. I try to eat a **balanced diet** consisting of a little meat, some dairy product, and a lot fruit, vegetables, and grains.
 2. I love **junk food** like potato chips and hot dogs, but I'm careful not to eat too much because I know they aren't good for me.
@@ -77,7 +77,7 @@ It is important to recognize both the verb and the noun form of words when you a
 ```
 ````
 
-### Example
+### Example Sentences
 
 <table>
  <thead>
@@ -354,7 +354,7 @@ Good writers need to clearly state thier opinions when they write an opinion ess
 
 ````
 
-### Example
+### Example Sentences
 
 1. **I think that** government **shouldn't** pay for people to enroll in weight reduction.
 2. **In my opinion**, junk food advertisements **shouldn't** be illegal.
@@ -399,7 +399,7 @@ You can aslo use ___so___ or ___so that___  + S + V. There are usually followed 
 
 ````
 
-### Example
+### Example Sentences
 
 1. Governments need to increase the tax on junk food **in order to/to** make it more expensive.
 2. Nutrition labels should be added to food packaging **so/so that** opeople can see if their food is healthy or not.

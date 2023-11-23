@@ -32,7 +32,7 @@
 7. **protected** (v) to keep something or someone safe from danger or injury
 8. **species** (n) types of plants or animals that have similar features
 
-#### Example
+#### Example Sentences
 
 1. The black rhino is one of the most **endangered** animals in the world. There are only about 5,000 left today.
 2. There are three **species** of bears in North America. They are the America black bear, the grizzly bear, and the polar bear.
@@ -53,7 +53,7 @@
 6. **native** (adj) used to describe animals and plants that grow naturally in a place
 7. **survive** (v) to continue to live after almost dying
 
-#### Example
+#### Example Sentences
 
 1. The coyote, a wild member of the dog family, is so **common** in the western United States that they can be seen in cities.
 2. Plastic is often **fatal** to sea birds. Millions of birds die each year when they swallow plastic bags and other plastic garbage.
@@ -72,7 +72,7 @@
 5. **contrast** (v) to show or explain differences between two situations or threat
 6. **attach** (v) to connect or join one thing to another
 
-#### Example
+#### Example Sentences
 
 1. Pollution occurs when chemicals are **released** into the water.
 2. Organization should **cooperate** so that harmful chemicals are not used on crops.
@@ -116,7 +116,7 @@ When comparing things, the comparative form of the adjective is used. Use the co
 - **bad** -> **worse**
 - **far** -> **father/further**
 
-#### Example
+#### Example Sentences
 
 1. That roller coaster was **scarier than** a haunted house.
 2. Light travels **faster than** sound.
@@ -154,7 +154,7 @@ For example, birds and bats are profiled by both their similarities and differen
 
 ---
 
-### Example Paragraphs: 2 Similarities + 2 Differences
+### Example Sentences Paragraphs: 2 Similarities + 2 Differences
 
 <h2 align="center" class="para_title">British and American English</h2>
 <div style="line-height: 2;">There are some similarities and some differences between <b>American English and British English</b>. English is a global language spoken and understood by millions of people around the world, and two of the most common variations of English are British English, spoken in the U.K., and American English, spoken in the U.S.  <ins>The first similarity is that <b>both American and British English share the same grammar</b></ins>. Both varieties of English have the same subject-verb agreement rules and sentence structure. <ins>Another similarity <b>is the vocabulary</b></ins>. People can use many of the same basic words and phares in the U.S. or the U.K. and people will understand them. <span style="text-decoration:underline">For example,</span> if you ask someone "Where is the bus stop?" in either the U.K or the U.S., that person will be able to help you. <ins>However, there are also many differences between <b>these two varieties of English.</b></ins> <ins>The first difference is <b>the pronunciation.</b></ins> There are many words and sounds that are pronounced differently in British English and American English. <span style="text-decortaion:underline">For instance,</span> in British English, people don't usually pronounce the "r" sound, but it is pronounced strongly in American English (such as the word "water"). <ins>The second difference is <b>the spelling.</b></ins> American English often drops the "u" in words that are spelled "colour" or "harbour" in British English. (The American spellings of these words are "color" and "harbor"). <ins><span style="text-decoration:underline">In conclusion,</span> there are both similarities and differences <b>in the varieties of the English that are used in the U.S. and the U.K.</b></ins></div>
@@ -169,7 +169,7 @@ For example, birds and bats are profiled by both their similarities and differen
 A <b>topic sentence</b> is <ins>usually the first sentence in a paragraph.</ins> It <ins>introduces the main idea</ins> of the paragraph and often the point that the writer wants to make about the topic. A topic sentence should be a <ins>general</ins> statement about the paragraph's subject, but <ins>it shouldn't be too specific</ins>. It is then support by the order sentences in the paragraph.
 ```
 
-#### Example
+#### Example Sentences
 
 **Bold text is the correct topic sentences for the paragraph**
 
@@ -243,7 +243,7 @@ In English sentences, the subject usually comes before the verb and the object. 
    </tr>
 </table>
 
-#### Example
+#### Example Sentences
 
 <ol>
    <li>the Mongolian / wild horse / never domesticated / Humans</li>
@@ -286,7 +286,7 @@ When joining two sentences together, you can also take out some words. This make
 
 ````
 
-#### Example
+#### Example Sentences
 
 <ol>
    <li>The whale shark is gray-blue. The whale shark has light spots on its body.</li>
@@ -312,7 +312,7 @@ When joining two sentences together, you can also take out some words. This make
 <div style="color:0173bc">The tiger shark has sharp teeth and a powerful bite, <b>but/whereas</b> the whale shark does not have sharp teeth or a powerful bite.</div>
 ```
 
-#### Example
+#### Example Sentences
 
 1. Gray squirrels are seem as pests, **but/whereas** red squirrels are protected.
 2. In Canada, grizzly bears live mainly in the forests, **whereas/but** polar bears live mainly on the ice.
@@ -336,14 +336,14 @@ You can use other phrases to compare two difference things.
 
 ````
 
-#### Example
+#### Example Sentences
 
 1. **Neither** British people **nor** scientists support destroying the population of gray squirrels.
 2. **Both** the grizzly bear **and** the poplar bear are endangered species in some areas. Their populations are decreasing.
 3. **Neither** the Arabian oryx **nor** the snow leopard is safe from hunters. The Arabian oryx is killed for its horns and the snow leopard for its fur.
 4. Not including their tails, **both** red **and** gray squirrels are under 15 inches long.
 
-### Example of using BUT, AND, and OR
+### Example Sentences of using BUT, AND, and OR
 
 **Most sentences are simple sentences, not compound sentences.**
 

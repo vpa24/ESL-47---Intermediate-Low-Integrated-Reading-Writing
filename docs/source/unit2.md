@@ -28,7 +28,7 @@
 7. **global warming** (n) an increase in the Earth's temperature because of pollution
 8. **cause** (n) someone or something that makes something happen
 
-#### Example
+#### Example Sentences
 
 1. The Amazon rainforest is one of the largest **ecosystems** in the word. It is home to more than 10% of all the known plants and animals on Earth.
 2. Southern California has a very pleasant **climate**. The winters are not too cold and the summers are not too hot.
@@ -49,7 +49,7 @@
 6. **logging** (n) the activity or business of cutting down trees for wood
 7. **rainforest** (n) a forest in a tropical area that gets a lot of rain
 
-#### Example
+#### Example Sentences
 
 1. Clothes made from plants, like cotton or bamboo, **absorb** water more easily than man-made materials like polyester.
 2. **Farming** has been the occupation of my family since my grandfather bought his first cow 75 years ago.
@@ -70,7 +70,7 @@
 7. **predict** (v) to say what will happen before it occurs
 8. **trend** (n) a general direction in which something is developing or changing; something that is currently popular or fashionable
 
-#### Example:
+#### Example Sentences:
 
 1. The most serious **issue** that threatens the environment is climate change.
 2. Experts **predict** that there will not be enough fresh water in the future.
@@ -97,7 +97,7 @@
 6. **natural resource**
 7. **greenhouse gas**
 
-#### Example
+#### Example Sentences
 
 1. In my town, about 70% of the electricity comes from a **power plant** that uses coals for energy.
 2. Carbon dioxide and methane are examples of **greenhouse gases**.
@@ -141,7 +141,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 	</tr>
 </table>
 
-#### Example
+#### Example Sentences
 
 1. Stan borrowed some money **because of** he wants to buy a car.
 2. Dan travels a lot **because** of his job.
@@ -207,7 +207,7 @@ Use **because** in a clause with _subject and verb_. Use **because of** _before 
 	</tr>
 </table>
 
-### Example
+### Example Sentences
 
 **PART A**
 
@@ -258,7 +258,7 @@ Writers use certain phrases to show relationship between the causes of a problem
 	</tr>
 </table>
 
-### Example
+### Example Sentences
 
 <ol>
 	<li>Deforestation <strong>results in</strong> animal extintion and loss of biodiversity.</li>
@@ -281,7 +281,7 @@ A well-written pragraph has just **one main idea**, and **all the supporting sen
 When a paragraph has these characteristics, it has **unity**. Unity is a basic requirement of good academic writing.
 ```
 
-### Example
+### Example Sentences
 
 **Bold text is the correct answer** for the supporting sentence that would be **irrelevant to the paragraph**
 
@@ -340,7 +340,7 @@ Good writers use **supporting sentences** to develop and explain the main idea o
 
 ```
 
-### Example
+### Example Sentences
 
 **Bold text** is the supporting sentence that matches the topic sentence.
 

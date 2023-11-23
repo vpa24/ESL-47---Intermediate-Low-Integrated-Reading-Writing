@@ -26,7 +26,7 @@
 6. **rail** (n) trains as a method of trasportation
 7. **traffic congestion** (n) when too many vehicles use a road network and it results in slower speeds or no movement at all
 
-#### Example
+#### Example Sentences
 
 1. Vancouver, British Columbia, has an outstanding system of **public transportation** so it isn't necessary to own a car there.
 2. I like living on the **outskirts** of the city because there is more open space and the air is cleaner.
@@ -47,7 +47,7 @@
 6. **practical** (adj) useful; suitable for the situation it is being used for
 7. **vehicle** (n) any machine that travels on roads, such as cars, buses, etc.
 
-#### Example
+#### Example Sentences
 
 1. I don't own a car, but I have a bicycle. I usually **cycle** to work if the weather is nice.
 2. In my apartment I have a first-aid kit, a fire extinguisher, and a flashlight in case of an **emergency**.
@@ -74,7 +74,7 @@
 7. **require** (v) to need something or make something necessary
 8. **waste** (v) to spend or use without need or care; to make bad use of
 
-### Example
+### Example Sentences
 
 <ol>
    <li>We <strong>need</strong> more public transportation in the city like a light-rail network.</li>
@@ -107,7 +107,7 @@
 6. **road rage**
 7. **packing restrictions**
 
-#### Example
+#### Example Sentences
 
 1. **Traffic congestion** is a big problem in this city. The traffic jams are terrible.
 2. I use **public transportation** like trains or the subway to get to work.
@@ -135,7 +135,7 @@
 
 ````
 
-### Example
+### Example Sentences
 
 <ol>
    <li>The traffic will improve. We build more roads.</li>
@@ -175,7 +175,7 @@
 
 ````
 
-### Example
+### Example Sentences
 
 <ol>
    <li>We move the offices and schools next to the houses. We have fewer traffic problems.</li>
@@ -282,7 +282,7 @@
 	</tr>
 </table>
 
-### Example
+### Example Sentences
 
 1. This dress is so **colorful**. Look at these colors.
 2. Sam is a **careless** driver. He always has accidents.
@@ -327,7 +327,7 @@ A concluding sentence should NOT:
   <div class="flex-row-item"></div>
 </div>
 
-### Example
+### Example Sentences
 
 **Bold text** is the concluding sentence for each
 
