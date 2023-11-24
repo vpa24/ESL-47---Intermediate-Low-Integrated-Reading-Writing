@@ -2,8 +2,7 @@
 Welcome to the documentation for ESL47!
 ==============================================================================
 
-.. admonition:: Readme
-   :class: note
+.. tip::
    .. raw:: html
 
       <p>🚀🗂️ This webpage will cover all the lessons from Unit 1, Unit 2, Unit 3, and Unit 5. It can help you easily overview and prepare for the upcoming <mark style="background: #FF5582A6;">FINAL TESTS</mark> 😱.</p>
