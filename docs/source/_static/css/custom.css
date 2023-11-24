@@ -93,10 +93,10 @@ h1 {
 h2 {
   font-weight: 600;
   background: linear-gradient(92.7deg, #56d364 -1.37%, #79c0ff 70.71%);
-  background-clip: border-box;
-  -webkit-background-clip: text;
   background-clip: text;
+  -webkit-background-clip: text;
   display: inline-block;
+  color: transparent;
 }
 
 #welcome-to-the-documentation-for-esl47 li.toctree-l2 {
