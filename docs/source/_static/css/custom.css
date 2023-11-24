@@ -81,7 +81,6 @@ ul li {
   flex: 1 1 30%; /*grow | shrink | basis */
 }
 
-#behind-the-screen-of-people-who-make-websites h2,
 h1 {
   background: linear-gradient(90deg, #8250df, #d42a32);
   background-clip: text;
@@ -89,6 +88,15 @@ h1 {
   display: inline-block;
   font-weight: bold;
   color: transparent;
+}
+
+h2 {
+  font-weight: 600;
+  background: linear-gradient(92.7deg, #56d364 -1.37%, #79c0ff 78.71%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  background-clip: text;
+  display: inline-block;
 }
 
 #welcome-to-the-documentation-for-esl47 li.toctree-l2 {
