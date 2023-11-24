@@ -8,8 +8,8 @@ Welcome to the documentation for ESL47!
 
 .. tip::
    .. raw:: html
-      
-      <p>💡 You can click on the link below for each unit, and from each unit page, there are links outlining that unit's topics. Also, you can use the search function located at the top right of the menu bar to help you quickly find specific information.</p>
+
+      You can click on the link below for each unit, and from each unit page, there are links outlining that unit's topics. Also, you can use the search function located at the top right of the menu bar to help you quickly find specific information.
 
 
 Contents
