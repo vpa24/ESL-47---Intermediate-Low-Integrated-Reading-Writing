@@ -354,7 +354,7 @@ Good writers use **supporting sentences** to develop and explain the main idea o
 
 ## Cause and Effect Essay Example
 
-<h2 align="center" class="para_title">The Causes and Effects of Homelessness</h2>
+<h3 align="center" class="para_title">The Causes and Effects of Homelessness</h3>
 <div style="line-height: 2;">
 <p class="txt-indent-2em">Homelessness is a big problem that affects people and communities everywhere. To understand it better, we need to look at <span style="text-decoration:underline">why it happens and what it does</span> to people and our society. It is important to understand <span style="text-decoration:underline">the reasons for</span> homelessness and <span style="text-decoration:underline">what happens</span> when people don't have a home.</p>
 
