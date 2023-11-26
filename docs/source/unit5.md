@@ -414,10 +414,8 @@ You can aslo use ___so___ or ___so that___  + S + V. There are usually followed 
 ```{admonition} Essay Structure
 :class: important
 
-An essay is a group of paragraphs that discuss one main topic. Essays have three important parts.
-- An **introductory paragraph** presents the topic, gives background information, and shows the organization of the essay. The last sentence of the introductory paragraph gives a **thesis statement**, which indicates what the body paragraphs will be about. In an opinion essay, the thesis states the writer's opinion about the topic.
+<mark style="background: #FFF3A3A6;">An essay is a group of paragraphs</mark> that discuss <mark style="background: #FFF3A3A6;">one main topic</mark>. Essays have three important parts.
+- An **introductory paragraph** presents the topic, gives background information, and shows the organization of the essay. <mark style="background: #FFF3A3A6;">The last sentence of the introductory paragraph gives a <span style="font-weight:bold">thesis statement</span></mark>, which indicates what the body paragraphs will be about. In an opinion essay, the thesis states the writer's opinion about the topic.
 - **Body paragraphs** (usually 2-4) explain or develop the thesis statement. Each body paragraph starts with a topic sentence that links back to the thesis statement. Each body paragraph provides supporting details to its topic sentence.
-- A **concluding paragraph** restates the thesis statement and provides the writer's final thoughts
-on the topic. In an opinion essay, the concluding paragraph restates the writer's opinion and
-often concludes with a prediction about the future or a recommendation for action.
+- A **concluding paragraph** <mark style="background: #FFF3A3A6;">restates the thesis statement</mark> and provides the writer's <mark style="background: #FFF3A3A6;">final thoughts</mark> on the topic. In an opinion essay, the concluding paragraph restates the writer's opinion and often concludes with <mark style="background: #FFF3A3A6;">a prediction about the future</mark> or <mark style="background: #FFF3A3A6;">a recommendation for action</mark>.
 ```
