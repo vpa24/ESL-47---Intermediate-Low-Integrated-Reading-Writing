@@ -98,6 +98,7 @@ h2 {
   display: inline-block;
   color: transparent;
   margin: 5px 0;
+  line-height: none !important;
 }
 
 #welcome-to-the-documentation-for-esl47 li.toctree-l2 {
