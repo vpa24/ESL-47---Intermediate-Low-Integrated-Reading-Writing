@@ -41,5 +41,8 @@ Contents
 .. image:: _static/images/IMG_3795.AVIF.jpg
    :align: center
 
+.. image:: _static/images/86ge9f.AVIF.jpg
+   :align: center
+
 .. image:: _static/images/859i2l.jpg
    :align: center
