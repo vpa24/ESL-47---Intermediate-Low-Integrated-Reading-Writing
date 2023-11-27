@@ -9,7 +9,7 @@ Welcome to the documentation for ESL47!
 .. tip::
    .. raw:: html
 
-      You can use the search function located at the top right of the menu bar to help you quickly find any specific informations.
+      You can use the search function located at the top right of the menu bar to help you quickly find any specific information.
 
 
 Contents
