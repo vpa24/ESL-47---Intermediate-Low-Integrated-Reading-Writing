@@ -19,7 +19,7 @@
 <p><span style="font-weight:bold">Background information</span> provides context to help readers understand the essay. Background information can include a definition of terms, historical information, data and statistics, or a general explanation of the topic.</p>
 
 <p><span style-"font-weight:bold">The thesis statement</span> is usually the last sentence of the introduction. It tells the reader how the essay will be developed. Often a thesis statement has two parts: a topic and a point of view. For example:</p>
-<p>	topic	point of view</p>
+<p>· topic	· point of view</p>
 <p class="color-blue" style="text-decoration:underline">Flying cars may reduce congestion on the ground, but they may create
 additional problems, such as congestion in the air and pollution.</p>
 
