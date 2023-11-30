@@ -1,4 +1,4 @@
-# Unit 6: Discovery and Invention
+# Unit 6 - Discovery and Invention
 
 - [Writing an Introductory Paragraph](#writing-an-introductory-paragraph)
 
