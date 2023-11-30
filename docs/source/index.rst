@@ -19,6 +19,7 @@ Contents
    unit2.md
    unit3.md
    unit5.md
+   unit6.md
 
 .. note::
 
