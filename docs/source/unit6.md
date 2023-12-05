@@ -33,7 +33,6 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 0% = definitely won't<br/>
 <div class="color-blue">We <b>definitely won't</b> be traveling to other stars.</div>
 </p>
-```
 ````
 
 ---
