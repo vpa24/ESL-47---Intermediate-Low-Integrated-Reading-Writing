@@ -13,26 +13,25 @@
 Use *will*, *could*, and *won't* with an adverb of certainty before the main verb to talk about future predictions. For example:
 
 ```{raw} html
-<p>
-100% = will definitely
+<div>100% = will definitely</div>
 <div class="color-blue">Cars <b>will definitely</b> become more efficient in the future.</div>
-</p>
-<p>
-90% = will probably
+<br/>
+<div>
+<div>90% = will probably</div>
 <div class="color-blue">The next generation <b>will probably</b> use more digital devices.</div>
-</p>
-<p>
-50% = could possibly
-<div class-"color-blue">We <b>could possibly</b> see humans walking on Mars soon.</div>
-</p>
-<p>
-20% = probably won't
+</div>
+<div>
+<div>50% = could possibly</div>
+<div class="color-blue">We <b>could possibly</b> see humans walking on Mars soon.</div>
+</div>
+<div>
+<div>20% = probably won't</div>
 <div class="color-blue">We <b>probably won't</b> have flying cars.</div>
-</p>
-<p>
-0% = definitely won't
+</div>
+<div>
+<div>0% = definitely won't</div>
 <div class="color-blue">We <b>definitely won't</b> be traveling to other stars.</div>
-</p>
+</div>
 ```
 ````
 
