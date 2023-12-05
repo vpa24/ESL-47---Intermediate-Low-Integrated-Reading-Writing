@@ -12,7 +12,7 @@
 
 Use *will*, *could*, and *won't* with an adverb of certainty before the main verb to talk about future predictions. For example:
 
-```{raw}html
+```{raw} html
 <p>
 100% = will definitely <br/>
 <div class="color-blue">Cars <b>will definitely</b> become more efficient in the future.</div>
