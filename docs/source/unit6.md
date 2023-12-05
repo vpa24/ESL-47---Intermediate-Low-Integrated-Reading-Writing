@@ -14,11 +14,11 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 
 ```{raw} html
 <p>
-100% = will definitely <br/>
+100% = will definitely
 <div class="color-blue">Cars <b>will definitely</b> become more efficient in the future.</div>
 </p>
 <p>
-90% = will probably <br/>
+90% = will probably
 <div class="color-blue">The next generation <b>will probably</b> use more digital devices.</div>
 </p>
 <p>
@@ -26,11 +26,11 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 <div class-"color-blue">We <b>could possibly</b> see humans walking on Mars soon.</div>
 </p>
 <p>
-20% = probably won't<br/>
-<div class="color-blue">We probably won't have flying cars.</div>
+20% = probably won't
+<div class="color-blue">We <b>probably won't</b> have flying cars.</div>
 </p>
 <p>
-0% = definitely won't<br/>
+0% = definitely won't
 <div class="color-blue">We <b>definitely won't</b> be traveling to other stars.</div>
 </p>
 ````
