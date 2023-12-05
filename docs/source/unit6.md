@@ -20,14 +20,17 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 <div>90% = will probably</div>
 <div class="color-blue">The next generation <b>will probably</b> use more digital devices.</div>
 </div>
+<br/>
 <div>
 <div>50% = could possibly</div>
 <div class="color-blue">We <b>could possibly</b> see humans walking on Mars soon.</div>
 </div>
+<br/>
 <div>
 <div>20% = probably won't</div>
 <div class="color-blue">We <b>probably won't</b> have flying cars.</div>
 </div>
+<br/>
 <div>
 <div>0% = definitely won't</div>
 <div class="color-blue">We <b>definitely won't</b> be traveling to other stars.</div>
