@@ -38,6 +38,16 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 ```
 ````
 
+### Example Sentences
+
+1. In years to come, biofuels **wil definitely** become moreimportant. (100%)
+2. Genetic modification **probably won't** be very controversial before the end of the decade. (30%)
+3. In the near future, electronic human implants **will probably** become very common. (90%)
+4. Biomimicry **will probably** be a growing industry too long. (90%)
+5. Robotic cars **will definitely** next ten years. (100%)
+6. Everyone **won't definitely** own a personal Ironman suit within two years. (0%)
+7. By 2020, many people **could possibly** have a 3D printer in their homes. (50%)
+
 ---
 
 ## Writing An Introductory Paragraph
