@@ -1,6 +1,40 @@
 # Unit 6 - Discovery and Invention
 
+- [Making Predictions With Modals and Adverbs of Certainty](#making-predictions-with-modals-and-adverbs-of-certainty)
 - [Writing an Introductory Paragraph](#writing-an-introductory-paragraph)
+
+---
+
+## Making Predictions With Modals and Adverbs of Certainty
+
+````{admonition} MAKING PREDICTIONS
+:class: important
+
+Use *will*, *could*, and *won't* with an adverb of certainty before the main verb to talk about future predictions. For example:
+
+```{raw}html
+<p>
+100% = will definitely <br/>
+<div class="color-blue">Cars <b>will definitely</b> become more efficient in the future.</div>
+</p>
+<p>
+90% = will probably <br/>
+<div class="color-blue">The next generation <b>will probably</b> use more digital devices.</div>
+</p>
+<p>
+50% = could possibly
+<div class-"color-blue">We <b>could possibly</b> see humans walking on Mars soon.</div>
+</p>
+<p>
+20% = probably won't<br/>
+<div class="color-blue">We probably won't have flying cars.</div>
+</p>
+<p>
+0% = definitely won't<br/>
+<div class="color-blue">We <b>definitely won't</b> be traveling to other stars.</div>
+</p>
+```
+````
 
 ---
 
