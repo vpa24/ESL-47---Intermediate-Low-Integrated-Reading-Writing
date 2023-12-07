@@ -16,7 +16,7 @@ Use relative clauses to give more information about a noun without starting a ne
 ```{raw} html
 <table>
 	<tr>
-		<th rowspan="2">indentify clauses</th>
+		<th colspan="2">indentify clauses</th>
 	</tr>
 	<tr>
 		<td>start with <i>who for people</i> or <i>that for people or things</i></td>
@@ -25,7 +25,7 @@ Use relative clauses to give more information about a noun without starting a ne
 </table>
 <table>
 	<tr>
-		<th rowspan="2">nonindentify clauses</th>
+		<th colspan="2">nonindentify clauses</th>
 	</tr>
 	<tr>
 		<td>start with <i>who for people</i> and <i>which for things</i</td>
