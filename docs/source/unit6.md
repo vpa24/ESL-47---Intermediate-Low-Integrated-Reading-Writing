@@ -8,7 +8,7 @@
 
 ## Relative Clauses (Adjecive Clauses)
 
-````{admonition} MAKING PREDICTIONS
+````{admonition} Relative Clauses (Adjective Clauses)
 :class: important
 
 Use relative clauses to give more information about a noun without starting a new sentence. There are **two kinds of relative clauses: identifying and nonidentifying**. **Identifying clauses give essential information** about the identity of the noun they modify. They are not separated from the rest of the sentence with commas. In contrast, **nonidentifying relative clauses have commas before and sometimes after them. They give extra, nonessential information** about the noun. These clauses can be removed from the sentence, but the identity of the noun will still be clear.
