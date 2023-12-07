@@ -32,9 +32,8 @@ Use relative clauses to give more information about a noun without starting a ne
 		<td>Velcro® was invented in 1941 by George de Mestral. <b>George de Mestral</b> saw the seeds on his dog's hair. -> Velcro® was invented in 1941 by George de Mestral<b>, who</b> <u>saw the seeds on his dog's hair.</u></td>
 	</tr>
 </table>
+```
 ````
-
-`````
 
 ### Example sentences
 
