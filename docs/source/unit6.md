@@ -1,5 +1,6 @@
 # Unit 6 - Discovery and Invention
 
+- [Relative Clauses (Adjecive Clauses)](#relative-clauses--adjecive-clauses-)
 - [Making Predictions With Modals and Adverbs of Certainty](#making-predictions-with-modals-and-adverbs-of-certainty)
 - [Writing an Introductory Paragraph](#writing-an-introductory-paragraph)
 
@@ -50,6 +51,55 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 
 ---
 
+## Relative Clauses (Adjecive Clauses)
+
+````{admonition} MAKING PREDICTIONS
+:class: important
+
+Use relative clauses to give more information about a noun without starting a new sentence. There are **two kinds of relative clauses: identifying and nonidentifying**. **Identifying clauses give essential information** about the identity of the noun they modify. They are not separated from the rest of the sentence with commas. In contrast, **nonidentifying relative clauses have commas before and sometimes after them. They give extra, nonessential information** about the noun. These clauses can be removed from the sentence, but the identity of the noun will still be clear.
+
+```{raw} html
+<table>
+	<tr colspan="2">
+		<th>indentify clauses</th>
+	</tr>
+	<tr>
+		<td>start with <i>who for people</i> or <i>that for people or things</i></td>
+		<td>Velcro® has a unique <b>structure</b>. It allows two strips to stick together. -> Velcro® has a unique structure <b>that</b> <u>allows two strips to stick together.</u></td>
+	</tr>
+</table>
+<table>
+	<tr colspan="2">
+		<th>nonindentify clauses</th>
+	</tr>
+	<tr>
+		<td>start with *who for people* and *which for things*</td>
+		<td>Velcro® was invented in 1941 by George de Mestral. <b>George de Mestral</b> saw the seeds on his dog's hair. -> Velcro® was invented in 1941 by George de Mestral<b>, who</b> <u>saw the seeds on his dog's hair.</u></td>
+	</tr>
+</table>
+````
+
+`````
+
+### Example sentences
+
+<ol>
+	<li>Scientists have already developed new robots. New robots are able to do dangerous work.</li>
+	<div class="ml-2em">
+	Scientists have already developed new robots <b>, which</b> are able to do dangerous work.
+	</div>
+	<li>There is a great deal of technology to help elderly people. Elderly people may have trouble doing some tasks by themselves.</li>
+	<div class="ml-2em">There is a great deal of technology to help elderly people <b>who</b> may have trouble doing some tasks by themselves.</div>
+	<li>There is a huge amount of new investment in biofuels. Biofuels are cleaner and more sustainable than fossil fuels.</li>
+	<div class="ml-2em">There is a huge amount of new investment in biofuels<b>, which</b> are cleaner and more sustainable than fossil fuels.</div>
+	<li>The Bionic Car has a special design. A special design makes it more fuel efficient.</li>
+	<div class="ml-2em">The Bionic Car has a special design<b>, which</b> makes it more fuel efficient.</div>
+	<li>Important research is being done by scientists at the University of Cambridge. Scientists at the University of Cambridge hope to publish its results next year.</li>
+	<div class="ml-2em">Important research is being done by scientists at the University of Cambridge<b>, who</b> hope to publish its results next year.</div>
+</ol>
+
+---
+
 ## Writing An Introductory Paragraph
 
 ````{admonition} WRITING AN INTRODUCTORY PARAGRAPH
@@ -69,4 +119,4 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 additional problems, such as congestion in the air and pollution.</p>
 
 <p>This thesis statement informs the reader that the topic, flying cars, will be followed by both advantages and disadvantages of flying cars.</p>
-````
+`````
