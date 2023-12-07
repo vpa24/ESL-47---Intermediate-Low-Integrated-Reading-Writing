@@ -15,8 +15,8 @@ Use relative clauses to give more information about a noun without starting a ne
 
 ```{raw} html
 <table>
-	<tr rowspan="2">
-		<th>indentify clauses</th>
+	<tr>
+		<th rowspan="2">indentify clauses</th>
 	</tr>
 	<tr>
 		<td>start with <i>who for people</i> or <i>that for people or things</i></td>
@@ -24,11 +24,11 @@ Use relative clauses to give more information about a noun without starting a ne
 	</tr>
 </table>
 <table>
-	<tr rowspan="2">
-		<th>nonindentify clauses</th>
+	<tr>
+		<th rowspan="2">nonindentify clauses</th>
 	</tr>
 	<tr>
-		<td>start with *who for people* and *which for things*</td>
+		<td>start with <i>who for people</i> and <i>which for things</i</td>
 		<td>Velcro® was invented in 1941 by George de Mestral. <b>George de Mestral</b> saw the seeds on his dog's hair. -> Velcro® was invented in 1941 by George de Mestral<b>, who</b> <u>saw the seeds on his dog's hair.</u></td>
 	</tr>
 </table>
@@ -118,4 +118,4 @@ Use *will*, *could*, and *won't* with an adverb of certainty before the main ver
 additional problems, such as congestion in the air and pollution.</p>
 
 <p>This thesis statement informs the reader that the topic, flying cars, will be followed by both advantages and disadvantages of flying cars.</p>
-`````
+````
