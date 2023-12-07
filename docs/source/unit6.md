@@ -14,7 +14,7 @@
 Use relative clauses to give more information about a noun without starting a new sentence. There are **two kinds of relative clauses: identifying and nonidentifying**. **Identifying clauses give essential information** about the identity of the noun they modify. They are not separated from the rest of the sentence with commas. In contrast, **nonidentifying relative clauses have commas before and sometimes after them. They give extra, nonessential information** about the noun. These clauses can be removed from the sentence, but the identity of the noun will still be clear.
 
 ```{raw} html
-<table>
+<table class="color-blue">
 	<tr>
 		<th colspan="2" class="text-center">indentify clauses</th>
 	</tr>
@@ -23,7 +23,7 @@ Use relative clauses to give more information about a noun without starting a ne
 		<td>Velcro® has a unique <b>structure</b>. It allows two strips to stick together. -> Velcro® has a unique structure <b>that</b> <u>allows two strips to stick together.</u></td>
 	</tr>
 </table>
-<table>
+<table class="color-blue">
 	<tr>
 		<th colspan="2" class="text-center">nonindentify clauses</th>
 	</tr>
