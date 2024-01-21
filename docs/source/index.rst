@@ -17,10 +17,6 @@ Contents
    unit5.md
    unit6.md
 
-.. note::
-
-   This project is under active development 💪😏. If you have any questions or find any mistakes, please email me at: phuonganhvu497@gmail.com 😄😎.
-
 .. raw:: html
    
    <div class="text">Hello Friends 👋✌️</div>
