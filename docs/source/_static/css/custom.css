@@ -36,6 +36,10 @@ em {
   color: #b25567;
 }
 
+p {
+  font-size: 1.1em !important;
+}
+
 .center h2,
 .center h3 {
   text-align: center;
