@@ -26,7 +26,7 @@ Contents
 .. image:: _static/images/IMG_3592.GIF
    :align: center
 
-.. image:: _static/images/5622342.jpg
+.. image:: _static/images/86ge9f.jpg
    :align: center
 
 .. image:: _static/images/IMG_3795.AVIF.jpg
