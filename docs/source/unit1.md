@@ -8,7 +8,7 @@
 - [Comparative Adjectives](#comparative-adjectives)
 - [Compare and Contrast](#compare-and-contrast)
   - [Compare and contrast using Venn diagram](#compare-and-contrast-using-venn-diagram)
-  - [Example Paragraphs: 2 Similarities + 2 Differences](#example-paragraphs-2-similarities-2-differences)
+  - [Example Paragraphs: 2 Similarities + 2 Differences](#example-sentences-paragraphs-2-similarities-2-differences)
 - [Topic sentences](#topic-sentences)
 - [Word Order](#word-order)
 - [Combing Sentences](#combing-sentences)
