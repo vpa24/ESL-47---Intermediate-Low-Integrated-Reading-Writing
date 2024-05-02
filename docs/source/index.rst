@@ -32,7 +32,7 @@ Contents
 .. image:: _static/images/IMG_3795.AVIF.jpg
    :align: center
 
-.. image:: _static/images/Robert Downey Jr Meme.jpg
+.. image:: _static/images/Robert_Downey_Jr_Meme.jpg
    :align: center
 
 .. image:: _static/images/859i2l.jpg
