@@ -43,7 +43,7 @@
 4. **nutritional** (adj) relating to food and the way it affects your health
 5. **obesity** (n) the condition of being extremely overweight
 6. **portion** (n) an amount of food served to one person
-7. **rainforest** (n) a forest in a tropical area that gets a lot of rain -->
+7. **rainforest** (n) a forest in a tropical area that gets a lot of rain
 
 #### Example Sentences
 
